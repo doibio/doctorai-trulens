@@ -1,48 +1,25 @@
 import os
-import sys
-
-os.environ["OPENAI_API_KEY"] = "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"
-
-from openai import OpenAI
-oai_client = OpenAI()
-
-def read_file(filename):
-    """Reads the content of a file and returns it."""
-    try:
-        with open(filename, 'r') as file:
-            return file.read()
-    except FileNotFoundError:
-        return "File not found."
-
-if len(sys.argv) != 2:
-    print("Usage: script.py <filename>")
-else:
-    filename = sys.argv[1]
-    university_info = read_file(filename)
-    print(university_info)    
-
-oai_client.embeddings.create(
-        model="text-embedding-ada-002",
-        input=university_info
-    )
-
 import chromadb
 from chromadb.utils.embedding_functions import OpenAIEmbeddingFunction
 from openai import OpenAI
+from trulens_eval import Tru
+from trulens_eval.tru_custom_app import instrument
+from trulens_eval import Feedback, Select
+from trulens_eval.feedback import Groundedness
+from trulens_eval.feedback.provider.openai import OpenAI as fOpenAI
+import numpy as np
+from trulens_eval import TruCustomApp
+
+os.environ["OPENAI_API_KEY"] = "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"
+
 oai_client = OpenAI()
 
-embedding_function = OpenAIEmbeddingFunction(api_key=os.environ.get('OPENAI_API_KEY'),
-                                             model_name="text-embedding-ada-002")
+embedding_function = OpenAIEmbeddingFunction(api_key=os.environ.get('OPENAI_API_KEY'), model_name="text-embedding-ada-002")
 
 chroma_client = chromadb.PersistentClient(path="./chromadb")
 
-vector_store = chroma_client.get_or_create_collection(name="Universities",
-                                                      embedding_function=embedding_function)
+vector_store = chroma_client.get_or_create_collection(name="Universities", embedding_function=embedding_function)
 
-vector_store.add("uni_info", documents=university_info)
-
-from trulens_eval import Tru
-from trulens_eval.tru_custom_app import instrument
 tru = Tru()
 
 class RAG_from_scratch:
@@ -85,20 +62,12 @@ class RAG_from_scratch:
         completion = self.generate_completion(query, context_str)
         return completion
 
-rag = RAG_from_scratch()
+rag = RAG_from_scratc h()
 
-from trulens_eval import Feedback, Select
-from trulens_eval.feedback import Groundedness
-from trulens_eval.feedback.provider.openai import OpenAI as fOpenAI
-
-import numpy as np
-
-# Initialize provider class
 fopenai = fOpenAI()
 
 grounded = Groundedness(groundedness_provider=fopenai)
 
-# Define a groundedness feedback function
 f_groundedness = (
     Feedback(grounded.groundedness_measure_with_cot_reasons, name = "Groundedness")
     .on(Select.RecordCalls.retrieve.rets.collect())
@@ -106,14 +75,12 @@ f_groundedness = (
     .aggregate(grounded.grounded_statements_aggregator)
 )
 
-# Question/answer relevance between overall question and answer.
 f_qa_relevance = (
     Feedback(fopenai.relevance_with_cot_reasons, name = "Answer Relevance")
     .on(Select.RecordCalls.retrieve.args.query)
     .on_output()
 )
 
-# Question/statement relevance between question and each context chunk.
 f_context_relevance = (
     Feedback(fopenai.qs_relevance_with_cot_reasons, name = "Context Relevance")
     .on(Select.RecordCalls.retrieve.args.query)
@@ -121,20 +88,33 @@ f_context_relevance = (
     .aggregate(np.mean)
 )
 
-from trulens_eval import TruCustomApp
-tru_rag = TruCustomApp(rag,
-    app_id = filename,
-    feedbacks = [f_groundedness, f_qa_relevance, f_context_relevance])
+def run_rag(filename,university_info):
+    print("------------------------------")
+    print(content)
+    oai_client.embeddings.create(
+        model="text-embedding-ada-002",
+        input=university_info
+    )
+    vector_store = chroma_client.get_or_create_collection(name="Universities", embedding_function=embedding_function)
 
-with tru_rag as recording:
-    rag.query("Can metformin help me live longer?")
+    vector_store.add("uni_info", documents=university_info)
+    tru_rag = TruCustomApp(rag, app_id = filename, feedbacks = [f_groundedness, f_qa_relevance, f_context_relevance])
 
-a = tru.get_leaderboard(app_ids=[filename])
-print("----------")
-print(a)
-print("----------")
+    with tru_rag as recording:
+        rag.query("Is metformin capable of increasing lifespan?")
 
+    chroma_client.delete_collection("Universities")
+
+# main 
 tru.run_dashboard()
 
-chroma_client.delete_collection("Universities")
+directory = 'edirectm'
+
+for filename in os.listdir(directory):
+    if filename.endswith(".txt"):
+        file_path = os.path.join(directory, filename)
+        with open(file_path, 'r') as file:
+            content = file.read()
+            run_rag(filename,content)
+            
 
