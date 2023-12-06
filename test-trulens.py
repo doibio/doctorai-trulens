@@ -1,38 +1,25 @@
 import os
-os.environ["OPENAI_API_KEY"] = "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"
-
-from openai import OpenAI
-oai_client = OpenAI()
-
-university_info = """
-The University of Washington, founded in 1861 in Seattle, is a public research university
-with over 45,000 students across three campuses in Seattle, Tacoma, and Bothell.
-As the flagship institution of the six public universities in Washington state,
-UW encompasses over 500 buildings and 20 million square feet of space,
-including one of the largest library systems in the world.
-"""
-
-oai_client.embeddings.create(
-        model="text-embedding-ada-002",
-        input=university_info
-    )
-
 import chromadb
 from chromadb.utils.embedding_functions import OpenAIEmbeddingFunction
 from openai import OpenAI
-oai_client = OpenAI()
-
-embedding_function = OpenAIEmbeddingFunction(api_key=os.environ.get('OPENAI_API_KEY'),
-                                             model_name="text-embedding-ada-002")
-
-chroma_client = chromadb.PersistentClient(path="./chromadb")
-vector_store = chroma_client.get_or_create_collection(name="Universities",
-                                                      embedding_function=embedding_function)
-
-vector_store.add("uni_info", documents=university_info)
-
 from trulens_eval import Tru
 from trulens_eval.tru_custom_app import instrument
+from trulens_eval import Feedback, Select
+from trulens_eval.feedback import Groundedness
+from trulens_eval.feedback.provider.openai import OpenAI as fOpenAI
+import numpy as np
+from trulens_eval import TruCustomApp
+
+os.environ["OPENAI_API_KEY"] = "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"
+
+oai_client = OpenAI()
+
+embedding_function = OpenAIEmbeddingFunction(api_key=os.environ.get('OPENAI_API_KEY'), model_name="text-embedding-ada-002")
+
+chroma_client = chromadb.PersistentClient(path="./chromadb")
+
+vector_store = chroma_client.get_or_create_collection(name="Universities", embedding_function=embedding_function)
+
 tru = Tru()
 
 class RAG_from_scratch:
@@ -77,18 +64,10 @@ class RAG_from_scratch:
 
 rag = RAG_from_scratch()
 
-from trulens_eval import Feedback, Select
-from trulens_eval.feedback import Groundedness
-from trulens_eval.feedback.provider.openai import OpenAI as fOpenAI
-
-import numpy as np
-
-# Initialize provider class
 fopenai = fOpenAI()
 
 grounded = Groundedness(groundedness_provider=fopenai)
 
-# Define a groundedness feedback function
 f_groundedness = (
     Feedback(grounded.groundedness_measure_with_cot_reasons, name = "Groundedness")
     .on(Select.RecordCalls.retrieve.rets.collect())
@@ -96,14 +75,12 @@ f_groundedness = (
     .aggregate(grounded.grounded_statements_aggregator)
 )
 
-# Question/answer relevance between overall question and answer.
 f_qa_relevance = (
     Feedback(fopenai.relevance_with_cot_reasons, name = "Answer Relevance")
     .on(Select.RecordCalls.retrieve.args.query)
     .on_output()
 )
 
-# Question/statement relevance between question and each context chunk.
 f_context_relevance = (
     Feedback(fopenai.qs_relevance_with_cot_reasons, name = "Context Relevance")
     .on(Select.RecordCalls.retrieve.args.query)
@@ -111,16 +88,33 @@ f_context_relevance = (
     .aggregate(np.mean)
 )
 
-from trulens_eval import TruCustomApp
-tru_rag = TruCustomApp(rag,
-    app_id = 'RAG v1',
-    feedbacks = [f_groundedness, f_qa_relevance, f_context_relevance])
+def run_rag(filename,university_info):
+    print("------------------------------")
+    print(content)
+    oai_client.embeddings.create(
+        model="text-embedding-ada-002",
+        input=university_info
+    )
+    vector_store = chroma_client.get_or_create_collection(name="Universities", embedding_function=embedding_function)
 
-with tru_rag as recording:
-    rag.query("Is metformin capable of increasing lifespan?")
+    vector_store.add("uni_info", documents=university_info)
+    tru_rag = TruCustomApp(rag, app_id = filename, feedbacks = [f_groundedness, f_qa_relevance, f_context_relevance])
 
-tru.get_leaderboard(app_ids=["RAG v1"])
+    with tru_rag as recording:
+        rag.query("Is metformin capable of increasing lifespan?")
 
+    chroma_client.delete_collection("Universities")
+
+# main 
 tru.run_dashboard()
 
+directory = 'edirectm'
+
+for filename in os.listdir(directory):
+    if filename.endswith(".txt"):
+        file_path = os.path.join(directory, filename)
+        with open(file_path, 'r') as file:
+            content = file.read()
+            run_rag(filename,content)
+            
 
