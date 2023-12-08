@@ -1,0 +1,68 @@
+1. J Sport Health Sci. 2023 Jan;12(1):8-35. doi: 10.1016/j.jshs.2022.10.003. Epub
+ 2022 Oct 29.
+
+Exercise sustains the hallmarks of health.
+
+Qiu Y(1), Fernández-García B(2), Lehmann HI(3), Li G(3), Kroemer G(4), 
+López-Otín C(5), Xiao J(6).
+
+Author information:
+(1)Institute of Geriatrics (Shanghai University), Affiliated Nantong Hospital of 
+Shanghai University (The Sixth People's Hospital of Nantong), School of 
+Medicine, Shanghai University, Nantong 226011, China; Cardiac Regeneration and 
+Ageing Lab, Institute of Cardiovascular Sciences, Shanghai Engineering Research 
+Center of Organ Repair, School of Life Science, Shanghai University, Shanghai 
+200444, China.
+(2)Health Research Institute of the Principality of Asturias (ISPA), Oviedo 
+33011, Spain; Department of Morphology and Cell Biology, Anatomy, University of 
+Oviedo, Oviedo 33006, Spain.
+(3)Cardiovascular Division of the Massachusetts General Hospital and Harvard 
+Medical School, Boston, MA 02114, USA.
+(4)Centre de Recherche des Cordeliers, Equipe labellisée par la Ligue contre le 
+cancer, Université de Paris Cité, Sorbonne Université, Inserm U1138, Institut 
+Universitaire de France, Paris 75231, France; Metabolomics and Cell Biology 
+Platforms, Institut Gustave Roussy, Villejuif 94805, France; Institut du Cancer 
+Paris CARPEM, Department of Biology, Hôpital Européen Georges Pompidou, AP-HP, 
+Paris 75015, France. Electronic address: kroemer@orange.fr.
+(5)Departamento de Bioquímica y Biología Molecular, Facultad de Medicina, 
+Instituto Universitario de Oncología, Universidad de Oviedo, Oviedo 33006, 
+Spain; Centro de Investigación Biomédica en Red Enfermedades Cáncer (CIBERONC), 
+Oviedo 33006, Spain. Electronic address: clo@uniovi.es.
+(6)Institute of Geriatrics (Shanghai University), Affiliated Nantong Hospital of 
+Shanghai University (The Sixth People's Hospital of Nantong), School of 
+Medicine, Shanghai University, Nantong 226011, China; Cardiac Regeneration and 
+Ageing Lab, Institute of Cardiovascular Sciences, Shanghai Engineering Research 
+Center of Organ Repair, School of Life Science, Shanghai University, Shanghai 
+200444, China. Electronic address: Junjiexiao@shu.edu.cn.
+
+Exercise has long been known for its active role in improving physical fitness 
+and sustaining health. Regular moderate-intensity exercise improves all aspects 
+of human health and is widely accepted as a preventative and therapeutic 
+strategy for various diseases. It is well-documented that exercise maintains and 
+restores homeostasis at the organismal, tissue, cellular, and molecular levels 
+to stimulate positive physiological adaptations that consequently protect 
+against various pathological conditions. Here we mainly summarize how 
+moderate-intensity exercise affects the major hallmarks of health, including the 
+integrity of barriers, containment of local perturbations, recycling and 
+turnover, integration of circuitries, rhythmic oscillations, homeostatic 
+resilience, hormetic regulation, as well as repair and regeneration. 
+Furthermore, we summarize the current understanding of the mechanisms 
+responsible for beneficial adaptations in response to exercise. This review 
+aimed at providing a comprehensive summary of the vital biological mechanisms 
+through which moderate-intensity exercise maintains health and opens a window 
+for its application in other health interventions. We hope that continuing 
+investigation in this field will further increase our understanding of the 
+processes involved in the positive role of moderate-intensity exercise and thus 
+get us closer to the identification of new therapeutics that improve quality of 
+life.
+
+Copyright © 2022. Production and hosting by Elsevier B.V.
+
+DOI: 10.1016/j.jshs.2022.10.003
+PMCID: PMC9923435
+PMID: 36374766 [Indexed for MEDLINE]
+
+Conflict of interest statement: GK has held research contracts with Daiichi 
+Sankyo, Eleor, Kaleido, Lytix Pharma, PharmaMar, Osasuna Therapeutics, Samsara 
+Therapeutics, Sanofi, Sotio, Tollys, Vascage, and Vasculox/Tioma. GK has 
+consulted for Reithera and is on the Board of Directors

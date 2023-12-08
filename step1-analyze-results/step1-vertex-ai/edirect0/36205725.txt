@@ -1,0 +1,43 @@
+1. Int Urogynecol J. 2023 May;34(5):963-977. doi: 10.1007/s00192-022-05375-3.
+Epub  2022 Oct 7.
+
+Effect of exercise on female pelvic floor morphology and muscle function: a 
+systematic review.
+
+Menezes EC(1), da Silva Pereira F(2), Porto RM(3), Fank F(3), Mazo GZ(3).
+
+Author information:
+(1)Institute Of Physical Education and Sport, Federal University of Alagoas, 
+Maceió, AL, Brazil.
+(2)Gerontology Laboratory, State University of Santa Catarina, Street Pascoal 
+Simone, 358, Coqueiros, Florianopolis, SC, CEP: 88080-350, Brazil. 
+francielepereira.fisio@gmail.com.
+(3)Gerontology Laboratory, State University of Santa Catarina, Street Pascoal 
+Simone, 358, Coqueiros, Florianopolis, SC, CEP: 88080-350, Brazil.
+
+Erratum in
+    Int Urogynecol J. 2023 Mar 24;:
+
+INTRODUCTION AND HYPOTHESIS: The objective was to synthesize the scientific 
+evidence on the relationship of exercise with morphology and muscle function 
+parameters of the female pelvic floor. The design was a systematic review.
+METHODS: Searches were performed in MEDLINE, PubMed, CINAHL, Web of Science, 
+SCOPUS, SportDiscuss, and Google Scholar up to April 2021. Observational and 
+experimental studies evaluating the morphology and/or function of the pelvic 
+floor muscles (PFMs) in women were eligible. Studies reporting exercise or 
+sports disciplines as exposure/intervention were included.
+RESULTS: Twenty-five studies were included. Compared with the control group, 
+women performing vigorous and high-impact exercises exhibited lower maximum 
+voluntary contraction of the PFM and those performing moderate exercise had 
+better maximum voluntary contraction. Exercise practitioners had a larger hiatal 
+area at rest, during contraction, and during Valsalva, and greater bladder neck 
+descent than the control group.
+CONCLUSIONS: The results of this review demonstrate an inverse relationship of 
+PFM maximum voluntary contraction with exercise intensity. Qualitative synthesis 
+showed that the studies found favorable outcomes for the control group in terms 
+of hiatal area during contraction and Valsalva and bladder neck displacement.
+
+© 2022. The International Urogynecological Association.
+
+DOI: 10.1007/s00192-022-05375-3
+PMID: 36205725 [Indexed for MEDLINE]

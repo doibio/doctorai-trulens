@@ -1,0 +1,63 @@
+1. Wien Klin Wochenschr. 2023 Mar;135(5-6):142-150. doi: 
+10.1007/s00508-021-01954-4. Epub 2021 Oct 18.
+
+Body mass index categories and anxiety symptoms among adults aged ≥ 50 years 
+from low and middle income countries.
+
+Smith L(1), Pizzol D(2), López-Sánchez GF(3), Oh H(4), Jacob L(5)(6), Yang L(7), 
+Veronese N(8), Soysal P(9), McDermott D(10), Barnett Y(11), Butler L(11), 
+Koyanagi A(5)(12).
+
+Author information:
+(1)The Cambridge Center for Sport and Exercise Sciences, Anglia Ruskin 
+University, CB1 1PT, Cambridge, UK. lee.smith@aru.ac.uk.
+(2)Italian Agency for Development Cooperation-Khartoum, Khartoum, Sudan.
+(3)Vision and Eye Research Institute, School of Medicine, Faculty of Health, 
+Education, Medicine and Social Care, Anglia Ruskin University, Cambridge, UK.
+(4)Suzanne Dworak Peck School of Social Work, University of Southern California, 
+1149 South Hill Street Suite 1422, 90015, Los Angeles, CA, USA.
+(5)Research and Development Unit, Parc Sanitari Sant Joan de Déu, CIBERSAM, Dr. 
+Antoni Pujadas, 42, Sant Boi de Llobregat, 08830, Barcelona, Spain.
+(6)Faculty of Medicine, University of Versailles Saint-Quentin-en-Yvelines, 
+78180, Montigny-le-Bretonneux, France.
+(7)Department of Cancer Epidemiology and Prevention Research, University of 
+Calgary, Calgary, Alberta, Canada.
+(8)Department of Medicine, Geriatrics Section, University of Palermo, Palermo, 
+Italy.
+(9)Department of Geriatric Medicine, Faculty of Medicine, Bezmialem Vakif 
+University, Istanbul, Turkey.
+(10)School of Social Sciences, Nottingham Trent University, 50 Shakespeare St, 
+NG1 4FQ, Nottingham, UK.
+(11)Faculty of Science and Engineering, Anglia Ruskin University, CB1 1PT, 
+Cambridge, UK.
+(12)ICREA, Pg. Lluis Companys 23, 08010, Barcelona, Spain.
+
+BACKGROUND: Body weight may be a risk factor for anxiety; however, there is 
+a scarcity of studies on this association in older adults especially from low 
+and middle income countries (LMICs). Therefore, we investigated the association 
+between body mass index (BMI) and anxiety symptoms among adults aged ≥ 50 years 
+from 6 LMICs.
+METHODS: Cross-sectional, community-based, nationally representative data from 
+the World Health Organization (WHO) Study on global AGEing and adult health 
+(SAGE) were analyzed. The BMI was based on measured weight and height and was 
+categorized as: < 18.5 kg/m2 (underweight), 18.5-24.9 kg/m2 (normal weight), 
+25.0-29.9 kg/m2 (overweight), 30.0-34.9 kg/m2 (obesity class I), 35.0-39.9 kg/m2 
+(obesity class II), and ≥ 40 kg/m2 (obesity class III). Anxiety symptoms 
+referred to severe/extreme problems with worry or anxiety in the past 30 days. 
+Multivariable logistic regression analysis was conducted.
+RESULTS: Data on 34,129 individuals aged ≥ 50 years (mean age 62.4 years, SD 
+16.0 years; 52.1% female) were analyzed. Overall, compared to normal weight, 
+only underweight was significantly associated with anxiety symptoms (odds ratio, 
+OR = 1.56; 95% confidence interval, CI = 1.26-1.95). Obesity class III (vs. 
+normal weight) was associated with significantly increased odds for anxiety 
+symptoms (OR = 4.15; 95%CI = 1.49-11.59) only among males.
+CONCLUSION: In this large representative sample of older adults from LMICs, 
+underweight was associated with anxiety symptoms in males and females. Class III 
+obesity was associated with anxiety symptoms only in males. Future studies to 
+shed light on the reason why severe obesity was associated with anxiety symptoms 
+only among males in LMICs are needed.
+
+© 2021. Springer-Verlag GmbH Austria, part of Springer Nature.
+
+DOI: 10.1007/s00508-021-01954-4
+PMID: 34661741 [Indexed for MEDLINE]

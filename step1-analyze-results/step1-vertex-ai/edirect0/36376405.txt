@@ -1,0 +1,53 @@
+1. Eur J Clin Nutr. 2023 Mar;77(3):393-399. doi: 10.1038/s41430-022-01237-9. Epub
+ 2022 Nov 14.
+
+Skeletal muscle mass can be estimated by creatine (methyl-d(3)) dilution and is 
+correlated with fat-free mass in active young males.
+
+Sagayama H(1), Yamada Y(2), Kondo E(3)(4), Tanabe Y(3)(4), Uchizawa A(4)(5), 
+Shankaran M(6), Nyangau E(6), Evans WJ(6)(7), Hellerstein M(6), Yasukata J(8), 
+Higaki Y(8), Ohnishi T(9), Takahashi H(3)(9).
+
+Author information:
+(1)Faculty of Health and Sport Sciences, University of Tsukuba, Ibaraki, Japan. 
+sagayama.hiroyuki.ka@u.tsukuba.ac.jp.
+(2)National Institute of Health and Nutrition, National Institutes of Biomedical 
+Innovation, Health and Nutrition, Tokyo, Japan.
+(3)Faculty of Health and Sport Sciences, University of Tsukuba, Ibaraki, Japan.
+(4)Japan Society for the Promotion of Science, Tokyo, Japan.
+(5)Graduate School of Comprehensive Human Science, University of Tsukuba, 
+Ibaraki, Japan.
+(6)Department of Nutritional Sciences and Toxicology, University of California, 
+Berkeley, CA, USA.
+(7)Department of Medicine, Division of Geriatrics, Duke University Medical 
+Center, Durham, NC, USA.
+(8)Faculty of Sports and Health Science, Fukuoka University, Fukuoka, Japan.
+(9)Japan Institute of Sports Sciences, Tokyo, Japan.
+
+BACKGROUND: Assessing whole-body skeletal muscle mass (SMM) and fat-free mass 
+(FFM) is essential for the adequate nutritional management and training 
+evaluation of athletes and trained individuals. This study aimed to determine 
+the relationship between SMM assessed using the creatine (methyl-d3) dilution 
+(D3-creatine) method and SMM estimated by whole-body magnetic resonance imaging 
+(MRI) in healthy young men undergoing exercise training. Additionally, we 
+examined the association between FFM measured using the four-component (4C) 
+method (FFM4C) and the total body protein value estimated using 4C (TBpro4C).
+METHODS AND RESULTS: We analyzed the data of 29 males (mean age, 19.9 ± 1.8 
+years) who exercised regularly. SMM measurements were obtained using the 
+D3-creatine method (SMMD3-creatine) and MRI (SMMMRI). The SMMD3-creatine 
+adjusted to 4.3 g/SMM kg was significantly higher than SMMMRI (p < 0.01). The 
+fit of the creatine pool size compared with SMMMRI was 5.0 g/SMMMRI kg. SMMMRI 
+was significantly correlated with both SMMD3-creatine adjusted to 4.3 g/kg and 
+5.1 g/kg. TBpro4C was significantly lower than SMMMRI (p < 0.01). Contrastingly, 
+FFM4C was significantly higher than SMMMRI (p < 0.01).
+CONCLUSIONS: SMMD3-creatine adjusted to 4.3 g/SMM kg-a previously reported 
+value-may differ for athletes and active young males. We believe that a value of 
+5.0-5.1 g/SMM kg better estimates the total muscle mass in this population. 
+Traditional FFM estimation highly correlates with SMMMRI in well-trained young 
+males, and the relationships appear strong enough for total body protein or SMM 
+to be estimated through the FFM value.
+
+© 2022. The Author(s), under exclusive licence to Springer Nature Limited.
+
+DOI: 10.1038/s41430-022-01237-9
+PMID: 36376405 [Indexed for MEDLINE]

@@ -1,0 +1,57 @@
+1. Aging Clin Exp Res. 2023 Jan;35(1):101-106. doi: 10.1007/s40520-022-02276-9. 
+Epub 2022 Oct 21.
+
+Executive dysfunction and effectiveness of physical program in older adults: 
+which association?
+
+Couturier C(#)(1), Rincé G(#)(1), Chapelet G(1), Berrut G(1)(2), Montero-Odasso 
+M(3)(4)(5), Deschamps T(6).
+
+Author information:
+(1)Clinical Gerontology Department, Centre Hospitalier Universitaire de Nantes, 
+44000, Nantes, France.
+(2)Nantes Université, CHU Nantes, Movement - Interactions - Performance, MIP, 
+(E.A. 4334), UR 4334, 44000, Nantes, France.
+(3)Gait and Brain Lab, Parkwood Institute, Lawson Health Research Institute, 
+London, ON, Canada.
+(4)Schulich School of Medicine and Dentistry, Department of Medicine and 
+Division of Geriatric Medicine, The University of Western Ontario, London, ON, 
+Canada.
+(5)Department of Epidemiology and Biostatistics, The University of Western 
+Ontario, London, ON, Canada.
+(6)Nantes Université, CHU Nantes, Movement - Interactions - Performance, MIP, 
+(E.A. 4334), UR 4334, 44000, Nantes, France. thibault.deschamps@univ-nantes.fr.
+(#)Contributed equally
+
+BACKGROUND: Little is known about the association between executive function and 
+the magnitude of improvement from personalised exercise interventions on gait 
+performance among older-old adults.
+AIM: We examined whether the effectiveness of personalised intervention on gait 
+performance is dependent on the patient's baseline dysexecutive syndrome, as 
+assessed by the Frontal Assessment Battery.
+METHODS: A total of 175 older community-dwellers (83.57 ± 5.2 years; 70.2% 
+female) were recruited from the day centre for after-care and rehabilitation in 
+the Nantes Ambulatory Centre of the Clinical Gerontology (France), and were 
+followed during a pre-post-intervention, single-arm retrospective design. The 
+intervention consisted of an individual personalised rehabilitation program over 
+a period of 7 weeks, with twice-weekly sessions (45 min each). Gait speed in 
+four conditions (preferred, fast, and under two dual-task conditions), Timed Up 
+and Go test, and handgrip strength test were assessed.
+RESULTS: Using a pre-post analysis of covariance, a significant increase in 
+dual-task gait speed while counting (+ 0.10 m/s; + 15%) and in dual-fluency gait 
+speed (+ 0.06 m/s; + 10%), and in Timed Up and Go performance (- 2.9 s; + 17.8%) 
+was observed after the rehabilitation program, regardless the baseline executive 
+status.
+DISCUSSION: An individual personalized intervention is effective to improve 
+mobility performance and the dual-task gait speed in older-old adults. The 
+magnitude of those effects is independent of the patient's baseline 
+characteristics including the executive function status.
+CONCLUSIONS: Even the most deficient baseline characteristics of patients should 
+not be viewed as clinical barrier for implementing a beneficial individual 
+intervention in high-risk older adults.
+
+© 2022. The Author(s), under exclusive licence to Springer Nature Switzerland 
+AG.
+
+DOI: 10.1007/s40520-022-02276-9
+PMID: 36269549 [Indexed for MEDLINE]

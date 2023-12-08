@@ -1,0 +1,56 @@
+1. Gerontology. 2023;69(2):201-211. doi: 10.1159/000526297. Epub 2022 Sep 29.
+
+Investigating the Link between Later-Life Brain Volume and Cardiorespiratory 
+Fitness after Mild Traumatic Brain Injury Exposure.
+
+Markovic SJ(1)(2), Hellewell SC(3)(4), Doré V(5)(6), Xia Y(5), Scott BR(1)(7), 
+Peiffer JJ(1)(7), Fitzgerald M(3)(4), Brown BM(1)(2)(8).
+
+Author information:
+(1)Centre for Healthy Ageing, Health Futures Institute, Murdoch University, 
+Perth, Washington, Australia.
+(2)Australian Alzheimer's Research Foundation, Sarich Neuroscience Research 
+Institute, Nedlands, Washington, Australia.
+(3)Curtin Health Innovation Research Institute, Sarich Neuroscience Research 
+Institute Building, Nedlands, Washington, Australia.
+(4)Perron Institute for Neurological and Translational Science, Sarich 
+Neuroscience Research Institute Building, Nedlands, Washington, Australia.
+(5)The Australian e-Health Research Centre, CSIRO Health and Biosecurity, 
+Brisbane, Queensland, Australia.
+(6)Department of Molecular Imaging and Therapy, Austin Health, Heidelberg, 
+Victoria, Australia.
+(7)Murdoch Applied Sports Science Laboratory, Discipline of Exercise Science, 
+Murdoch University, Perth, Washington, Australia.
+(8)School of Medical and Health Sciences, Edith Cowan University, Joondalup, 
+Washington, Australia.
+
+INTRODUCTION: Evidence suggests that maintaining a higher level of 
+cardiorespiratory fitness (CRF) later in life can offer some protection against 
+brain volume loss as we age. By contrast, mild traumatic brain injury (mTBI) 
+could accelerate age-related cortical atrophy. The current study sought to 
+examine whether variations in the CRF level modified the association between 
+mTBI history and brain volumetric measures in a sample of older adults.
+METHODS: Seventy-nine community-dwelling older adults (mean age 68.7 ± 4.3 
+years, 54.4% female) were assessed for their mTBI history: 25 participants (32%) 
+reported sustaining at least one lifetime mTBI. Participants also underwent a 
+CRF assessment and magnetic resonance imaging (MRI) to obtain global and 
+region-of-interest volumes.
+RESULTS: Analysis of covariance, controlling for age, sex, education, and 
+apolipoprotein (APOE) ε4 allele carriage, revealed that participants with a 
+history of mTBI had a significantly larger total mean grey matter volume (582.21 
+± 12.46 cm3) in comparison to participants with no mTBI history (571.08 ± 17.21 
+cm3, p = 0.01 after correction for multiple comparisons). However, no 
+differences between groups based on mTBI history were found for total white 
+matter volume or in any other cortical or subcortical structures examined. A 
+subsequent moderation analysis found that CRF was predominantly non-influential 
+on the association between mTBI history and the MRI-quantified measures of brain 
+volume.
+CONCLUSION: While unexpected, the findings suggest that a history of mTBI can 
+lead to grey matter alterations in the ageing brain. However, concurrent 
+variations in the CRF level did not influence the differences in brain volume 
+found based on mTBI exposure status.
+
+© 2022 S. Karger AG, Basel.
+
+DOI: 10.1159/000526297
+PMID: 36174542 [Indexed for MEDLINE]

@@ -1,0 +1,67 @@
+1. J Gerontol A Biol Sci Med Sci. 2023 Jul 8;78(7):1292-1299. doi: 
+10.1093/gerona/glac194.
+
+The Association Between Midlife Leisure-Time Physical Activity and Hearing Loss 
+in Late Life in the Atherosclerosis Risk in Communities Study.
+
+Martinez-Amezcua P(1), Garcia Morales E(2)(3), Gabriel KP(4), Dooley EE(4), 
+Hornikel B(4), Coresh J(2)(5), Lin FR(2)(3), Pankow JS(6), Sharrett AR(2)(5), 
+Schrack JA(2), Sullivan KJ(7), Reed N(2)(3), Deal JA(2)(3), Palta P(1)(8).
+
+Author information:
+(1)Department of Medicine, Division of General Medicine, Columbia University 
+Irving Medical Campus, New York, New York, USA.
+(2)Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, 
+Baltimore, Maryland, USA.
+(3)Cochlear Center for Hearing and Public Health, Johns Hopkins Bloomberg School 
+of Public Health, Baltimore, Maryland, USA.
+(4)Department of Epidemiology, School of Public Health, University of Alabama at 
+Birmingham, Birmingham, Alabama, USA.
+(5)Welch Center for Prevention, Epidemiology and Clinical Research, Johns 
+Hopkins Bloomberg School of Public Health, Baltimore, Maryland, USA.
+(6)Division of Epidemiology, School of Public Health, University of Minnesota, 
+Minneapolis, Minnesota, USA.
+(7)Department of Medicine, University of Mississippi, Medical Center, Jackson, 
+Mississippi, USA.
+(8)Department of Epidemiology, Mailman School of Public Health, Columbia 
+University Irving Medical Center, New York, New York, USA.
+
+BACKGROUND: Hearing loss is highly prevalent in older ages and has several 
+health consequences. Some cardiovascular risk factors are associated with worse 
+hearing at older ages. Still, the role of midlife leisure-time physical activity 
+(PA) as a risk factor for hearing loss is yet to be investigated.
+METHODS: Among 3 198 participants of the Atherosclerosis Risk in Communities 
+study, we investigated the associations of midlife and change from mid- to 
+late-life PA (assessed via modified Baecke questionnaire) with hearing loss 
+(audiometric battery [worse-ear pure-tone average, and speech-in-noise test]) at 
+older ages. We used regression analyses, adjusted for demographics, medical 
+conditions, and noise exposure, to estimate differences in hearing between those 
+who met and did not meet PA recommendations at midlife and at late life.
+RESULTS: A total of 1 386 (43.3%) participants met PA recommendations at 
+midlife. These participants, compared to those who did not meet recommendations, 
+had lower (better) pure-tone average by 1.51 (0.46, 2.55) decibels, identified 
+0.37 (0.01, 0.74) more words (better score) in the speech-in-noise test, and had 
+a lower relative risk of having hearing loss at older ages (eg, relative risk 
+ratio for severe hearing loss vs normal hearing = 0.70 [0.52, 0.95]). Similarly, 
+those who persistently met PA recommendations from mid- to late life had, 
+compared with those who did not, a better hearing at older ages.
+CONCLUSIONS: Meeting PA public health recommendations in midlife and mid- to 
+late life was associated with better hearing at older ages and reduced risk of 
+hearing loss. Promoting adequate levels of PA may be an essential component of 
+hearing care.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of The 
+Gerontological Society of America. All rights reserved. For permissions, please 
+e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/gerona/glac194
+PMCID: PMC10329230
+PMID: 36124822 [Indexed for MEDLINE]
+
+Conflict of interest statement: F.R.L. and J.A.S. serve on the editorial board 
+of Journals of Gerontology: Medical Sciences (JGMS). N.R. is on the Advisory 
+board of Neosensory. F.R.L. is consultant to frequency therapeutics, speaker 
+honoraria from Caption Call, and director of the Cochlear Center, a research 
+center funded in part by a philanthropic gift from Cochlear Ltd to the Johns 
+Hopkins Bloomberg School of Public Health. The other authors declare no 
+conflict.

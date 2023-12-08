@@ -1,0 +1,97 @@
+1. ESC Heart Fail. 2023 Feb;10(1):159-166. doi: 10.1002/ehf2.14117. Epub 2022 Sep
+ 22.
+
+Testosterone deficiency independently predicts mortality in women with HFrEF: 
+insights from the T.O.S.CA. registry.
+
+Marra AM(1)(2)(3), D'Assante R(1), Salzano A(4), Iacoviello M(5), Triggiani 
+V(6), Rengo G(1)(7), Limongelli G(8), Masarone D(8), Perticone M(9), Cimellaro 
+A(10), Perrone Filardi P(11)(12), Paolillo S(11)(12), Gargiulo P(11), Mancini 
+A(13), Volterrani M(13), Vriz O(14), Castello R(15), Passantino A(16), Campo 
+M(17), Modesti PA(18), De Giorgi A(19), Arcopinto M(1)(2), D'Agostino A(4), 
+Raparelli V(20)(21)(22), Isidori AM(23), Valente V(1), Giardino F(1), Crisci 
+G(1), Sciacqua A(10), Savoia M(24), Suzuki T(25), Bossone E(2)(26), Cittadini 
+A(1)(2); T.O.S.CA. Investigators.
+
+Author information:
+(1)Department of Translational Medical Sciences, Federico II University, Naples, 
+Italy.
+(2)Italian Clinical Outcome Research and Reporting Program (I-CORRP), Naples, 
+Italy.
+(3)Center for Pulmonary Hypertension, Thoraxclinic at Heidelberg University 
+Hospital, Heidelberg, Germany.
+(4)IRCCS Synlab SDN S.p.a, Naples, Italy.
+(5)Cardiology Unit, Department of Medical and Surgical Sciences, University of 
+Foggia, Foggia, Italy.
+(6)Interdisciplinary Department of Medicine, Section of Internal Medicine, 
+Geriatrics, Endocrinology and Rare Diseases, University of Bari 'A Moro', Bari, 
+Italy.
+(7)Istituti Clinici Scientifici Maugeri SpA Società Benefit (ICS Maugeri SpA 
+SB), IRCCS, Scientific Institute of Telese Terme, Telese, Italy.
+(8)Division of Cardiology, Monaldi Hospital, Azienda Ospedaliera dei Colli, 
+University of Campania Luigi Vanvitelli, Caserta, Italy.
+(9)Department of Experimental and Clinical Medicine, University Magna Graecia of 
+Catanzaro, Catanzaro, Italy.
+(10)Department of Medical and Surgical Sciences, University Magna Graecia of 
+Catanzaro, Catanzaro, Italy.
+(11)Department of Advanced Biomedical Sciences, Federico II University, Naples, 
+Italy.
+(12)Mediterranea Cardiocentro, Naples, Italy.
+(13)Department of Medical Sciences, IRCCS San Raffaele Pisana, Rome, Italy.
+(14)Heart Center Department, King Faisal Hospital & Research Center, Riyadh, 
+Saudi Arabia.
+(15)Division of General Medicine, Azienda Ospedaliera Universitaria Integrata, 
+Verona, Italy.
+(16)Scientific Clinical Institutes Maugeri, IRCCS, Pavia, Italy.
+(17)Department of Medical and Surgical Sciences, Unit of Endocrinology and 
+Metabolic Diseases, University of Foggia, Foggia, Italy.
+(18)Dipartimento di Medicina Sperimentale e Clinica, Università degli Studi di 
+Firenze, Florence, Italy.
+(19)Department of Medical Sciences, School of Medicine, Pharmacy and Prevention, 
+University of Ferrara, Ferrara, Italy.
+(20)Department of Translational Medicine, University of Ferrara, Ferrara, Italy.
+(21)University Center for Studies on Gender Medicine, University of Ferrara, 
+Ferrara, Italy.
+(22)Faculty of Nursing, University of Alberta, Edmonton, Alberta, Canada.
+(23)Department of Experimental Medicine, Sapienza University of Rome, Rome, 
+Italy.
+(24)Department of Molecular Medicine and Medical Biotechnologies, University of 
+Naples Federico II, Naples, Italy.
+(25)Department of Cardiovascular Sciences, University of Leicester, NIHR 
+Biomedical Research Centre, Glenfield Hospital, Leicester, UK.
+(26)Cardiology Division, A Cardarelli Hospital, Naples, Italy.
+
+AIMS: Testosterone deficiency (TD) is associated with increased morbidity and 
+mortality in heart failure with reduced ejection fraction (HFrEF). However, data 
+in women are scanty. The aim of this study was to investigate the prognostic 
+impact of TD on women with HFrEF.
+METHODS: Among 480 patients prospectively enrolled in the T.O.S.CA. (Terapia 
+Ormonale Scompenso CArdiaco) registry, a prospective, multicentre, nationwide, 
+observational study, 94 women were included in the current analysis. The TD was 
+defined as serum testosterone levels lower than 25 ng/dl. Data regarding 
+clinical status, echocardiography, exercise performance, cardiovascular 
+hospitalization, and survival after an average follow-up of 36 months were 
+analysed.
+RESULTS: Thirty patients (31.9%) displayed TD. TD was associated with lower 
+tricuspid annular plane excursion (TAPSE) to pulmonary arterial systolic 
+pressure PASP ratio (TAPSE/PASP) (P = 0.008), peak oxygen consumption (VO2 peak) 
+(P = 0.03) and estimated glomerular filtration rate (P < 0.001). TD was an 
+independent predictor of the combined endpoint of all-cause 
+mortality/cardiovascular hospitalization (HR: 10.45; 95% CI: 3.54-17.01; 
+P = 0.001), all-cause mortality (HR: 8.33; 95%: 5.36-15.11; P = 0.039), and 
+cardiovascular hospitalization (HR: 2.41; 95% CI: 1.13-4.50; P = 0.02).
+CONCLUSIONS: One-third of women with HFrEF displays TD that impacts remarkably 
+on their morbidity and mortality. TD is associated with a worse clinical profile 
+including exercise capacity, right ventricular-pulmonary arterial coupling, and 
+renal function. These findings lend support to an accurate profiling of women 
+with HF, a problem often overlooked in clinical trials.
+
+© 2022 The Authors. ESC Heart Failure published by John Wiley & Sons Ltd on 
+behalf of European Society of Cardiology.
+
+DOI: 10.1002/ehf2.14117
+PMCID: PMC9871710
+PMID: 36134448 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest.

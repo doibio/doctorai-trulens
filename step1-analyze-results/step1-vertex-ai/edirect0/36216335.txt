@@ -1,0 +1,32 @@
+1. J Aging Phys Act. 2022 Oct 10;31(2):303-310. doi: 10.1123/japa.2022-0091.
+Print  2023 Apr 1.
+
+The 180° Turn Phase of the Timed Up and Go Test Better Predicts History of Falls 
+in the Oldest-Old When Compared With the Full Test: A Case-Control Study.
+
+Brauner FO(1)(2), Figueiredo AI(1)(2), Urbanetto MS(2)(3), Baptista RR(3), 
+Schiavo A(1)(2), Mestriner RG(1)(2)(3).
+
+Author information:
+(1)Biomedical Gerontology Program of the School of Medicine, Pontifical Catholic 
+University of Rio Grande do Sul (PUCRS), Porto Alegre, RS,Brazil.
+(2)Neuroplasticity and Rehabilitation Research Group (NEUROPLAR), Pontifical 
+Catholic University of Rio Grande do Sul (PUCRS), Porto Alegre, RS,Brazil.
+(3)School of Health and Life Sciences, Pontifical Catholic University of Rio 
+Grande do Sul (PUCRS), Porto Alegre, RS,Brazil.
+
+The 180° turn phase of the test may better differentiate the oldest-old 
+regarding their history of falls. This is a case-control study designed to 
+detect the ability of the 180° turn timed up and go (TUG) phase to detect a 
+history of falls in the oldest-old. Sixty people aged 85 years and older were 
+assessed in their homes. The single-task and dual-task TUG tests were performed 
+using an inertial sensor (G-Walk). Sociodemographic data, physical activity 
+levels, mental status, depressive symptoms, concern for falls occurrence, number 
+of medicines in use, self-perception of balance, and the functional reach test 
+were also assessed. The logistic regressions revealed the 180° turn phase of 
+both the single-task and dual-task TUG was almost three times better than the 
+full TUG test to detect a history of falls, thus providing insights that can be 
+used to better assess functional mobility in the oldest-old.
+
+DOI: 10.1123/japa.2022-0091
+PMID: 36216335 [Indexed for MEDLINE]

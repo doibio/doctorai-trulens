@@ -1,0 +1,68 @@
+1. J Gerontol A Biol Sci Med Sci. 2023 Mar 1;78(3):545-553. doi: 
+10.1093/gerona/glac149.
+
+Myelin and Physical Activity in Older Adults With Cerebral Small Vessel Disease 
+and Mild Cognitive Impairment.
+
+Boa Sorte Silva NC(1)(2)(3), Dao E(1)(2)(4)(5), Liang Hsu C(2)(6), Tam RC(1)(7), 
+Lam K(8), Alkeridy W(1)(9)(10), Laule C(4)(5)(11)(12), Vavasour IM(4)(5), Stein 
+RG(1)(2)(3), Liu-Ambrose T(1)(2)(3).
+
+Author information:
+(1)Djavad Mowafaghian Centre for Brain Health, Faculty of Medicine, University 
+of British Columbia, Vancouver, British Columbia, Canada.
+(2)Department of Physical Therapy, Faculty of Medicine, University of British 
+Columbia, Vancouver, British Columbia, Canada.
+(3)Centre for Hip Health and Mobility, Vancouver Coastal Health Research 
+Institute, Vancouver, British Columbia, Canada.
+(4)Department of Radiology, Faculty of Medicine, University of British Columbia, 
+Vancouver, British Columbia, Canada.
+(5)International Collaboration on Repair Discoveries, University of British 
+Columbia, Vancouver, British Columbia, Canada.
+(6)Hinda and Arthur Marcus Institute for Aging Research, Hebrew SeniorLife, 
+Boston, Massachusetts, USA.
+(7)School of Biomedical Engineering, Faculty of Applied Science and Faculty of 
+Medicine, University of British Columbia, Vancouver, British Columbia, Canada.
+(8)Department of Medicine, Division of Neurology, Faculty of Medicine, 
+University of British Columbia, Vancouver, British Columbia, Canada.
+(9)Department of Medicine, King Saud University, College of Medicine, Riyadh, 
+Saudi Arabia.
+(10)Department of Medicine, Division of Geriatrics, University of British 
+Columbia, Vancouver, British Columbia, Canada.
+(11)Department of Pathology and Laboratory Medicine, University of British 
+Columbia, Vancouver, British Columbia, Canada.
+(12)Department of Physics and Astronomy, University of British Columbia, 
+Vancouver, British Columbia, Canada.
+
+BACKGROUND: Myelin loss is a feature of cerebral small vessel disease (cSVD). 
+Although physical activity levels may exert protective effects over cSVD 
+pathology, its specific relationship with myelin content in people living with 
+the cSVD is unknown. Thus, we investigated whether physical activity levels are 
+associated with myelin in community-dwelling older adults with cSVD and mild 
+cognitive impairment.
+METHODS: Cross-sectional data from 102 individuals with cSVD and mild cognitive 
+impairment were analyzed (mean age [SD] = 74.7 years [5.5], 63.7% female). 
+Myelin was measured using a magnetic resonance gradient and spin echo sequence. 
+Physical activity was estimated using the Physical Activity Scale for the 
+Elderly. Hierarchical regression models adjusting for total intracranial volume, 
+age, sex, body mass index, and education were conducted to determine the 
+associations between myelin content and physical activity. Significant models 
+were further adjusted for white matter hyperintensity volume.
+RESULTS: In adjusted models, greater physical activity was linked to higher 
+myelin content in the whole-brain white matter (R2change = .04, p = .048). 
+Greater physical activity was also associated with myelin content in the 
+sagittal stratum (R2change = .08, p = .004), anterior corona radiata (R2change = 
+.04, p = .049), and genu of the corpus callosum (R2change = .05, p = .018). 
+Adjusting for white matter hyperintensity volume did not change any of these 
+associations.
+CONCLUSIONS: Physical activity may be a strategy to maintain myelin in older 
+adults with cSVD and mild cognitive impairment. Future randomized controlled 
+trials of exercise are needed to determine whether exercise increases myelin 
+content.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of The 
+Gerontological Society of America. All rights reserved. For permissions, please 
+e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/gerona/glac149
+PMID: 35876839 [Indexed for MEDLINE]

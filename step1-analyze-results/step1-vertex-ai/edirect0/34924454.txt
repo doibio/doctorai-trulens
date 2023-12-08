@@ -1,0 +1,51 @@
+1. J Epidemiol. 2023 Jul 5;33(7):350-359. doi: 10.2188/jea.JE20210392. Epub 2022 
+Apr 15.
+
+Combined Impacts of Physical Activity, Dietary Variety, and Social Interaction 
+on Incident Functional Disability in Older Japanese Adults.
+
+Seino S(1), Nofuji Y(1), Yokoyama Y(1), Abe T(1)(2), Nishi M(1), Yamashita 
+M(1)(2), Narita M(1), Hata T(1), Shinkai S(1)(3), Kitamura A(1)(4), Fujiwara 
+Y(1)(2).
+
+Author information:
+(1)Research Team for Social Participation and Community Health, Tokyo 
+Metropolitan Institute of Gerontology.
+(2)Integrated Research Initiative for Living Well with Dementia, Tokyo 
+Metropolitan Institute of Gerontology.
+(3)Department of Nutrition Sciences, Kagawa Nutrition University.
+(4)Health Town Development Science Center, Yao City Health Center.
+
+BACKGROUND: This 3.6-year prospective study examined combined impacts of 
+physical activity, dietary variety, and social interaction on incident 
+disability and estimated population-attributable fraction for disability 
+reduction in older adults.
+METHODS: Participants were 7,822 initially non-disabled residents (3,966 men and 
+3,856 women) aged 65-84 years of Ota City, Tokyo, Japan. Sufficiency of 
+moderate-to-vigorous-intensity physical activity (MVPA) ≥150 min/week, dietary 
+variety score (DVS) ≥3 (median), and social interaction (face-to-face and/or 
+non-face-to-face) ≥1 time/week was assessed using self-administered 
+questionnaires. Disability incidence was prospectively identified using the 
+long-term care insurance system's nationally unified database.
+RESULTS: During a follow-up of 3.6 years, 1,046 (13.4%) individuals had 
+disabilities. Independent multivariate-hazard ratios (HRs) and 95% confidence 
+intervals (CIs) of MVPA, DVS, and social interaction sufficiency for incident 
+disability were 0.68 (95% CI, 0.59-0.78), 0.87 (95% CI, 0.77-0.99), and 0.90 
+(95% CI, 0.79-1.03), respectively. Incident disability HRs gradually reduced 
+with increased frequency of satisfying these behaviors (any one: HR 0.82; 95% 
+CI, 0.65-1.03; any two: HR 0.65; 95% CI, 0.52-0.82; and all three behaviors: HR 
+0.54; 95% CI, 0.43-0.69), in an inverse dose-response manner (P < 0.001 for 
+trend). Population-attributable fraction for disability reduction in satisfying 
+any one, any two, and all three behaviors were 4.0% (95% CI, -0.2 to 7.9%), 9.6% 
+(95% CI, 4.8-14.1%), and 16.0% (95% CI, 8.7-22.8%), respectively.
+CONCLUSION: Combining physical activity, dietary variety, and social interaction 
+substantially enhances the impacts on preventing disability among older adults, 
+with evidence of an inverse dose-response manner. Improving insufficient 
+behavior elements through individual habits and preexisting social group 
+activities may be effective in preventing disability in the community.
+
+DOI: 10.2188/jea.JE20210392
+PMCID: PMC10257989
+PMID: 34924454 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest: None declared.

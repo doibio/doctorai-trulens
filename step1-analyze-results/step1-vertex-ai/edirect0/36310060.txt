@@ -1,0 +1,47 @@
+1. J Epidemiol. 2023 Nov 5;33(11):574-581. doi: 10.2188/jea.JE20220105. Epub 2023
+ Feb 18.
+
+Domain-specific Physical Activity and the Risk of All-cause Mortality Among 
+Middle-aged and Older Adults in Taiwan: A Prospective Cohort Study.
+
+Liu YT(1), Liao Y(2), Hsueh MC(3), Yen HY(4), Park JH(5), Chang JH(6).
+
+Author information:
+(1)Department of Physical Education and Sport Sciences, National Taiwan Normal 
+University.
+(2)Graduate Institute of Sport, Leisure and Hospitality Management, National 
+Taiwan Normal University.
+(3)Graduate Institute of Sport Pedagogy, University of Taipei.
+(4)School of Gerontology and Long-Term Care, College of Nursing, Taipei Medical 
+University.
+(5)Health Behaviors & Disease Prevention Research Group, Biomedical Research 
+Institute, Pusan National University Hospital.
+(6)Department of Rehabilitation Medicine, School of Medicine, Pusan National 
+University.
+
+BACKGROUND: The impact of meeting leisure-time physical activity (LTPA) 
+recommendations and household physical activity (HPA) on all-cause mortality in 
+the Taiwanese population is unclear. We aimed to investigate the relationship 
+between sufficient LTPA and all-cause mortality in middle-aged and older 
+Taiwanese adults and the role of HPA in those with insufficient LTPA.
+METHODS: This nationwide prospective cohort study included 4,960 participants 
+aged ≥50 years from the Taiwan Longitudinal Study in Aging (TLSA) survey. 
+Physical activity patterns were assessed in 2003 and then followed up until 2015 
+for mortality through the National Death Registration Record. Cox proportional 
+hazards regression was conducted to evaluate hazard ratios (HRs) and 95% 
+confidence intervals (CIs) for all-cause mortality.
+RESULTS: Of the 4,960 participants, 1,712 died of all-cause mortality. Compared 
+to those who had insufficient LTPA, participants who engaged in sufficient LTPA 
+showed a significantly lower risk of all-cause mortality (HR = 0.84, 95% CI, 
+0.73-0.97). For those with insufficient LTPA, HPA also had a significantly 
+reduced risk of all-cause mortality (HR = 0.85, 95% CI, 0.75-0.96) among general 
+population. Similar associations were observed in subsequent sensitivity 
+analyses. The subgroup analysis showed that the relationship between HPA and 
+reduced mortality risk was only found in the women with insufficient LTPA group.
+CONCLUSION: This study confirmed that sufficient LTPA is associated with a lower 
+risk of all-cause mortality. If sufficient LTPA cannot be performed, additional 
+HPA is related to lower mortality.
+
+DOI: 10.2188/jea.JE20220105
+PMCID: PMC10518382
+PMID: 36310060 [Indexed for MEDLINE]

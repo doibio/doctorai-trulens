@@ -1,0 +1,71 @@
+1. Cardiovasc Res. 2023 Mar 17;119(1):252-267. doi: 10.1093/cvr/cvac061.
+
+Activating P2Y1 receptors improves function in arteries with repressed 
+autophagy.
+
+Cho JM(1)(2), Park SK(1)(2), Kwon OS(3)(4), Taylor La Salle D(1)(5), Cerbie 
+J(1)(5), Fermoyle CC(1)(5), Morgan D(6), Nelson A(5), Bledsoe A(6), Bharath 
+LP(1)(2), Tandar M(1), Kunapuli SP(7), Richardson RS(1)(5)(8), Anandh Babu 
+PV(1), Mookherjee S(1)(2), Kishore BK(1)(9)(10), Wang F(9)(10), Yang T(9)(10), 
+Boudina S(1)(2), Trinity JD(1)(5)(8), Symons JD(1)(2).
+
+Author information:
+(1)Department of Nutrition and Integrative Physiology, University of Utah, Salt 
+Lake City, UT, USA.
+(2)Division of Endocrinology, Metabolism and Diabetes, Program in Molecular 
+Medicine University of Utah School of Medicine, Salt Lake City, UT, USA.
+(3)Department of Kinesiology, University of Connecticut, Storrs, CT, USA.
+(4)Department of Orthopedic Surgery & Center on Aging, University of Connecticut 
+School of Medicine, Storrs, CT, USA.
+(5)Geriatric Research, Education, and Clinical Center, George E. Whalen Veterans 
+Affairs Medical Center, Salt Lake City, UT, USA.
+(6)Department of Anesthesiology, University of Utah, Salt Lake City, UT, USA.
+(7)Sol Sherry Thrombosis Research Center, Lewis Katz School of Medicine, Temple 
+University, Philadelphia, PA, USA.
+(8)Department of Internal Medicine, Division of Geriatrics, University of Utah, 
+Salt Lake City, UT, USA.
+(9)Nephrology Research, George E. Whalen VA Medical Center, Salt Lake City, UT, 
+USA.
+(10)Department of Internal Medicine, Division of Nephrology, University of Utah, 
+Salt Lake City, UT, USA.
+
+AIM: The importance of endothelial cell (EC) autophagy to vascular homeostasis 
+in the context of health and disease is evolving. Earlier, we reported that 
+intact EC autophagy is requisite to maintain shear-stress-induced nitric oxide 
+(NO) generation via glycolysis-dependent purinergic signalling to endothelial NO 
+synthase (eNOS). Here, we illustrate the translational and functional 
+significance of these findings.
+METHODS AND RESULTS: First, we assessed translational relevance using older male 
+humans and mice that exhibit blunted EC autophagy and impaired arterial function 
+vs. adult controls. Active hyperaemia evoked by rhythmic handgrip 
+exercise-elevated radial artery shear-rate similarly from baseline in adult and 
+older subjects for 60 min. Compared with baseline, indexes of autophagy 
+initiation, p-eNOSS1177 activation, and NO generation, occurred in radial artery 
+ECs obtained from adult but not older volunteers. Regarding mice, indexes of 
+autophagy and p-eNOSS1177 activation were robust in ECs from adult but not older 
+animals that completed 60-min treadmill-running. Furthermore, 20 dyne • cm2 
+laminar shear stress × 45-min increased autophagic flux, glycolysis, ATP 
+production, and p-eNOSS1177 in primary arterial ECs obtained from adult but not 
+older mice. Concerning functional relevance, we next questioned whether the 
+inability to initiate EC autophagy, glycolysis, and p-eNOSS1177in vitro 
+precipitates arterial dysfunction ex vivo. Compromised intraluminal 
+flow-mediated vasodilation displayed by arteries from older vs. adult mice was 
+recapitulated in vessels from adult mice by (i) NO synthase inhibition; (ii) 
+acute autophagy impairment using 3-methyladenine (3-MA); (iii) EC Atg3 depletion 
+(iecAtg3KO mice); (iv) purinergic 2Y1-receptor (P2Y1-R) blockade; and (v) 
+germline depletion of P2Y1-Rs. Importantly, P2Y1-R activation using 
+2-methylthio-ADP (2-Me-ADP) improved vasodilatory capacity in arteries from (i) 
+adult mice treated with 3-MA; (ii) adult iecAtg3KO mice; and (iii) older animals 
+with repressed EC autophagy.
+CONCLUSIONS: Arterial dysfunction concurrent with pharmacological, genetic, and 
+age-associated EC autophagy compromise is improved by activating P2Y1-Rs.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf the of 
+European Society of Cardiology. All rights reserved. For permissions, please 
+e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/cvr/cvac061
+PMCID: PMC10236004
+PMID: 35420120 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: None declared

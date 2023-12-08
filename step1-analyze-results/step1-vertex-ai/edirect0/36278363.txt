@@ -1,0 +1,45 @@
+1. NeuroRehabilitation. 2023;52(2):155-163. doi: 10.3233/NRE-220174.
+
+Pathophysiological and motor factors associated with collision avoidance 
+behavior in individuals with stroke.
+
+Muroi D(1)(2), Ohtera S(3)(4), Saito Y(5), Koyake A(5), Higuchi T(2).
+
+Author information:
+(1)Department of Rehabilitation Sciences, Division of Physical Therapy, Faculty 
+of Health Care Sciences, Chiba Prefectural University of Health Sciences, Chiba, 
+Japan.
+(2)Department of Health Promotion Science, Tokyo Metropolitan University, Tokyo, 
+Japan.
+(3)Center for Outcomes Research and Economic Evaluation for Health, National 
+Institute of Public Health, Saitama, Japan.
+(4)Department of Health Economics, Center for Gerontology and Social Science, 
+National Center for Geriatrics and Gerontology, Aichi, Japan.
+(5)Department of Rehabilitation, Kameda Medical Center, Chiba, Japan.
+
+BACKGROUND: High collision rates and frequency of entering the opening from 
+non-paretic sides are associated with collision in individuals with stroke.
+OBJECTIVE: To identify factors associated with collision avoidance behavior when 
+individuals with stroke walked through narrow openings.
+METHODS: Participants with subacute or chronic stroke walked through a narrow 
+opening and had to avoid colliding with obstacles. Multiple regression analyses 
+were conducted with pathophysiology, motor function, and judgment ability as 
+predictor variables; collision rate and frequency of entering the opening from 
+non-paretic sides were outcome variables.
+RESULTS: Sixty-one eligible individuals with stroke aged 63±12 years were 
+enrolled. Thirty participants collided twice or more and 37 entered the opening 
+from the non-paretic side. Higher collision occurrence was associated with 
+slower Timed Up and Go tests and left-right sway (odds ratios, 1.2 and 5.6; 95% 
+confidence intervals, 1.1-1.3 and 1.3-28.2; p = .008 and.025, respectively). 
+Entering from non-paretic sides was associated with lesions in the thalamus, 
+left-sided hemiplegia, and Brunnstrom stage 3 or lower (odds ratios, 6.6, 8.7, 
+and 6.7; 95% confidence intervals, 1.3-52.5, 2.5-36.5, and 1.2-57.5; and 
+p = .038,.001, and.048, respectively).
+CONCLUSION: Walking ability is associated with avoiding obstacle collision, 
+while pathophysiological characteristics and degree of paralysis are associated 
+with a preference for which side of the body enters an opening first. 
+Interventions to improve walking ability may improve collision avoidance. 
+Avoidance behavior during intervention varies depending on the lesion position.
+
+DOI: 10.3233/NRE-220174
+PMID: 36278363 [Indexed for MEDLINE]

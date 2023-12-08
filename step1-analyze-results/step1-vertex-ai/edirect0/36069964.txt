@@ -1,0 +1,55 @@
+1. Med Sci Sports Exerc. 2023 Feb 1;55(2):322-332. doi: 
+10.1249/MSS.0000000000003033. Epub 2022 Sep 3.
+
+Validation, Recalibration, and Predictive Accuracy of Published V̇O 2max 
+Prediction Equations for Adults Ages 50-96 Yr.
+
+Schumacher BT(1), DI C(2), Bellettiere J(1), Lamonte MJ(3), Simonsick EM(4), 
+Parada H Jr, Hooker SP(5), Lacroix AZ(1).
+
+Author information:
+(1)Herbert Wertheim School of Public Health and Human Longevity Science, UC San 
+Diego, La Jolla, CA.
+(2)Public Health Sciences Division, Fred Hutchinson Cancer Research Center, 
+Seattle, WA.
+(3)Department of Epidemiology and Environmental Health, School of Public Health 
+and Health Professions, University at Buffalo-SUNY, Buffalo, NY.
+(4)Translational Gerontology Branch, Intramural Research Program, National 
+Institute on Aging, National Institutes of Health, Baltimore, MD.
+(5)College of Health and Human Services, San Diego State University, San Diego, 
+CA.
+
+PURPOSE: Maximal oxygen uptake ( ) is the criterion measure of cardiorespiratory 
+fitness. Lower cardiorespiratory fitness is a strong predictor of poor health 
+outcomes, including all-cause mortality. Because testing is resource intensive, 
+several non-exercise-based V˙O 2max prediction equations have been published. We 
+assess these equations' ability to predict measured V˙O 2max , recalibrate these 
+equations, and quantify the association of measured and predicted V˙O 2max with 
+all-cause mortality.
+METHODS: Baltimore Longitudinal Study of Aging participants with valid V˙O 2max 
+tests were included ( n = 1080). Using published V˙O 2max prediction equations, 
+we calculated predicted V˙O 2max and present performance metrics before and 
+after recalibration (deriving new regression estimates by regressing measured 
+V˙O 2max on Baltimore Longitudinal Study of Aging covariates). Cox proportional 
+hazards models were fit to quantify associations of measured, predicted, and 
+recalibration-predicted values of V˙O 2max with mortality.
+RESULTS: Mean age and V˙O 2max were 69.0 ± 10.4 yr and 21.6 ± 5.9 mL·kg -1 ·min 
+-1 , respectively. The prediction equations yielded root mean square error 
+values ranging from 4.2 to 20.4 mL·kg -1 ·min -1 . After recalibration, these 
+values decreased to 3.9-4.2 mL·kg -1 ·min -1 . Adjusting for all covariates, 
+all-cause mortality risk was 66% lower for the highest quartile of measured V˙O 
+2max relative to the lowest. Predicted V˙O 2max variables yielded similar 
+estimates in unadjusted models but were not robust to adjustment.
+CONCLUSIONS: Measured V˙O 2max is an extremely strong predictor of all-cause 
+mortality. Several published V˙O 2max prediction equations yielded the 
+following: 1) reasonable performance metrics relative to measured V˙O 2max 
+especially when recalibrated, and 2) all-cause mortality hazard ratios similar 
+to those of measured V˙O 2max , especially when recalibrated, yet 3) were not 
+robust to adjustment for basic demographic covariates likely because these were 
+used in the equation for predicted V˙O 2max .
+
+Copyright © 2022 by the American College of Sports Medicine.
+
+DOI: 10.1249/MSS.0000000000003033
+PMCID: PMC9840647
+PMID: 36069964 [Indexed for MEDLINE]

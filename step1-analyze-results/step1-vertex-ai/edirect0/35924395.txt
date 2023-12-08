@@ -1,0 +1,61 @@
+1. J Magn Reson Imaging. 2023 Apr;57(4):1262-1274. doi: 10.1002/jmri.28373. Epub 
+2022 Aug 4.
+
+The Role of MR Assessments of Cardiac Morphology, Function, and Tissue 
+Characteristics on Exercise Capacity in Well-Functioning Older Adults.
+
+Li Q(1)(2)(3)(4), Zhong H(1)(3)(4), Yu S(1)(5), Cheng Y(1)(3)(4), Dai 
+Y(1)(3)(4), Huang F(1)(2)(3)(4), Lin Z(1)(2)(4), Zhu P(1)(2)(3)(4).
+
+Author information:
+(1)Shengli Clinical Medical College of Fujian Medical University, Fuzhou, 
+People's Republic of China.
+(2)Department of Geriatric Medicine, Fujian Provincial Hospital, Fuzhou, 
+People's Republic of China.
+(3)Fujian Key Laboratory of Geriatrics, Fuzhou, People's Republic of China.
+(4)Fujian Provincial Center for Geriatrics, Fuzhou, People's Republic of China.
+(5)Department of Radiology, Fujian Provincial Hospital, Fuzhou, Fujian, People's 
+Republic of China.
+
+BACKGROUND: The relationship between resting cardiac indices and exercise 
+capacity in older adults was still not well understood. New developments in 
+cardiac magnetic resonance imaging (MRI) enable a much fuller assessment of 
+cardiac characteristics.
+PURPOSE/HYPOTHESIS: To assess the association between exercise capacity and 
+specific aspects of resting cardiac structure, function, and tissue.
+STUDY TYPE: Cross-sectional study.
+POPULATION: A total of 112 well-functioning older adults (mean age 69 years, 52 
+men).
+FIELD STRENGTH/SEQUENCE: All participants underwent 3.0 T MRI, using scan 
+protocols including balanced steady-state free precession cine sequence, 
+modified look-locker inversion recovery, and T2-prepared single-shot balanced 
+steady-state free precession.
+ASSESSMENT: Demographic and geriatric characteristics were collected. Blood 
+samples were assayed for lipid and glucose related biomarkers. All participants 
+performed a symptom-limited cardiopulmonary exercise test to achieve peakVO2 . 
+Cardiac MRI parameters were measured with semi-automatic software by S.Y., an 
+18-year experienced radiologist.
+STATISTICAL TESTS: Demographic, geriatric characteristics and MR measurements 
+were compared among quartiles of peakVO2, with different methods according to 
+the data type. Spearman's partial correlation and least absolute shrinkage 
+selection operator regression were performed to select significant MR features 
+associated with peakVO2 . Mediation effect analysis was conducted to test any 
+indirect connection between age and peakVO2 . A two-sided P value of <0.05 was 
+defined statistical significance.
+RESULTS: Epicardial fat volume, left atrial volume indexed to height, right 
+ventricular end-systolic volume indexed to body surface area and global 
+circumferential strain (GCS) were correlated with peakVO2 (regression 
+coefficients were -0.040, -0.093, 0.127, and 0.408, respectively). Mediation 
+analysis showed that the total effect of peakVO2 change was 43.6% from the 
+change of age. The proportion of indirect effect from epicardial fat volume and 
+GCS were 11.8% and 15.1% in total effect, respectively.
+DATA CONCLUSION: PeakVO2 was associated with epicardial fat volume, left atrial 
+volume, right ventricular volume and GCS of left ventricle.
+EVIDENCE LEVEL: 4 TECHNICAL EFFICACY: Stage 5.
+
+© 2022 The Authors. Journal of Magnetic Resonance Imaging published by Wiley 
+Periodicals LLC on behalf of International Society for Magnetic Resonance in 
+Medicine.
+
+DOI: 10.1002/jmri.28373
+PMID: 35924395 [Indexed for MEDLINE]

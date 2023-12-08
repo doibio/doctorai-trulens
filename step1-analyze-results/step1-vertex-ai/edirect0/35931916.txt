@@ -1,0 +1,66 @@
+1. J Racial Ethn Health Disparities. 2023 Aug;10(4):1837-1845. doi: 
+10.1007/s40615-022-01367-7. Epub 2022 Aug 5.
+
+The Role of Transportation in the Enrollment of Elderly African Americans into 
+Exercise and Memory Study: GEMS Study.
+
+Graham L(1), Ngwa J(2), Ntekim O(3), Ogunlana O(4), Johnson S(3), Nadarajah 
+S(5), Fungwe TV(3), Turner J(4), Ruiz MR(4), Khan J(4), Obisesan TO(6).
+
+Author information:
+(1)Department of Health Management, College of Nursing and Allied Health 
+Sciences, Howard University, Washington, DC, 20059, USA.
+(2)Division of Cardiovascular Medicine, College of Medicine, Howard University, 
+Washington, DC, 20059, USA.
+(3)Department of Nutritional Sciences, College of Nursing and Allied Health 
+Sciences, Howard University, Washington, DC, 20059, USA.
+(4)Department of Medicine and Clinical Translational Science Program, Division 
+of Geriatrics, Howard University Hospital, 2041 Georgia Ave NW, Washington, DC, 
+20060, USA.
+(5)Department of Nursing, College of Nursing and Allied Health Sciences, Howard 
+University, Washington, DC, 20059, USA.
+(6)Department of Medicine and Clinical Translational Science Program, Division 
+of Geriatrics, Howard University Hospital, 2041 Georgia Ave NW, Washington, DC, 
+20060, USA. tobisesan@howard.edu.
+
+BACKGROUND: Understanding the factors driving recruitment and enrollment of 
+African Americans (AA)s in clinical translational research will assure that 
+underrepresented populations benefit from scientific progress and new 
+developments in the diagnosis and treatment of Alzheimer's disease and related 
+disorders. While transportation is pivotal to volunteers' ability to participate 
+in research, its contribution to enrollment in exercise studies on AD is yet to 
+be elucidated. Thus, this research focuses on identifying factors that influence 
+the recruitment and enrollment of African Americans in biomedical studies and 
+determining whether the availability of transportation motivates participation 
+in time-demanding exercise studies on AD.
+METHODS: We analyzed recruitment data collected from 567 volunteers ages 55 and 
+older screened through various recruitment sources and considered for enrollment 
+in our exercise and memory study. To determine whether transportation influenced 
+the enrollment of African Americans (AA)s in biomedical studies, multiple 
+logistic regression analysis was performed to identify significant factors that 
+drive enrollment. Furthermore, the association of race and demographic factors 
+on the availability of transportation was assessed.
+RESULTS: Demographic factors, age at screening, education, gender, and cognitive 
+scores were not significantly different among those enrolled compared to control 
+(not-enrolled). In the relationship of enrollment to transportation, enrolled 
+participants were more likely to have access to transportation (79.12%) than 
+not-enrolled participants who had less access to transportation (71.6%); 
+however, the association was not statistically significant. However, race 
+differentially influenced the likelihood of enrollment, with elderly AAs being 
+significantly less likely to have transportation (p = 0.020) than the Whites but 
+more likely than "others" to have transportation.
+CONCLUSION: Our findings suggest that access to transportation may be a key 
+factor motivating enrollment in an exercise and memory study in a predominantly 
+AA sample. Notably, AAs in our sample were less likely to have transportation 
+than Whites. Other demographic factors and cognitive scores did not 
+significantly influence enrollment in our sample. A larger sample and more 
+detailed assessment of transportation are needed to further discern the role of 
+transportation in clinical trials.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s40615-022-01367-7
+PMCID: PMC10322752
+PMID: 35931916 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

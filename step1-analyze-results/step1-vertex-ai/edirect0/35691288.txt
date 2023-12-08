@@ -1,0 +1,53 @@
+1. Gerontology. 2023;69(2):212-226. doi: 10.1159/000524701. Epub 2022 Jun 10.
+
+Changes in Psychological Determinants of Behavior Change after Individual versus 
+Group-Based Lifestyle-integrated Fall Prevention: Results from the LiFE-is-LiFE 
+Trial.
+
+Labudek S(1), Fleig L(2), Jansen CP(3), Kramer-Gmeiner F(1), Nerz C(3), Clemson 
+L(4), Klenk J(3)(5)(6), Becker C(3), Schwenk M(1)(7).
+
+Author information:
+(1)Network Aging Research, Heidelberg University, Heidelberg, Germany.
+(2)Department of Psychology, MSB Medical School Berlin, Berlin, Germany.
+(3)Department of Clinical Gerontology and Geriatric Rehabilitation, 
+Robert-Bosch-Hospital, Stuttgart, Germany.
+(4)Faculty of Health Sciences, University of Sydney, Sydney, New South Wales, 
+Australia.
+(5)Institute of Epidemiology and Medical Biometry, Ulm University, Ulm, Germany.
+(6)IB University of Health and Social Sciences, Study Centre Stuttgart, 
+Stuttgart, Germany.
+(7)Human Performance Research Centre, Department of Sport Science, University of 
+Konstanz, Konstanz, Germany.
+
+OBJECTIVE: The Lifestyle-integrated Functional Exercise (LiFE) intervention has 
+been shown to promote physical activity in fall-prone older adults. However, the 
+underlying mechanisms of how LiFE functions remain unclear. This study compares 
+the effects of the individual and group-based LiFE formats on psychological 
+determinants of behavior change derived from the health action process approach, 
+habit formation theory, and self-determination theory.
+METHODS: Secondary analysis on basis of the randomized, non-inferiority 
+LiFE-is-LiFE trial were performed. Questionnaire data on psychological 
+determinants were obtained from older adults (M = 78.8 years, range 70-95) who 
+took part in either the individual (n = 156) or the group-based (n = 153) LiFE 
+intervention. Measurement points varied from three to six times, and from 
+baseline (T1) up to a 12-month follow-up (T6). A generalized linear mixed model 
+was specified for each determinant.
+RESULTS: Both LiFE and gLiFE participants reported lower levels of motivational 
+determinants at T6. LiFE participants showed significantly higher values of 
+action planning and coping planning at T6. Participants in both formats showed 
+increased levels of action control at T6, whereas participants' habit strength 
+decreased post-intervention but then stabilized over time. LiFE participants 
+showed higher levels of autonomy, competence, and relatedness throughout the 
+study, but levels of intrinsic motivation did not differ between formats and 
+from T1 to T6.
+CONCLUSION: In both formats, but especially in the individual LiFE, the behavior 
+change techniques used affected volitional rather than motivational or general 
+determinants of behavior change. Habit strength as an important indicator of the 
+sustainability of the LiFE exercises stabilized over time, indicating that 
+participants, at least partly, sustained their formed habits long-term.
+
+© 2022 S. Karger AG, Basel.
+
+DOI: 10.1159/000524701
+PMID: 35691288 [Indexed for MEDLINE]

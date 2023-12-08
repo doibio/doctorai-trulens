@@ -1,0 +1,61 @@
+1. Eur J Prev Cardiol. 2023 Feb 14;30(3):232-240. doi: 10.1093/eurjpc/zwac239.
+
+Setting your clock: associations between timing of objective physical activity 
+and cardiovascular disease risk in the general population.
+
+Albalak G(1), Stijntjes M(2)(3), van Bodegom D(4)(5), Jukema JW(6)(7), Atsma 
+DE(6), van Heemst D(1), Noordam R(1).
+
+Author information:
+(1)Department of Internal Medicine, Section of Gerontology and Geriatrics, 
+Leiden University Medical Center, Albinusdreef 2, PO Box 9600, 2300 RC Leiden, 
+The Netherlands.
+(2)Department of Rehabilitation Medicine, Leiden University Medical Center, 
+Albinusdreef 2, PO Box 9600, 2300 RC Leiden, The Netherlands.
+(3)BioMechanical Engineering, Delft University of Technology, Mekelweg 2 
+(building 34), 2628 CD Delft, The Netherlands.
+(4)Department of Public Health and Primary Care, Leiden University Medical 
+Center, Albinusdreef 2, PO Box 9600, 2300 RC Leiden, The Netherlands.
+(5)Leyden Academy on Vitality and Ageing, Rijnsburgerweg 10, 2333 AA Leiden, The 
+Netherlands.
+(6)Department of Cardiology, Leiden University Medical Center, Albinusdreef 2, 
+PO Box 9600, 2300 RC Leiden, The Netherlands.
+(7)Netherlands Heart Institute, Moreelsepark 1, 3511 EP Utrecht, The 
+Netherlands.
+
+Comment in
+    Eur J Prev Cardiol. 2023 Feb 14;30(3):e3.
+    Eur J Prev Cardiol. 2022 Dec 07;:
+
+AIMS: Little is known about the impact of daily physical activity timing (here 
+referred to as 'chronoactivity') on cardiovascular disease (CVD) risk. We aimed 
+to examined the associations between chronoactivity and multiple CVD outcomes in 
+the UK Biobank.
+METHODS AND RESULTS: physical activity data were collected in the UK-Biobank 
+through triaxial accelerometer over a 7-day measurement period. We used K-means 
+clustering to create clusters of participants with similar chronoactivity 
+irrespective of the mean daily intensity of the physical activity. 
+Multivariable-adjusted Cox-proportional hazard models were used to estimate 
+hazard ratios (HRs) comparing the different clusters adjusted for age and sex 
+(model 1), and baseline cardiovascular risk factors (model 2). Additional 
+stratified analyses were done by sex, mean activity level, and self-reported 
+sleep chronotype. We included 86 657 individuals (58% female, mean age: 61.6 
+[SD: 7.8] years, mean BMI: 26.6 [4.5] kg/m2). Over a follow-up period of 6 
+years, 3707 incident CVD events were reported. Overall, participants with a 
+tendency of late morning physical activity had a lower risk of incident coronary 
+artery disease (HR: 0.84, 95%CI: 0.77, 0.92) and stroke (HR: 0.83, 95%CI: 0.70, 
+0.98) compared to participants with a midday pattern of physical activity. These 
+effects were more pronounced in women (P-value for interaction = 0.001). We did 
+not find evidence favouring effect modification by total activity level and 
+sleep chronotype.
+CONCLUSION: Irrespective of total physical activity, morning physical activity 
+was associated with lower risks of incident cardiovascular diseases, 
+highlighting the potential importance of chronoactivity in CVD prevention.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of the 
+European Society of Cardiology.
+
+DOI: 10.1093/eurjpc/zwac239
+PMID: 36372091 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: None declared.

@@ -1,0 +1,60 @@
+1. Eur Heart J Qual Care Clin Outcomes. 2023 Aug 7;9(5):482-489. doi: 
+10.1093/ehjqcco/qcac050.
+
+De-frailing intervention for hospitalized cardiovascular patients in the 
+TARGET-EFT randomized clinical trial.
+
+Ahmad F(1)(2), Fountotos R(1)(2), Goldfarb M(1)(3), Bharaj N(2)(4), Munir 
+H(1)(2), Marsala J(3), Rudski LG(3), Afilalo J(1)(2)(3).
+
+Author information:
+(1)Division of Experimental Medicine, McGill University, Montreal,QC H4A 
+3J1,Canada.
+(2)Centre for Clinical Epidemiology, Jewish General Hospital, Montreal, QC H3T 
+1E2,Canada.
+(3)Division of Cardiology, Jewish General Hospital, McGill University, Montreal, 
+QC H3T 1E2,Canada.
+(4)Department of Kinesiology & Physical Education, McGill University, Montreal, 
+QC H2W 1S4, Canada. Institution of research trial: Jewish General Hospital, 
+Montreal, QC H3T 1E2, Canada.
+
+AIMS: Frailty is disproportionately prevalent in cardiovascular disease patients 
+and exacerbated during hospital admissions, heightening the risk for adverse 
+events and functional decline. Using the Essential Frailty Toolset (EFT) to 
+target physical weakness, cognitive impairment, malnourishment, and anaemia, we 
+tested a multicomponent targeted intervention to de-frail older adults with 
+acute cardiovascular conditions during their hospital admission.
+METHODS AND RESULTS: The TARGET-EFT trial was a single-center randomized 
+clinical trial at the Jewish General Hospital, Montreal, Canada. We compared a 
+multicomponent de-frailing intervention with usual clinical care. Intervention 
+group patients received exercise, cognitive stimulation, protein 
+supplementation, and iron replacement, as required. In this study, the primary 
+outcome was frailty, as assessed by the SPPB score (Short Physical Performance 
+Battery) at discharge, and the secondary outcome was the SARC-F score (Strength, 
+Assistance walking, Rising from chair, Climbing, Falls) assessed 30 days later. 
+The analysis consisted of 135 patients (mean age of 79.3 years; 54% female) who 
+survived and completed the frailty assessments.Compared with control patients, 
+intervention group patients had a 1.52-point superior SPPB score and a 
+0.74-point superior SARC-F score. Subgroup analysis suggested that patients with 
+low left ventricular ejection fraction may have attenuated benefits, and that 
+patients who underwent invasive cardiac procedures had the greatest benefits 
+from the intervention.
+CONCLUSION: We achieved our objective of de-frailing older cardiac inpatients on 
+a short-term basis by improving their physical performance and functioning using 
+a pragmatic multicomponent intervention. This could have positive impacts on 
+their clinical outcomes and ability to maintain independent living in the 
+future.
+ONE SENTENCE SUMMARY: The multicomponent intervention targeted to the deficits 
+of vulnerable older adults hospitalized with acute cardiovascular diseases 
+successfully de-frailed them on a short-term basis, which can have positive 
+implications on their post-discharge health outcomes.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of the 
+European Society of Cardiology.
+
+DOI: 10.1093/ehjqcco/qcac050
+PMCID: PMC10405162
+PMID: 36026532 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there is no conflict of 
+interest.

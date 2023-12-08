@@ -1,0 +1,58 @@
+1. PM R. 2023 Mar;15(3):331-341. doi: 10.1002/pmrj.12805. Epub 2022 May 28.
+
+Pain, obesity, and physical function in Mexican American older adults during 20 
+years of follow-up.
+
+Afunugo WE(1), Li CY(2), Chou LN(3), Ward F(4), Al Snih S(4)(5)(6).
+
+Author information:
+(1)School of Medicine, The University of Texas Medical Branch, Galveston, TX, 
+USA.
+(2)Department of Occupational Therapy, The University of Texas Medical Branch, 
+Galveston, TX, USA.
+(3)Department of Preventive Medicine and Population Health, The University of 
+Texas Medical Branch, Galveston, TX, USA.
+(4)Department of Nutrition, Metabolism, and Rehabilitation Sciences, The 
+University of Texas Medical Branch, Galveston, TX, USA.
+(5)Division of Geriatrics & Palliative Medicine/Department of Internal Medicine, 
+The University of Texas Medical Branch, Galveston, TX, USA.
+(6)Sealy Center on Aging, The University of Texas Medical Branch, Galveston, TX, 
+USA.
+
+INTRODUCTION: Pain remains largely undertreated in older adults irrespective of 
+health care setting. Mexican American adults in the United States have a high 
+age-adjusted prevalence of obesity. However, the association of pain and obesity 
+with physical function is understudied in this population.
+OBJECTIVE: To examine the association of co-occurring pain and obesity with 
+physical function over 20 years of follow-up in a cohort of older Mexican 
+Americans who scored ≥7 (moderate to high) in the Short Physical Performance 
+Battery (SPPB) test and were nondisabled at baseline.
+DESIGN: Longitudinal population-based study.
+SETTING: Community-dwelling older adults from Southwestern United States.
+PARTICIPANTS: Mexican American adults age 65 years and older.
+INTERVENTIONS: Not Applicable.
+MAIN OUTCOME MEASURES: Physical function was assessed with the SPPB test 
+(standing balance, timed 8-ft walk, and five repeated timed chair stands). 
+Participants at baseline were divided into four groups: no pain-no obesity 
+(n = 869), obesity only (n = 282), pain only (n = 216), and pain-obesity 
+(n = 159). Generalized Estimating Equation models were used to estimate the odds 
+ratio (OR) and 95% confidence interval (CI) of lower performance in physical 
+function over 20 years as a function of pain-obesity grouping.
+RESULTS: Participants with pain only (OR = 1.61, 95% CI = 1.34-1.95) and with 
+co-occurring pain and obesity (OR = 2.32, 95% CI = 1.83-2.95) had significantly 
+greater odds of physical function impairment over those with no pain-no obesity 
+or obesity only, after controlling for all covariates.
+CONCLUSION: Older Mexican American adults were at high risk for physical 
+function impairment over time if they had pain or co-occurring pain and obesity. 
+Early assessment and proper pain management as well as maintaining a healthy 
+weight may reduce declines in physical function in older Mexican American 
+adults.
+
+© 2022 American Academy of Physical Medicine and Rehabilitation.
+
+DOI: 10.1002/pmrj.12805
+PMCID: PMC9500111
+PMID: 35322569 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest The authors declare no 
+competing financial interests.

@@ -1,0 +1,52 @@
+1. Gerontology. 2023;69(3):301-311. doi: 10.1159/000526479. Epub 2022 Oct 21.
+
+Physiological and Cognitive Determinants of Gait Variability of Asian 
+Population: The Yishun Study.
+
+Lau LK(1), Abdul Jabbar KB(1), Pang WJB(1), Chen KK(1)(2), Seah WT(1), Ullal 
+Mallya J(1)(3), Yap PLK(1)(3), Ng TP(1)(4), Wee SL(1)(5).
+
+Author information:
+(1)Geriatric Education and Research Institute (GERI), Singapore, Singapore.
+(2)Faculty of Health and Medical Science, Adelaide Medical School, The 
+University of Adelaide, Adelaide, South Australia, Australia.
+(3)Geriatric Medicine, Khoo Teck Puat Hospital, Singapore, Singapore.
+(4)Department of Psychological Medicine, National University of Singapore, 
+Singapore, Singapore.
+(5)Health and Social Sciences Cluster, Singapore Institute of Technology, 
+Singapore, Singapore.
+
+INTRODUCTION: Gait variability is associated with frailty, dementia, and falls. 
+Studies on the association of physiological and cognitive factors with gait 
+variability have seldom included middle-aged adults, even though these adults 
+already experienced loss of muscular strength and postural stability. This study 
+aimed a) to examine and compare the trend of gait variability in men and women, 
+across the adult age spectrum, and b) to identify and compare the contributions 
+of physiological and cognitive factors to gait variability.
+METHODS: This was a population-based cross-sectional study at a single center. A 
+random sample of 507 community-dwelling, well-functioning adults aged 21-90 
+years were studied. Cognition was measured using the Repeatable Battery for the 
+Assessment of Neuropsychological Status. Physiological factors examined included 
+visual contrast sensitivity (VCS), postural sway, hand reaction time, handgrip 
+strength (HGS), knee extensor strength, and gait variability (coefficient of 
+variation [CoV]). Multivariable regression models were used to examine the 
+association between physiological and cognitive performance with gait CoV.
+RESULTS: Women walked with greater stride width CoV (p < 0.01) and double 
+support time (DST) CoV (p < 0.01) than men. The stride width (p = 0.01) and DST 
+variability (p = 0.03) were significantly higher in older men as compared to men 
+in younger age-groups. Gait speed accounted for most of the gait CoV variances 
+and attenuated the effects of physiological performance and/or attention 
+cognition on most gait variability, except for CoV of DST and stride width. 
+Adults with better VCS (β = -0.19), faster hand reaction (β = 0.12), and greater 
+HGS (β = -0.15) had lower variability in step length.
+CONCLUSION: The trends of stride width CoV and DST CoV across adult age spectrum 
+were different between men and women. Greater stride width variability was 
+partly attributed to greater HGS, possibly to better control lateral stability 
+during walking. Physiological factors outweigh cognition in regulating most of 
+the gait CoV in this study. They are modifiable and potential targets for 
+healthy aging program.
+
+© 2022 S. Karger AG, Basel.
+
+DOI: 10.1159/000526479
+PMID: 36273450 [Indexed for MEDLINE]

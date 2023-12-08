@@ -1,0 +1,72 @@
+1. Mod Rheumatol. 2023 Jan 3;33(1):36-45. doi: 10.1093/mr/roac019.
+
+Non-drug and surgical treatment algorithm and recommendations for the 2020 
+update of the Japan College of Rheumatology clinical practice guidelines for the 
+management of rheumatoid arthritis-secondary publication.
+
+Ito H(1)(2), Nishida K(3), Kojima T(4), Matsushita I(5), Kojima M(6), Hirata 
+S(7), Kaneko Y(8), Kishimoto M(9), Kohno M(10), Mori M(11), Morinobu A(12), 
+Murashima A(13), Seto Y(14), Sugihara T(11), Tanaka E(15), Nakayama T(16), 
+Yamanaka H(17), Kawahito Y(10), Harigai M(15).
+
+Author information:
+(1)Department of Orthopedic Surgery, Kyoto University Graduate School of 
+Medicine, Kyoto, Japan.
+(2)Department of Orthopedic Surgery, Kurashiki Central Hospital, Kurashiki, 
+Japan.
+(3)Department of Orthopedic Surgery, Okayama University Academic Field of 
+Medicine, Density and Pharmaceutical Sciences, Okayama, Japan.
+(4)Department of Orthopedic Surgery, Nagoya University Graduate School of 
+Medicine, Nagoya, Japan.
+(5)Department of Rehabilitation Medicine, Kanazawa Medical University, Ishikawa, 
+Japan.
+(6)Department of Frailty Research, Center for Gerontology and Social Science, 
+National Center for Geriatrics and Gerontology, Obu, Japan.
+(7)Department of Clinical Immunology and Rheumatology, Hiroshima University 
+Hospital, Hiroshima, Japan.
+(8)Department of Internal Medicine, Division of Rheumatology, Keio University 
+School of Medicine, Tokyo, Japan.
+(9)Department of Nephrology and Rheumatology, Kyorin University School of 
+Medicine, Tokyo, Japan.
+(10)Inflammation and Immunology, Kyoto Prefectural University of Medicine, 
+Kyoto, Japan.
+(11)Division of Rheumatology and Allergology, St. Marianna University School of 
+Medicine, Kawasaki, Kanagawa, Japan.
+(12)Department of Rheumatology and Clinical Immunology, Graduate School of 
+Medicine, Kyoto University, Kyoto, Japan.
+(13)Center for Maternal-Fetal, Neonatal, and Reproductive Medicine/Japan Drug 
+Information Institute in Pregnancy, National Center for Child Health and 
+Development, Tokyo, Japan.
+(14)Department of Rheumatology, Yachiyo Medical Center, Tokyo Women's Medical 
+University School of Medicine, Yachiyo, Japan.
+(15)Department of Internal Medicine, Division of Rheumatology, Tokyo Women's 
+Medical University School of Medicine, Tokyo, Japan.
+(16)Department of Health Informatics, Kyoto University School of Public Health, 
+Kyoto, Japan.
+(17)Rheumatology, Sanno Medical Center, Tokyo, Japan.
+
+OBJECTIVES: The aim of this study was to update the Japan College of 
+Rheumatology (JCR) clinical practice guidelines (CPGs) for the management of 
+rheumatoid arthritis (RA) and prepare an algorithm for non-drug and surgical 
+treatments. This article is a digest version of the guidelines.
+METHODS: The Japanese Ministry of Health, Labour and Welfare's research group, 
+in collaboration with the JCR, used the Grading of Recommendations, Assessment, 
+Development, and Evaluation method to update the 2014 JCR CPG for RA. The 
+consensus was formed by CPG panel members.
+RESULTS: We raised 19 clinical questions regarding non-drug and surgical 
+treatments for RA and developed recommendations. The treatments included 
+exercise therapy; occupational therapy; joint injection of corticosteroids; and 
+orthopaedic surgeries including cervical spine surgery, wrist and foot 
+arthroplasty, ankle arthrodesis, and replacement arthroplasty of the shoulder, 
+elbow, finger, hip, knee, and ankle. Recommendations regarding the risks of 
+surgery and perioperative discontinuation of medications have also been 
+developed. Based on these recommendations, we created an original algorithm for 
+the non-drug and surgical treatment of RA.
+CONCLUSIONS: These recommendations are expected to serve rheumatologists, health 
+care professionals, and patients with RA as tools for shared decision-making to 
+treat residual limb joint symptoms and functional impairment.
+
+© Japan College of Rheumatology 2022. Published by Oxford University Press.
+
+DOI: 10.1093/mr/roac019
+PMID: 35294030 [Indexed for MEDLINE]

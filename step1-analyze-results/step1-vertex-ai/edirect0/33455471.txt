@@ -1,0 +1,39 @@
+1. Arch Physiol Biochem. 2023 Jun;129(3):778-787. doi: 
+10.1080/13813455.2021.1871763. Epub 2021 Jan 16.
+
+A pilot study on the relationship between Lactobacillus, Bifidibactrium counts 
+and inflammatory factors following exercise training.
+
+Mahdieh MS(1), Maryam J(1), Bita B(2), Neda F(1), Motahare M(1), Mahboobeh B(2), 
+LeBris S Q(3), Kalani Behrooz S(4).
+
+Author information:
+(1)Department of Physical Education & Sport Sciences, Faculty of Humanities, 
+Tarbiat Modares University, Tehran, Iran.
+(2)Department of Bacteriology, Faculty of Medical Sciences, Tarbiat Modares 
+University, Tehran, Iran.
+(3)Division of Gerontology and Geriatric Medicine, Department of Medicine, 
+University of Washington, Seattle, WA, USA.
+(4)Department of Medical Microbiology, Faculty of Medicine, Ilam University of 
+Medical Sciences, Ilam, Iran.
+
+BACKGROUND: The current pilot study was carried out to examine the effect of 
+aerobic exercise on Lactobacillus and Bifidobacterium as a function of weight 
+loss and cytokine changes in overweight women.
+MATERIAL AND METHODS: Eighteen women with excessive weight (age = 19-30 years) 
+were randomly assigned into exercise (10 weeks, aerobic exercise training, 3 
+sessions/week) and control groups. Lactobacillus and Bifidobacterium in stool 
+and inflammatory factors in blood were evaluated before and after the 
+intervention.
+RESULTS: The intervention induced significant improvements in body weight and in 
+VO2 peak. There were significant time effects on Lactobacillus (p = .016) and 
+significant time*exercise interaction effects on Bifidobacterium (p = .025). 
+Lactobacillus and Bifidobacterium changes were negatively associated with body 
+weight and IL-6 levels, respectively.
+CONCLUSIONS: The current results indicate that exercise training associated with 
+weight loss can increase specific bacteria in people with excessive weight. 
+Changes in Lactobacillus and Bifidobacterium were not significantly associated 
+with cytokines.
+
+DOI: 10.1080/13813455.2021.1871763
+PMID: 33455471 [Indexed for MEDLINE]

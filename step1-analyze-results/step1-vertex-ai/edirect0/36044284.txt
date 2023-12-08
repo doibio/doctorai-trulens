@@ -1,0 +1,46 @@
+1. J Gerontol B Psychol Sci Soc Sci. 2023 Jan 28;78(1):167-178. doi: 
+10.1093/geronb/gbac127.
+
+The Retirement-Health Puzzle: A Sigh of Relief at Retirement?
+
+Okamoto S(1)(2), Kobayashi E(1), Komamura K(3)(4).
+
+Author information:
+(1)Research Team for Social Participation and Community Health, Tokyo 
+Metropolitan Institute of Gerontology, Tokyo, Japan.
+(2)Institute for Global Health Policy Research, National Center for Global 
+Health and Medicine, Tokyo, Japan.
+(3)Research Center for Financial Gerontology, Keio University, Tokyo, Japan.
+(4)Faculty of Economics, Keio University, Tokyo, Japan.
+
+OBJECTIVES: While the health effects of retirement have been well studied, 
+existing findings remain inconclusive, and the mechanisms underlying the linkage 
+between retirement and health are unclear. Thus, this study aimed to evaluate 
+the effects of retirement on health and its potential mediators.
+METHODS: Using a national household survey conducted annually from 2004 to 2019 
+in Japan (the Japan Household Panel Survey), we evaluated the effects of 
+retirement among Japanese men aged 50 or older on their health, in addition to 
+other outcomes that could be attributed to health changes associated with 
+retirement (i.e., health behaviors, psychological well-being, time use for 
+unpaid activities, and leisure activities). As outcomes are not measured every 
+year, we analyzed 5,794-10,682 person-year observations for 975-1,469 unique 
+individuals. To address the potential endogeneity of retirement, we adopted an 
+instrumental variable fixed-effects approach based on policy changes in 
+eligibility ages for employee pensions.
+RESULTS: We found that retirement improved psychological well-being, exercise 
+habits, and time spent on unpaid work. The psychological benefits of retirement 
+were no longer observed for longer durations after retirement, whereas healthy 
+habits and unpaid activities continued. Moreover, health-related improvements 
+after retirement occurred mostly in the higher-income group.
+DISCUSSION: Enhancement in personal quality of life owing to increased leisure 
+time and stress reduction from work in addition to lifestyle changes may be key 
+to understanding the health benefits of retirement. Considering the mechanisms 
+behind retirement-health relationships and potential heterogeneous effects is 
+essential for healthy postretirement lives when increasing the retirement age.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of The 
+Gerontological Society of America. All rights reserved. For permissions, please 
+e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/geronb/gbac127
+PMID: 36044284 [Indexed for MEDLINE]

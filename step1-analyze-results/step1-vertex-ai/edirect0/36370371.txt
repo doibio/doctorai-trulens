@@ -1,0 +1,69 @@
+1. J Physiol. 2023 Feb;601(3):551-566. doi: 10.1113/JP283743. Epub 2022 Nov 29.
+
+Muscle glycogen unavailability and fat oxidation rate during exercise: Insights 
+from McArdle disease.
+
+Rodriguez-Lopez C(1)(2)(3), Santalla A(4)(5), Valenzuela PL(6), Real-Martínez 
+A(7)(8), Villarreal-Salazar M(7)(8), Rodriguez-Gomez I(2)(3), Pinós T(7)(8), Ara 
+I(2)(3), Lucia A(3)(6)(9).
+
+Author information:
+(1)Department of Geriatrics, Hospital General Universitario Gregorio Marañón. 
+Instituto de Investigación Sanitaria Gregorio Marañón (IiSGM), Madrid, Spain.
+(2)GENUD Toledo Research Group, Universidad de Castilla-La Mancha, Toledo, 
+Spain.
+(3)CIBER of Frailty and Healthy Aging (CIBERFES), Madrid, Spain.
+(4)Department of Sport and Computer Science, Section of Physical Education and 
+Sports, Faculty of Sport, Universidad Pablo de Olavide, Seville, Spain.
+(5)EVOPRED Research Group, Universidad Europea de Canarias, Tenerife, Spain.
+(6)Instituto de Investigación Sanitaria Hospital '12 de Octubre' ('imas12'), 
+Madrid, Spain.
+(7)Mitochondrial and Neuromuscular Disorders Unit, Vall d'Hebron Institut de 
+Recerca, Universitat Autònoma de Barcelona, Barcelona, Spain.
+(8)CIBER for rare disease (CIBERER), Madrid, Spain.
+(9)Faculty of Sport Sciences, Universidad Europea de Madrid, Madrid, Spain.
+
+Comment in
+    J Physiol. 2023 Feb;601(3):389-390.
+
+Carbohydrate availability affects fat metabolism during exercise; however, the 
+effects of complete muscle glycogen unavailability on maximal fat oxidation 
+(MFO) rate remain unknown. Our purpose was to examine the MFO rate in patients 
+with McArdle disease, comprising an inherited condition caused by complete 
+blockade of muscle glycogen metabolism, compared to healthy controls. Nine 
+patients (three women, aged 36 ± 12 years) and 12 healthy controls (four women, 
+aged 40 ± 13 years) were studied. Several molecular markers of lipid 
+transport/metabolism were also determined in skeletal muscle (gastrocnemius) and 
+white adipose tissue of McArdle (Pygm p.50R*/p.50R*) and wild-type male mice. 
+Peak oxygen uptake ( V̇O2peak ), MFO rate, the exercise intensity eliciting MFO 
+rate (FATmax) and the MFO rate-associated workload were determined by indirect 
+calorimetry during an incremental cycle-ergometer test. Despite having a much 
+lower V̇O2peak (24.7 ± 4 vs. 42.5 ± 11.4 mL kg-1  min-1 , respectively; 
+P < 0.0001), patients showed considerably higher values for the MFO rate 
+(0.53 ± 0.12 vs. 0.33 ± 0.10 g min-1 , P = 0.001), and for the FATmax 
+(94.4 ± 7.2 vs. 41.3 ± 9.1 % of V̇O2peak , P < 0.0001) and MFO rate-associated 
+workload (1.33 ± 0.35 vs. 0.81 ± 0.54 W kg-1 , P = 0.020) than controls. No 
+between-group differences were found overall in molecular markers of lipid 
+transport/metabolism in mice. In summary, patients with McArdle disease show an 
+exceptionally high MFO rate, which they attained at near-maximal exercise 
+capacity. Pending more mechanistic explanations, these findings support the 
+influence of glycogen availability on MFO rate and suggest that these patients 
+develop a unique fat oxidation capacity, possibly as an adaptation to compensate 
+for the inherited blockade in glycogen metabolism, and point to MFO rate as a 
+potential limiting factor of exercise tolerance in this disease. KEY POINTS: 
+Physically active McArdle patients show an exceptional fat oxidation capacity. 
+Maximal fat oxidation rate occurs near-maximal exercise capacity in these 
+patients. McArdle patients' exercise tolerance might rely on maximal fat 
+oxidation rate capacity. Hyperpnoea might cloud substrate oxidation measurements 
+in some patients. An animal model revealed overall no higher molecular markers 
+of lipid transport/metabolism.
+
+© 2022 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd 
+on behalf of The Physiological Society.
+
+DOI: 10.1113/JP283743
+PMCID: PMC10099855
+PMID: 36370371 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

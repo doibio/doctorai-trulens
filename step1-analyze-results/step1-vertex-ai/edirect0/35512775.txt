@@ -1,0 +1,48 @@
+1. J Am Nutr Assoc. 2023 May-Jun;42(4):411-417. doi:
+10.1080/07315724.2022.2060373.  Epub 2022 Apr 22.
+
+Effects of Essential Amino Acids on High-Intensity Interval Training 
+Performance, Fatigue Outcomes, and Workload Progression.
+
+Hirsch KR(1), Cabre HE(2)(3), Gould LM(2), Blue MNM(4), Smith-Ryan AE(2)(3)(5).
+
+Author information:
+(1)Center for Translational Research in Aging & Longevity, Department of 
+Geriatrics, Donald W. Reynolds Institute on Aging, University of Arkansas for 
+Medical Sciences, Little Rock, Arkansas, USA.
+(2)Applied Physiology Laboratory, Department of Exercise and Sport Science, 
+University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA.
+(3)Human Movement Science Curriculum, Department of Allied Health Science, 
+University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA.
+(4)Department of Exercise and Sport Science, University of North Carolina at 
+Chapel Hill, Chapel Hill, North Carolina, USA.
+(5)Department of Nutrition, Gillings School of Public Health, University of 
+North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA.
+
+OBJECTIVE: To explore the effects of essential amino acid (EAA) supplementation 
+on high-intensity interval training (HIIT) fatigue, perceived exertion, and 
+training progression in overweight and obese adults. A secondary aim was to 
+explore potential sex-differences on these outcomes.
+METHODS: Thirty-seven untrained adults (51% female; 36.2 ± 5.9 yrs; 35.5 ± 6.7% 
+body fat) completed eight weeks of HIIT, 2d/wk on a cycle ergometer, either with 
+EAA supplementation (HIIT + EAA; 3.6 g of EAA twice daily, 30 minutes pre and 
+post HIIT) or without supplementation (HIIT). Heart rate (HR) and ratings of 
+perceived exertion (RPE) were recorded throughout each session as indices of 
+within training fatigue. Time to exhaustion (TTE) was recorded for the final 
+interval of each session. Workload progression was determined by change in 
+watts. Differences between groups (with and without EAA) were evaluated at 1wk, 
+4wks, and 8wks by repeated measure ANOVAs (α = 0.05).
+RESULTS: There were no differences in TTE (p = 0.983) or workload progression 
+(p = 0.655) with EAA supplementation at any time point. HR and RPE within HIIT 
+sessions were not significantly different with EAA supplementation at any time 
+point (p > 0.05). Results were similar when evaluating males and females 
+separately, but in females, RPE was significantly lower with EAA supplementation 
+at 4wks (Δ: 1.1-2.2; p = 0.016).
+CONCLUSION: EAA supplementation did not extend TTE during exercise or enhance 
+workload progression across eight weeks of HIIT in untrained, overweight and 
+obese adults. However, EAA consumed 30 minutes before exercise may reduce 
+perceived exertion during the first four weeks of training in women, which may 
+have implications for overall exercise enjoyment and long-term adherence.
+
+DOI: 10.1080/07315724.2022.2060373
+PMID: 35512775 [Indexed for MEDLINE]

@@ -1,0 +1,65 @@
+1. Mayo Clin Proc. 2023 Feb;98(2):229-238. doi: 10.1016/j.mayocp.2022.08.013.
+Epub  2022 Oct 14.
+
+Association Between Cardiorespiratory Fitness and Incident Purchase of Hypnotic 
+Drugs in Adults: The HUNT Study.
+
+Ernstsen L(1), Zotcheva E(2), Sui X(3), Engstrøm M(4), Martínez-Velilla N(5), 
+Bjerkeset O(6), Bjorvatn B(7), Havnen A(8).
+
+Author information:
+(1)Department of Public Health and Nursing, Norwegian University of Science and 
+Technology, Norway. Electronic address: linda.ernstsen@ntnu.no.
+(2)Department of Public Health and Nursing, Norwegian University of Science and 
+Technology, Norway; Department of Physical Health and Aging, Norwegian Institute 
+of Public Health, Norway.
+(3)Department of Exercise Science, Arnold School of Public Health, University of 
+South Carolina, Columbia.
+(4)Department of Neuromedicine and Movement Science, Norwegian University of 
+Science and Technology, Norway; Department of Neurology and Clinical 
+Neurophysiology, St. Olavs Hospital, Trondheim University Hospital, Norway.
+(5)Geriatrics Unit, Navarrabiomed, Hospital Universitario de Navarra 
+(HUN)-Universidad Pública de Navarra (UPNA), IdiSNA, Pamplona, Spain.
+(6)Department of Mental Health, Faculty of Medicine and Health Sciences, 
+Norwegian University of Science and Technology, Norway; Faculty of Nursing and 
+Health Sciences, Nord University, Levanger, Norway.
+(7)Norwegian Competence Center for Sleep Disorders, Haukeland University 
+Hospital, Bergen, Norway; Department of Global Public Health and Primary Care, 
+University of Bergen, Bergen, Norway.
+(8)Department of Psychology, Norwegian University of Science and Technology, 
+Norway; Division of Psychiatry, St. Olavs Hospital, Trondheim University 
+Hospital, Norway.
+
+Comment in
+    Mayo Clin Proc. 2023 Feb;98(2):216-219.
+
+OBJECTIVE: To assess whether cardiorespiratory fitness (CRF) is associated with 
+first purchase of a prescribed hypnotic drug in the adult population.
+METHODS: A total of 34,357 adult participants (53.9% women) with a mean age of 
+51.5 years (SD 15.6 years) from the third Trøndelag Health Study (HUNT) of 2006 
+to 2008 were observed until January 1, 2018. Cardiorespiratory fitness was 
+estimated from a validated nonexercise algorithm. Data on first hypnotics 
+prescription were obtained through linkage to the National Norwegian 
+Prescription Database. Cox regression with 95% CIs was used to estimate hazard 
+ratios (HRs).
+RESULTS: After 304,899 person-years of follow-up, 5791 participants had their 
+first registered purchase of prescribed hypnotics, corresponding to an incidence 
+rate of 1.90 per 100 person-years. Each 1-metabolic equivalent of task increase 
+in CRF was significantly associated with 5% (HR, 0.95; 95% CI, 0.91 to 0.99; 
+P=.02) and 4% (HR, 0.96; 95% CI, 0.92 to 1.00; P=.046) risk reduction for 
+incident use of hypnotics in men and women, respectively. When CRF was 
+categorized into tertiles with lowest CRF as the reference group, reduced risk 
+was 13% (HR, 0.87; 95% CI, 0.79 to 0.96; P=.006) and 15% (HR, 0.85; 95% CI, 0.77 
+to 0.95; P=.003) for men in the intermediate and highest CRF category, 
+respectively. In women with highest CRF, the reduced risk was 5% (HR, 0.95; 95% 
+CI, 0.87 to 1.03; P=.22).
+CONCLUSION: Cardiorespiratory fitness in adulthood is associated with incident 
+purchase of prescription medication commonly used for sleep problems. These 
+findings suggest that fitness should be considered a target for preventing sleep 
+problems in adults.
+
+Copyright © 2022 Mayo Foundation for Medical Education and Research. Published 
+by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.mayocp.2022.08.013
+PMID: 36244824 [Indexed for MEDLINE]

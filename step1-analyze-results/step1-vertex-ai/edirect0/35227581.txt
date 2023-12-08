@@ -1,0 +1,71 @@
+1. Neuromodulation. 2023 Feb;26(2):364-373. doi: 10.1016/j.neurom.2022.01.015.
+Epub  2022 Feb 26.
+
+Additive Effect of Dopaminergic Medication on Gait Under Single and Dual-Tasking 
+Is Greater Than of Deep Brain Stimulation in Advanced Parkinson Disease With 
+Long-Duration Deep Brain Stimulation.
+
+Langer A(1), Lucke-Paulig L(2), Gassner L(3), Krüger R(4), Weiss D(5), 
+Gharabaghi A(6), Zach H(1), Maetzler W(7), Hobert MA(8).
+
+Author information:
+(1)Department of Neurology, Medical University of Vienna, Vienna, Austria.
+(2)Center for Neurology, Hertie Institute for Clinical Brain Research, 
+Department of Neurodegenerative Diseases, University of Tuebingen, Tuebingen, 
+Germany; Department of Endocrinology, Diabetology and Geriatrics, Stuttgart 
+General Hospital, Bad Cannstatt, Germany.
+(3)Department of Sport Physiology, Institute of Sports Sciences, University of 
+Vienna, Vienna, Austria; Royal Melbourne Institute of Technology, Melbourne, 
+Australia; HTA Austria - Austrian Institute for Health Technology Assessment 
+GmbH, Vienna, Austria.
+(4)Center for Neurology, Hertie Institute for Clinical Brain Research, 
+Department of Neurodegenerative Diseases, University of Tuebingen, Tuebingen, 
+Germany; Luxembourg Institute of Health, Strassen, Luxembourg; Luxembourg Centre 
+for Systems Biomedicine, University of Luxembourg, Esch-sur-Alzette, Luxembourg; 
+Centre Hospitalier de Luxembourg, Luxembourg, Luxembourg.
+(5)Center for Neurology, Hertie Institute for Clinical Brain Research, 
+Department of Neurodegenerative Diseases, University of Tuebingen, Tuebingen, 
+Germany.
+(6)Institute for Neuromodulation and Neurotechnology, Department of Neurosurgery 
+and Neurotechnology, University Hospital Tuebingen, University of Tuebingen, 
+Tuebingen, Germany.
+(7)Center for Neurology, Hertie Institute for Clinical Brain Research, 
+Department of Neurodegenerative Diseases, University of Tuebingen, Tuebingen, 
+Germany; Department of Neurology, Universitätsklinikum Schleswig-Holstein, 
+Campus Kiel, Christian-Albrechts-University Kiel, Kiel, Germany.
+(8)Center for Neurology, Hertie Institute for Clinical Brain Research, 
+Department of Neurodegenerative Diseases, University of Tuebingen, Tuebingen, 
+Germany; Department of Neurology, Universitätsklinikum Schleswig-Holstein, 
+Campus Kiel, Christian-Albrechts-University Kiel, Kiel, Germany. Electronic 
+address: Markus.Hobert@uksh.de.
+
+INTRODUCTION: Patients with advanced Parkinson disease (PD) often experience 
+problems with mobility, including walking under single- (ST) and dual-tasking 
+(DT) conditions. The effects of deep brain stimulation in the subthalamic 
+nucleus (DBS) versus dopaminergic medication (Med) on these conditions are not 
+well investigated.
+MATERIALS AND METHODS: We used two ST and two DT-gait paradigms to evaluate the 
+effect of DBS and dopaminergic medication on gait parameters in 14 PD patients 
+(mean age 66 ± 8 years) under DBSOFF/MedON, DBSON/MedOFF, and DBSON/MedON 
+conditions. They performed standardized 20-meter walks with convenient and fast 
+speed. To test DT capabilities, they performed a checking-boxes and a 
+subtraction task during fast-paced walking. Quantitative gait analysis was 
+performed using a tri-axial accelerometer (Dynaport, McRoberts, The 
+Netherlands). Dual-task costs (DTC) of gait parameters and secondary task 
+performance were compared intraindividually between DBSOFF/MedON vs DBSON/MedON, 
+and DBSON/MedOFF vs DBSON/MedON to estimate responsiveness.
+RESULTS: Dopaminergic medication increased gait speed and cadence at convenient 
+speed. It increased cadence and decreased number of steps at fast speed, and 
+improved DTC of cadence during the checking boxes and DTC of cadence and number 
+of steps during the subtraction tasks. DBS only improved DTC of cadence during 
+the checking boxes and DTC of gait speed during the subtraction task.
+CONCLUSION: Dopaminergic medication showed larger additional effects on temporal 
+gait parameters under ST and DT conditions in advanced PD than DBS. These 
+results, after confirmation in independent studies, should be considered in the 
+medical management of advanced PD patients with gait and DT deficits.
+
+Copyright © 2022 International Neuromodulation Society. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.neurom.2022.01.015
+PMID: 35227581 [Indexed for MEDLINE]

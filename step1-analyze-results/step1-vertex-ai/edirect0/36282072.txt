@@ -1,0 +1,42 @@
+1. Gerontology. 2023;69(1):30-36. doi: 10.1159/000522010. Epub 2022 Oct 25.
+
+Long-Term Effects of Inspiratory Muscle Training in Institutionalized Elderly 
+Women: A Double-Blind Randomized Controlled Trial.
+
+Martín-Sánchez C(1), Barbero-Iglesias FJ(1), Amor-Esteban V(2), Martín-Sánchez 
+M(3), Martín-Nogueras AM(1).
+
+Author information:
+(1)Nursing and Physiotherapy Department, University of Salamanca, Salamanca, 
+Spain.
+(2)Statistics Department, University of Salamanca, Salamanca, Spain.
+(3)University Clinical Hospital of Salamanca, University of Salamanca, 
+Salamanca, Spain.
+
+BACKGROUND: Inspiratory muscle training (IMT) has been applied to different 
+populations, but evidence in elderly women and maintenance of improvements 
+achieved during training is scarce. The objective of the study was to evaluate 
+the effectiveness of IMT 6 months after finishing the training period in elderly 
+women.
+METHODS: A controlled, randomized, double-blind trial was conducted, with 
+allocation concealment performed on 26 institutionalized elderly women 
+distributed into 2 groups: high loads and low loads. Over an 8-week period, an 
+IMT protocol was followed; later, elderly women continued for 6 months with 
+their daily normal activities. Inspiratory strength, expiratory strength, and 
+functional capacity were measured pre-IMT, post-IMT, and 6 months after 
+intervention.
+RESULTS: After an 8-week training, respiratory strength and functional capacity 
+increased in both groups. Six months after finishing the intervention, these 
+benefits were lost. Inspiratory strength decreased in the high-loads group but 
+was 32% higher than initial values (p = 0.007); in the low-loads group, patients 
+lost 41% (p = 0.015). Improvements were higher in the high-loads group after 
+training (p = 0.000) and follow-up (p = 0.002). Functional capacity was similar 
+to initial values in both groups.
+CONCLUSION: The improvements achieved with IMT in elderly women disappeared 6 
+months after the end of training. High loads were more effective to keep 
+inspiratory strength than low loads.
+
+© 2022 S. Karger AG, Basel.
+
+DOI: 10.1159/000522010
+PMID: 36282072 [Indexed for MEDLINE]

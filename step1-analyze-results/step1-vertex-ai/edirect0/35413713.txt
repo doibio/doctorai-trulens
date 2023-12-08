@@ -1,0 +1,47 @@
+1. Gerontology. 2023;69(1):37-46. doi: 10.1159/000522499. Epub 2022 Apr 12.
+
+Time Spent Away from Bed to Maintain Swallowing Function in Older Adults.
+
+Ishii M(1), Nakagawa K(1), Yoshimi K(1), Okumura T(1), Hasegawa S(1), Yamaguchi 
+K(1), Nakane A(1), Tamai T(1), Nagasawa Y(1), Yoshizawa A(1), Tohara H(1).
+
+Author information:
+(1)Division of Gerontology and Gerodontology, Department of Dysphagia 
+Rehabilitation, Tokyo Medical and Dental University (TMDU), Tokyo, Japan.
+
+INTRODUCTION: The aim of this study was to determine the associations of time 
+spent away from bed with whole-body muscle mass and swallowing function in older 
+adults with low activities of daily living (ADL).
+METHODS: This cross-sectional study was conducted at Tokyo Medical and Dental 
+University and included adults over 65 years of age who underwent a medical 
+intervention at their residence. Data regarding age, sex, body height and 
+weight, activity status, medical history, time spent away from bed, and 
+Functional Oral Intake Scale (FOIS) were collected. We calculated the body mass 
+index, Charlson Comorbidity Index, whole-body muscle mass, the appendicular 
+skeletal muscle mass index (ASMI), and the trunk muscle mass index (TMI). 
+According to the time spent away from bed, the subjects were grouped as follows: 
+<4 but ≥0 h (S), <6 but ≥4 h (M), and ≥6 h (L). These variables were analyzed 
+using the one-way analysis of variance, the Kruskal-Wallis test, and the χ2 
+test, then differences among the three groups were examined. To adjust for 
+confounding factors, we performed multiple regression analysis with ASMI and TMI 
+as the dependent variables and ordinal logistic regression analysis with FOIS as 
+the objective variable.
+RESULTS: Ninety subjects (male: n = 42; female: n = 48; mean age = 82.9 ± 8.8 
+years, and groups S: n = 23; M: n = 30; L: n = 37) were analyzed. Group L had a 
+significantly higher ASMI, TMI, and FOIS score than groups S and M, while group 
+M had a significantly higher ASMI and FOIS score than group S. After adjusting 
+for confounding factors, the significant explanatory factors for ASMI were sex, 
+activity status, time spent away from bed, and TMI. The factors for TMI were 
+activity status, time spent away from bed, ASMI, and FOIS. The factors for FOIS 
+were time spent away from bed and TMI.
+CONCLUSION: Spending 4 or more hours away from the bed is related to 
+appendicular skeletal muscle mass and FOIS, while spending 6 or more hours is 
+related to appendicular skeletal muscle mass, trunk muscle mass, and FOIS in 
+this population. These findings highlight factors that can prevent a decline in 
+swallowing function in the daily life of older adults with low ADL who have 
+difficulty performing exercises to preserve swallowing function.
+
+© 2022 S. Karger AG, Basel.
+
+DOI: 10.1159/000522499
+PMID: 35413713 [Indexed for MEDLINE]

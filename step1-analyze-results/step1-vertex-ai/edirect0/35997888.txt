@@ -1,0 +1,75 @@
+1. Geroscience. 2023 Feb;45(1):415-426. doi: 10.1007/s11357-022-00646-9. Epub
+2022  Aug 23.
+
+A metabolomic signature of the APOE2 allele.
+
+Sebastiani P(1), Song Z(2), Ellis D(3), Tian Q(4), Schwaiger-Haber M(5), 
+Stancliffe E(5), Lustgarten MS(6), Funk CC(3), Baloni P(3), Yao CH(7), Joshi 
+S(7), Marron MM(8), Gurinovich A(9), Li M(10), Leshchyk A(10), Xiang Q(2), 
+Andersen SL(11), Feitosa MF(12), Ukraintseva S(13), Soerensen M(14), Fiehn 
+O(15), Ordovas JM(16), Haigis M(7), Monti S(10)(17), Barzilai N(18), Milman 
+S(18), Ferrucci L(4), Rappaport N(3), Patti GJ(5), Perls TT(11).
+
+Author information:
+(1)Institute for Clinical Research and Health Policy Studies, Tufts Medical 
+Center, 800 Washington Street, Boston, MA, 02111, USA. 
+psebastiani@tuftsmedicalcenter.org.
+(2)Department of Biostatistics, Boston University, Boston, MA, USA.
+(3)Institute for Systems Biology, Seattle, WA, USA.
+(4)Longitudinal Studies Section, Translational Gerontology Branch, National 
+Institute On Aging, Baltimore, MD, USA.
+(5)Department of Chemistry, Department of Medicine, Center for Metabolomics and 
+Isotope Tracing, Washington University in St. Louis, St. Louis, USA.
+(6)Nutrition, Exercise Physiology, and Sarcopenia Laboratory, Jean Mayer USDA 
+Human Nutrition Research Center On Aging at Tufts University, Boston, MA, USA.
+(7)Department of Cell Biology at Harvard Medical School, Boston, MA, USA.
+(8)Department of Epidemiology, School of Public Health, University of 
+Pittsburgh, Pittsburgh, PA, USA.
+(9)Institute for Clinical Research and Health Policy Studies, Tufts Medical 
+Center, 800 Washington Street, Boston, MA, 02111, USA.
+(10)Bioinformatics Program, Boston University, Boston, MA, USA.
+(11)Department of Medicine, Boston University School of Medicine, Boston, MA, 
+USA.
+(12)Division of Statistical Genomics, Department of Genetics, Washington 
+University School of Medicine, St Louis, MI, USA.
+(13)Biodemography of Aging Research Unit, Social Science Research, Duke 
+University, Durham, NC, USA.
+(14)Epidemiology, Biostatistics and Biodemography, Department of Public Health, 
+University of Southern Denmark, Odense, Denmark.
+(15)West Coast Metabolomics Center, University of California, Davis, CA, USA.
+(16)Nutrition and Genomics Team, Jean Mayer USDA Human Nutrition Research Center 
+On Aging and Gerald J. and Dorothy R. Friedman School of Nutrition Science and 
+Policy, Tufts University, Boston, MB, USA.
+(17)Section of Computational Biomedicine, Boston University School of Medicine, 
+Boston, MA, USA.
+(18)Institute for Aging Research, Albert Einstein College of Medicine, Bronx, 
+NY, USA.
+
+With the goal of identifying metabolites that significantly correlate with the 
+protective e2 allele of the apolipoprotein E (APOE) gene, we established a 
+consortium of five studies of healthy aging and extreme human longevity with 
+3545 participants. This consortium includes the New England Centenarian Study, 
+the Baltimore Longitudinal Study of Aging, the Arivale study, the Longevity 
+Genes Project/LonGenity studies, and the Long Life Family Study. We analyzed the 
+association between APOE genotype groups E2 (e2e2 and e2e3 genotypes, N = 544), 
+E3 (e3e3 genotypes, N = 2299), and E4 (e3e4 and e4e4 genotypes, N = 702) with 
+metabolite profiles in the five studies and used fixed effect meta-analysis to 
+aggregate the results. Our meta-analysis identified a signature of 19 
+metabolites that are significantly associated with the E2 genotype group at 
+FDR < 10%. The group includes 10 glycerolipids and 4 glycerophospholipids that 
+were all higher in E2 carriers compared to E3, with fold change ranging from 
+1.08 to 1.25. The organic acid 6-hydroxyindole sulfate, previously linked to 
+changes in gut microbiome that were reflective of healthy aging and longevity, 
+was also higher in E2 carriers compared to E3 carriers. Three sterol lipids and 
+one sphingolipid species were significantly lower in carriers of the E2 genotype 
+group. For some of these metabolites, the effect of the E2 genotype opposed the 
+age effect. No metabolites reached a statistically significant association with 
+the E4 group. This work confirms and expands previous results connecting the 
+APOE gene to lipid regulation and suggests new links between the e2 allele, 
+lipid metabolism, aging, and the gut-brain axis.
+
+© 2022. The Author(s), under exclusive licence to American Aging Association.
+
+DOI: 10.1007/s11357-022-00646-9
+PMCID: PMC9886693
+PMID: 35997888 [Indexed for MEDLINE]

@@ -1,0 +1,65 @@
+1. J Gerontol A Biol Sci Med Sci. 2023 May 11;78(5):802-810. doi: 
+10.1093/gerona/glac013.
+
+Free-Living Gait Cadence Measured by Wearable Accelerometer: A Promising 
+Alternative to Traditional Measures of Mobility for Assessing Fall Risk.
+
+Urbanek JK(1)(2), Roth DL(1)(2), Karas M(3), Wanigatunga AA(4), Mitchell 
+CM(4)(5), Juraschek SP(6), Cai Y(7), Appel LJ(5)(8), Schrack JA(2)(4).
+
+Author information:
+(1)Division of Geriatric Medicine and Gerontology, Johns Hopkins School of 
+Medicine, Johns Hopkins University, Baltimore, Maryland, USA.
+(2)Center on Aging and Health, Johns Hopkins School of Medicine, Johns Hopkins 
+University, Baltimore, Maryland, USA.
+(3)Department of Biostatistics, Harvard T.H. Chan School of Public Health, 
+Boston, MA, USA.
+(4)Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, 
+Baltimore, Maryland, USA.
+(5)Welch Center for Prevention, Epidemiology, and Clinical Research, Johns 
+Hopkins University, Baltimore, Maryland, USA.
+(6)Harvard Medical School/Beth Israel Deaconess Medical Center, Boston, 
+Massachusetts, USA.
+(7)Department of Health and Community Systems, University of Pittsburgh School 
+of Nursing, Pittsburgh, PA.
+(8)Division of General Internal Medicine, Johns Hopkins School of Medicine, 
+Johns Hopkins University, Baltimore, Maryland, USA.
+
+BACKGROUND: Wearable devices have become widespread in research applications, 
+yet evidence on whether they are superior to structured clinic-based assessments 
+is sparse. In this manuscript, we compare traditional, laboratory-based metrics 
+of mobility with a novel accelerometry-based measure of free-living gait cadence 
+for predicting fall rates.
+METHODS: Using negative binomial regression, we compared traditional in-clinic 
+measures of mobility (6-minute gait cadence, speed, and distance, and 4-m gait 
+speed) with free-living gait cadence from wearable accelerometers in predicting 
+fall rates. Accelerometry data were collected with wrist-worn Actigraphs (GT9X) 
+over 7 days in 432 community-dwelling older adults (aged 77.29 ± 5.46 years, 
+59.1% men, 80.2% White) participating in the Study to Understand Fall Reduction 
+and Vitamin D in You. Falls were ascertained using monthly calendars, quarterly 
+contacts, and ad hoc telephone reports. Accelerometry-based free-living gait 
+cadence was estimated with the Adaptive Empirical Pattern Transformation 
+algorithm.
+RESULTS: Across all participants, free-living cadence was significantly related 
+to fall rates; every 10 steps per minute higher cadence was associated with a 
+13.2% lower fall rate (p = .036). Clinic-based measures of mobility were not 
+related to falls (p > .05). Among higher-functioning participants (cadence ≥100 
+steps/minute), every 10 steps per minute higher free-living cadence was 
+associated with a 27.7% lower fall rate (p = .01). In participants with slow 
+baseline gait (gait speed <0.8 m/s), all metrics were significantly associated 
+with fall rates.
+CONCLUSION: Data collected from biosensors in the free-living environment may 
+provide a more sensitive indicator of fall risk than in-clinic tests, especially 
+among higher-functioning older adults who may be more responsive to 
+intervention.
+CLINICAL TRIAL REGISTRATION: NCT02166333.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of The 
+Gerontological Society of America. All rights reserved. For permissions, please 
+e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/gerona/glac013
+PMCID: PMC10172982
+PMID: 35029661 [Indexed for MEDLINE]
+
+Conflict of interest statement: None declared.

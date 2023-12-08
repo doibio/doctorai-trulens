@@ -1,0 +1,48 @@
+1. Disabil Rehabil Assist Technol. 2023 Aug;18(6):896-903. doi: 
+10.1080/17483107.2021.1936665. Epub 2021 Jun 8.
+
+Cycling: how can we activate care-dependent older adults with a mild cognitive 
+impairment?
+
+Marinus N(1)(2), Hansen D(1)(2)(3), Feys P(1)(2), Meesen R(1), Timmermans A(1), 
+Spildooren J(1).
+
+Author information:
+(1)REVAL - Rehabilitation Research Center, Faculty of Rehabilitation Sciences, 
+Hasselt University, Diepenbeek, Belgium.
+(2)BIOMED - Biomedical Research Center, Hasselt University, Diepenbeek, Belgium.
+(3)Heart Centre Hasselt, Jessa Hospital, Hasselt, Belgium.
+
+PURPOSE: In residential care, 50% of older adults are sedentary in most of their 
+time, regardless of the positive impact of physical exercise on health. This 
+study analysed whether television images positively impact the motivation and 
+exercise intensity of cycling exercises of older adults in residential care.
+METHODS: In this randomised controlled cross-over study, 10 residential older 
+adults (mean age 85.0 ± 5.7 years) with Mild Cognitive Impairment (MCI) 
+participated in 3 different cycling exercise interventions (TV off, TV turned on 
+the National Geographic channel (NG) and TV with MemoRide software 
+(Activ84Health®, Leuven, Belgium) (MR) (cybercycling)) compared with a rest 
+condition.
+RESULTS: The participants cycled significantly more distance during NG compared 
+with TVoff (p = 0.024). In comparison to the rest condition, the mean heart rate 
+was significantly higher in all exercise conditions while the maximal heart rate 
+was only higher during NG (p = 0.022). There was no difference in the Borg scale 
+between the different exercise interventions. Interest and enjoyment scored 
+significantly higher during NG (p = 0.014) and MR (p = 0.047) compared to the 
+rest condition and in the NG versus TVoff (p = 0.018). No significant 
+differences were observed in the emotions of the participants.
+CONCLUSIONS: This study has shown indications that the addition of television 
+images may increase the exercise intensity and motivation to exercise in 
+residential older adults with MCI. However, the overall levels of physical 
+activity were insufficient to meet the recommendations for moderate-intense 
+aerobic exercise according to the International Association of Gerontology and 
+Geriatrics and Global Ageing Research Network.Implications for 
+rehabilitationCycling in front of a television increases the exercise volume and 
+motivation to exercise in residential (pre)frail older adults with 
+MCICybercycling had no additional effect in comparison to television images not 
+linked to the exercise.Even with television images (pre)frail older adults with 
+MCI did not meet the recommendations for moderate-intense aerobic exercise for 
+residential older adults according to the IAGG-GARN.
+
+DOI: 10.1080/17483107.2021.1936665
+PMID: 34102092 [Indexed for MEDLINE]

@@ -1,0 +1,49 @@
+1. Mod Rheumatol. 2023 Apr 13;33(3):435-440. doi: 10.1093/mr/roac095.
+
+Management of sarcopenia in patients with rheumatoid arthritis.
+
+Torii M(1), Itaya T(2), Minamino H(3), Katsushima M(4), Fujita Y(3), Tanaka 
+H(5), Oshima Y(5), Watanabe R(6)(7), Ito H(6)(8), Arai H(9), Hashimoto M(6)(7).
+
+Author information:
+(1)Department of Human Health Sciences, Graduate School of Medicine, Kyoto 
+University, Kyoto, Japan.
+(2)Department of Healthcare Epidemiology, Graduate School of Medicine and Public 
+Health, Kyoto University, Kyoto, Japan.
+(3)Department of Diabetes, Endocrinology and Nutrition, Graduate School of 
+Medicine, Kyoto University, Kyoto, Japan.
+(4)Department of Rheumatology and Clinical Immunology, Graduate School of 
+Medicine, Kyoto University, Kyoto, Japan.
+(5)Rehabilitation Unit, Kyoto University Hospital, Kyoto, Japan.
+(6)Department of Advanced Medicine for Rheumatic Diseases, Graduate School of 
+Medicine, Kyoto University, Kyoto, Japan.
+(7)Department of Clinical Immunology, Graduate School of Medicine, Osaka 
+Metropolitan University, Osaka, Japan.
+(8)Department of Orthopaedic Surgery, Kurashiki Central Hospital, Okayama, 
+Japan.
+(9)National Center for Geriatrics and Gerontology, Aichi, Japan.
+
+This review summarizes the evidence for the management of sarcopenia in patients 
+with rheumatoid arthritis (RA) in terms of drugs, exercise, and nutrition. 
+Sarcopenia is a decrease in skeletal muscle mass and muscle strength or physical 
+function. The prevalence of sarcopenia in patients with RA is higher than that 
+in the general population. The treatment and management of sarcopenia in 
+patients with RA are clinically important for long-term prognosis. One of the 
+mechanisms of muscle metabolism is the pro-inflammatory cytokine pathway, which 
+involves tumour necrosis factor α and interleukin-6, and is a common pathway in 
+the pathogenesis of RA. Thus, tumour necrosis factor α and interleukin-6 
+inhibitors may play a potential role in controlling sarcopenia. In exercise 
+therapy, a combination of moderate resistance and aerobic exercise may be 
+effective in improving muscle strength, muscle mass, and physical function; 
+however, intense exercise may exacerbate the inflammatory response in RA. 
+Regarding nutrition, protein intake is generally considered beneficial, but 
+other nutrients such as vitamin D and carotenoids have also been studied. 
+Overall, there remains a lack of concrete evidence on sarcopenia treatment and 
+management in patients with RA from any perspective; more longitudinal and 
+intervention studies are needed in the future.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of Japan 
+College of Rheumatology.
+
+DOI: 10.1093/mr/roac095
+PMID: 35986513 [Indexed for MEDLINE]

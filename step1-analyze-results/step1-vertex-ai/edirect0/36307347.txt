@@ -1,0 +1,54 @@
+1. Am J Cardiol. 2023 Jan 1;186:170-175. doi: 10.1016/j.amjcard.2022.09.022. Epub
+ 2022 Oct 25.
+
+Associations of Cardiorespiratory Fitness With Estimated Remnant Cholesterol and 
+Non-High-Density Lipoprotein Cholesterol in Healthy Men.
+
+Jae SY(1), Kim HJ(2), Kunutsor SK(3), Bunsawat K(4), Kurl S(5), Laukkanen JA(6), 
+Choi YH(7).
+
+Author information:
+(1)Department of Sport Science, University of Seoul, Seoul, Republic of Korea; 
+Department of Urban Big Data Convergence, University of Seoul, Seoul, Republic 
+of Korea. Electronic address: syjae@uos.ac.kr.
+(2)Department of Sport Science, University of Seoul, Seoul, Republic of Korea.
+(3)National Institute for Health Research Bristol Biomedical Research Centre, 
+University Hospitals Bristol and Weston NHS Foundation Trust and the University 
+of Bristol, Bristol, United Kingdom; Translational Health Sciences, Bristol 
+Medical School, University of Bristol, Learning & Research Building (Level 1), 
+Southmead Hospital, Bristol, United Kingdom.
+(4)Department of Internal Medicine, Division of Geriatrics, University of Utah, 
+Salt Lake City, Utah.
+(5)Institute of Clinical Medicine, Department of Medicine, University of Eastern 
+Finland, Kuopio, Finland.
+(6)Institute of Clinical Medicine, Department of Medicine, University of Eastern 
+Finland, Kuopio, Finland; Central Finland Health Care District Hospital 
+District, Department of Medicine, Jyväskylä, Finland.
+(7)Center for Health Promotion, Samsung Medical Center, Sungkyunkwan University 
+School of Medicine, Seoul, South Korea.
+
+Remnant cholesterol (RC) and non-high-density lipoprotein cholesterol 
+(non-HDL-C) may contribute to the residual risk for atherosclerotic 
+cardiovascular disease. High cardiorespiratory fitness (CRF) is associated with 
+favorable traditional lipid profiles, but its relation with RC and non-HDL-C 
+remains unclear. We analyzed cross-sectional data on 4,613 healthy men (mean age 
+49 years). CRF was measured using peak oxygen uptake during incremental exercise 
+testing and categorized into quartiles. RC was estimated as total cholesterol 
+minus HDL-C and low-density lipoprotein cholesterol, and elevated RC was defined 
+as ≥38 mg/100 ml (90 percentile). Non-HDL-C was calculated as total cholesterol 
+minus HDL-C, and high non-HLD-C was defined as ≥190 mg/100 ml. CRF was inversely 
+associated with RC (β -0.31, 95% confidence interval [CI] -0.39 to -0.24) and 
+non-HDL-C (β -0.34, 95% CI -0.57 to -0.11) after adjustment for several risk 
+factors. Each metabolic equivalent increment in CRF was associated with lower 
+odds of having elevated RC (odds ratio [OR] 0.85, 95% CI 0.77 to 0.93) and 
+non-HDL-C (OR 0.93, 95% CI 0.85 to 1.00) in multivariable analysis. Compared 
+with the bottom quartile, the top quartile of CRF had significantly lower odds 
+of elevated RC (OR 0.63, 95% CI 0.45 to 0.88) and non-HDL-C (OR 0.68, 95% CI 
+0.51 to 0.91). In conclusion, higher CRF was independently associated with lower 
+levels of RC and non-HDL-C and lower odds of the prevalence of elevated RC and 
+non-HDL-C in healthy men.
+
+Copyright © 2022 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.amjcard.2022.09.022
+PMID: 36307347 [Indexed for MEDLINE]

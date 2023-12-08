@@ -1,0 +1,51 @@
+1. Am J Phys Med Rehabil. 2023 Apr 1;102(4):323-330. doi: 
+10.1097/PHM.0000000000002097. Epub 2022 Sep 23.
+
+Efficacy of Prehabilitation Before Cardiac Surgery: A Systematic Review and 
+Meta-analysis.
+
+Steinmetz C(1), Bjarnason-Wehrens B, Walther T, Schaffland TF, Walther C.
+
+Author information:
+(1)From the Department of Geriatrics, University Medical Center Göttingen, Georg 
+August University, Göttingen, Germany (CS); Institute of Cardiology and Sports 
+Medicine, Department Preventive and Rehabilitative Sport and Exercise Medicine, 
+German Sport University, Cologne, Germany (BBW); Department of Cardiothoracic 
+Surgery, University of Frankfurt, Frankfurt am Main, Germany (TW); Methods 
+Center Tübingen, University of Tübingen, Tübingen, Germany (TFS); and 
+Cardiovascular Centrum Bethanien, Department of Cardiology, Frankfurt am Main, 
+Germany (CW).
+
+OBJECTIVE: Patients awaiting cardiac surgery seem to benefit from exercise-based 
+prehabilitation, but the impact on different perioperative outcomes compared 
+with standard care is still unclear.
+DESIGN: Eligible nonrandomized/randomized controlled studies investigating the 
+impact of exercise-based prehabilitation in adults scheduled for elective 
+cardiac surgery were searched on December 16, 2020, from electronic databases, 
+including MEDLINE, CENTRAL, and CINAHL. The data were pooled and a meta-analysis 
+was conducted.
+RESULTS: Of 1490 abstracts, six studies ( n = 665) were included into the review 
+and meta-analysis. At postintervention interval and at postsurgery interval, 
+6-min-walking distance improved significantly in exercise-based prehabilitation 
+group compared with controls (mean difference, 75.4 m; 95% confidence interval, 
+13.7 to 137.1 m, P = 0.02, and 30.5 m, 95% confidence interval, 8.5 to 52.6 m, P 
+= 0.007, respectively). Length of hospital stay was significantly shorter in 
+exercise-based prehabilitation group (mean difference, -1.00 day; 95% confidence 
+interval, -1.78 to -0.23 day, P = 0.01). Participation in exercise-based 
+prehabilitation revealed a significant decrease in the risk of postoperative 
+atrial fibrillation in patients 65 yrs or younger (risk ratio, 0.34; 95% 
+confidence interval, 0.14 to 0.83, P = 0.02).
+CONCLUSIONS: The participation in exercise-based prehabilitation significantly 
+improves postintervention and postsurgery 6-min walking distance, length of 
+hospital stay, and decreases the risk of postoperative atrial fibrillation in 
+patients 65 yrs or younger compared with controls.
+
+Copyright © 2022 The Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/PHM.0000000000002097
+PMCID: PMC10010695
+PMID: 36149383 [Indexed for MEDLINE]
+
+Conflict of interest statement: Financial disclosure statements have been 
+obtained, and no conflicts of interest have been reported by the authors or by 
+any individuals in control of the content of this article.

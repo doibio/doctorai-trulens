@@ -1,0 +1,50 @@
+1. Aging Clin Exp Res. 2023 Jan;35(1):147-153. doi: 10.1007/s40520-022-02256-z. 
+Epub 2022 Oct 21.
+
+Associations between Active Mobility Index and objectively measured physical 
+activity among older adults.
+
+Kurita S(1), Doi T(2), Tsutsumimoto K(2), Nakakubo S(2), Kiuchi Y(2)(3), 
+Nishimoto K(2)(4), Shimada H(2).
+
+Author information:
+(1)Department of Preventive Gerontology, Center for Gerontology and Social 
+Science, Research Institute, National Center for Geriatrics and Gerontology, 
+7-430 Morioka-choAichi, Obu, 474-8511, Japan. kuritoshi@ncgg.go.jp.
+(2)Department of Preventive Gerontology, Center for Gerontology and Social 
+Science, Research Institute, National Center for Geriatrics and Gerontology, 
+7-430 Morioka-choAichi, Obu, 474-8511, Japan.
+(3)Graduate School of Health Sciences, Kagoshima University, Kagoshima, Japan.
+(4)Department of Medical Sciences, Medical Science Division, Graduate School of 
+Medicine, Science and Technology, Shinshu University, Nagano, Japan.
+
+BACKGROUND: Active mobility index (AMI) is a questionnaire to assess going-out 
+behavior with physical and social activity. The association between AMI scores 
+and objectively measured physical activity (PA) in older adults is unknown.
+METHODS: Community-dwelling older adults aged ≥ 70 years participated in an 
+examination and wore a triaxial accelerometer for seven or more days. The 
+accelerometer measured the time of moderate-to-vigorous intensity PA (MVPA) and 
+light intensity PA (LPA), and step counts. The AMI assessed life space (distance 
+from the respondent's home: < 1, 1-10, or > 10 km) and related activities during 
+the previous month. The AMI total, physical, and social scores were calculated.
+RESULTS: The analyzed data were 2499 participants (mean age: 75.5 ± 4.0 years; 
+54.4% female). Comparing PA among quartile groups of each AMI score, higher AMI 
+total and physical score groups were associated with higher MVPA, LPA, and step 
+counts (all P < 0.01). The Q4 group of AMI social scores showed significantly 
+higher LPA and step counts than the Q1 and Q2 groups (P < 0.01). The logistic 
+regression model showed higher score groups of AMI total and physical scores 
+associated with increased adjusted odds ratio (aOR) of meeting recommended PA, 
+≥ 150 min/week of MVPA.
+CONCLUSIONS: Older adults with higher AMI total and physical scores, engaged in 
+more PA. Future studies can use the present findings when estimating PA in older 
+adults from AMI scores and examining the association between AMI scores and 
+health outcomes.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s40520-022-02256-z
+PMCID: PMC9816222
+PMID: 36269548 [Indexed for MEDLINE]
+
+Conflict of interest statement: SK, TD, KT, SN, YK, KN, and HS declare that they 
+have no conflicts of interest.

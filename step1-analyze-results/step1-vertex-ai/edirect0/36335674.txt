@@ -1,0 +1,58 @@
+1. Arch Gerontol Geriatr. 2023 Feb;105:104846. doi:
+10.1016/j.archger.2022.104846.  Epub 2022 Oct 23.
+
+Serum levels of dehydroepiandrosterone sulfate are associated with a lower risk 
+of mobility-subtype frailty in older Japanese community-dwellers.
+
+Zhang S(1), Otsuka R(2), Shimokata H(3), Nishita Y(1), Tange C(1), Takemura 
+M(4), Satake S(5).
+
+Author information:
+(1)Department of Epidemiology of Aging, Research Institute, National Center for 
+Geriatrics and Gerontology, Aichi, Japan.
+(2)Department of Epidemiology of Aging, Research Institute, National Center for 
+Geriatrics and Gerontology, Aichi, Japan. Electronic address: otsuka@ncgg.go.jp.
+(3)Department of Epidemiology of Aging, Research Institute, National Center for 
+Geriatrics and Gerontology, Aichi, Japan; Graduate School of Nutritional 
+Sciences, Nagoya University of Arts and Sciences, Aichi, Japan.
+(4)Center for Frailty and Locomotive Syndrome, Hospital, National Center for 
+Geriatrics and Gerontology, Aichi, Japan.
+(5)Department of Frailty Research, Research Institute, National Center for 
+Geriatrics and Gerontology, Aichi, Japan.
+
+PURPOSE: Previous studies suggest that lower serum levels of 
+dehydroepiandrosterone sulfate (DHEA-S) are associated with physical frailty. 
+Associations with subtypes of physical frailty have not been studied. This study 
+aimed to investigate associations between serum DHEA-S levels and physical 
+frailty and its subtypes in older Japanese community-dwellers using panel data.
+METHODS: This study was conducted within the National Institute for Longevity 
+Sciences-Longitudinal Study of Aging (NILS-LSA). Repeated measurement data were 
+collected from 1,886 older community-dwellers (60-91 years). Frailty was 
+identified according to modified Cardiovascular Health Study criteria (weight 
+loss, weakness, slowness, exhaustion, low physical activity) and was classified 
+into following subtypes: mobility (weakness/slowness), non-mobility (weight 
+loss/exhaustion), and low physical activity. Associations with serum DHEA-S 
+(sex-specific tertiles [T1-T3]) were estimated by random-effects logistic 
+regression models adjusting for age, sex, education, disease history (stroke, 
+hypertension, heart disease, diabetes), smoking status, depressive symptoms, and 
+survey wave.
+RESULTS: We found an average prevalence of 6.0% for frailty (mobility subtype, 
+7.0%; non-mobility subtype, 34.8%; low physical activity subtype, 9.4%) across 
+survey waves. Mean (SD) sex-specific DHEA-S levels (μg/dL) at T1, T2, and T3 
+were 46.8 (20.8), 88.7 (28.4), and 158.0 (58.9), respectively. Compared with T1, 
+the adjusted ORs (95% CIs) for frailty were 0.69 (0.44, 1.08) for T2 and 0.50 
+(0.30, 0.83) for T3 (P trend = 0.007). The corresponding values for mobility 
+subtype were 0.80 (0.51, 1.24) for T2 and 0.55 (0.33, 0.90) for T3.
+CONCLUSION: Higher serum DHEA-S levels were associated with lower risk of 
+frailty, especially mobility-subtype frailty, in older community-dwellers.
+
+Copyright © 2022. Published by Elsevier B.V.
+
+DOI: 10.1016/j.archger.2022.104846
+PMID: 36335674 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interests The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper. The authors declare the following financial interests/personal 
+relationships which may be considered as potential competing interests.

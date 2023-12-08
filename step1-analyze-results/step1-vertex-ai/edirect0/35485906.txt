@@ -1,0 +1,42 @@
+1. Alzheimers Dement. 2023 Feb;19(2):532-548. doi: 10.1002/alz.12666. Epub 2022
+Apr  29.
+
+Longitudinal changes in cerebral blood flow and their relation with cognitive 
+decline in patients with dementia: Current knowledge and future directions.
+
+Weijs RWJ(1), Shkredova DA(1)(2), Brekelmans ACM(1), Thijssen DHJ(1)(3), 
+Claassen JAHR(4).
+
+Author information:
+(1)Department of Physiology, Radboud Institute for Health Sciences, Radboud 
+University Medical Center, Nijmegen, the Netherlands.
+(2)Centre for Heart, Lung, and Vascular Health, School of Health and Exercise 
+Sciences, University of British Columbia Okanagan, Kelowna, British Columbia, 
+Canada.
+(3)Research Institute for Sport and Exercise Science, Liverpool John Moores 
+University, Liverpool, UK.
+(4)Department of Geriatrics, Radboud UMC Alzheimer's Center, Donders Institute 
+for Brain, Cognition and Behaviour, Radboud University Medical Center, Nijmegen, 
+the Netherlands.
+
+The pathophysiology underlying cognitive decline is multifactorial, with 
+increasing literature suggesting a role for cerebrovascular health. Cerebral 
+blood flow (CBF) is an important element of cerebrovascular health, which raises 
+questions regarding the relation between CBF and cognitive decline. 
+Cross-sectional studies demonstrate lower CBF in patients with cognitive decline 
+compared to healthy age-matched peers. Remarkably, longitudinal studies do not 
+support a link between CBF reductions and cognitive decline. These studies, 
+however, are often limited by small sample sizes and may therefore be 
+underpowered to detect small effect sizes. Therefore, through a systematic 
+review and meta-analysis of longitudinal studies, we examined whether 
+longitudinal changes in global CBF are related to cognitive decline in subjects 
+with Alzheimer's disease, and qualitatively described findings on regional CBF. 
+Considering the growing impact of dementia and the lack of treatment options, it 
+is important to understand the role of CBF as a prognostic biomarker and/or 
+treatment target in dementia.
+
+© 2022 The Authors. Alzheimer's & Dementia published by Wiley Periodicals LLC on 
+behalf of Alzheimer's Association.
+
+DOI: 10.1002/alz.12666
+PMID: 35485906 [Indexed for MEDLINE]

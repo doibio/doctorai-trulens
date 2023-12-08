@@ -1,0 +1,37 @@
+1. Neuropsychol Dev Cogn B Aging Neuropsychol Cogn. 2023 Jul;30(4):654-667. doi: 
+10.1080/13825585.2022.2071414. Epub 2022 May 4.
+
+Impact of cardiovascular risk factors on the relationships of physical activity 
+with mood and cognitive function in a diverse sample.
+
+Minto LR(1), Ellis R(2), Cherry KE(3), Wood RH(4), Barber SJ(1)(5), Carter S(1), 
+Dotson VM(1)(5).
+
+Author information:
+(1)Department of Psychology, Georgia State University, Atlanta, Georgia, United 
+States.
+(2)Department of Kinesiology & Health, Georgia State University, Atlanta, 
+Georgia, United States.
+(3)Department of Psychology, Louisiana State University, Baton Rouge, Louisiana, 
+United States.
+(4)School of Allied Health Science, Boise State University, Boise, Idaho, United 
+States.
+(5)Gerontology Institute, Georgia State University, Atlanta, Georgia, United 
+States.
+
+Physical activity has well-known benefits for older adults' mood and cognitive 
+functioning; however, it is not clear whether risk factors for cardiovascular 
+disease (CVD) affect the relationships of physical activity with these health 
+outcomes among diverse older adults. This study investigated the impact of CVD 
+risk burden on the relationships among self-reported physical activity, mood, 
+and cognitive functioning in a diverse sample of 62 adults age 45 and older. We 
+found that higher physical activity was associated with better attention and 
+verbal working memory at lower CVD risk, but with worse attention and verbal 
+working memory at higher CVD risk levels. Thus, higher CVD risk might limit the 
+effectiveness of exercise interventions for mood and cognitive functioning. 
+Future studies are needed to further clarify individual differences that impact 
+the relationships among physical activity, CVD risk, and cognitive outcomes.
+
+DOI: 10.1080/13825585.2022.2071414
+PMCID: PMC10461536
+PMID: 35510295 [Indexed for MEDLINE]

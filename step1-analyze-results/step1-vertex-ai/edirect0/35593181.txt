@@ -1,0 +1,55 @@
+1. Eur J Sport Sci. 2023 Jun;23(6):955-963. doi: 10.1080/17461391.2022.2078741. 
+Epub 2022 Jun 13.
+
+Genetic polymorphisms related to muscular strength and flexibility are 
+associated with artistic gymnastic performance in the Japanese population.
+
+Kumagai H(1)(2), Kaneko T(3), Shintake Y(1)(4), Miyamoto-Mikami E(1), Tomita 
+H(1), Fukuo M(1), Kawai W(1), Harada M(1), Kikuchi N(5), Kamiya N(6), Hirata 
+K(7), Zempo H(8), Maeda S(4)(7), Miyamoto N(1), Fuku N(1).
+
+Author information:
+(1)Graduate School of Health and Sports Science, Juntendo University, Chiba, 
+Japan.
+(2)The Leonard Davis School of Gerontology, University of Southern California, 
+Los Angeles, USA.
+(3)Graduate School of Comprehensive Human Sciences, University of Tsukuba, 
+Ibaraki, Japan.
+(4)Faculty of Health and Sport Sciences, University of Tsukuba, Ibaraki, Japan.
+(5)Department of Training Science, Nippon Sport Science University, Tokyo, 
+Japan.
+(6)Faculty of Budo and Sport Studies, Tenri University, Nara, Japan.
+(7)Faculty of Sport Sciences, Waseda University, Saitama, Japan.
+(8)Faculty of Health and Nutrition, Tokyo Seiei College, Tokyo, Japan.
+
+This study aimed to examine how genetic polymorphisms related to muscular 
+strength and flexibility influence artistic gymnastic performance in an attempt 
+to identify a novel polymorphism associated with flexibility. In study 1, the 
+passive straight-leg-raise (PSLR) score and aromatase gene CYP19A1 rs936306 
+polymorphism, a key enzyme for estrogen biosynthesis, were assessed in 278 
+individuals. In study 2, athletes (281 gymnasts and 1908 other athletes) were 
+asked about their competition level, and gymnasts were assessed using the 
+difficulty score (D-score) for each event. Muscular strength- (ACTN3 R577X 
+rs1815739 and ACE I/D rs4341) and flexibility-related (ESR1 rs2234693 T/C and 
+CYP19A1 rs936306 C/T) genetic polymorphisms were analyzed. In study 1, males 
+with the CYP19A1 CT + TT genotype showed significantly higher PSLR scores than 
+those with the CC genotype. In study 2, male gymnasts with the R allele of ACTN3 
+R577X showed a correlation with the floor, rings, vault, and total D-scores. In 
+addition, male gymnasts with the C allele of ESR1 T/C and T allele of CYP19A1 
+C/T polymorphisms were correlated with the pommel horse, parallel bars, 
+horizontal bar, and total D-scores. Furthermore, genotype scores of these three 
+polymorphisms correlated with the total D-scores and competition levels in male 
+gymnasts. In contrast, no such associations were observed in female gymnasts. 
+Our findings suggest that muscular strength- and flexibility-related 
+polymorphisms play important roles in achieving high performance in male 
+artistic gymnastics by specifically influencing the performance of events that 
+require muscular strength and flexibility, 
+respectively.HighlightsEstrogen-related CYP19A1 polymorphism is a novel 
+determinant of flexibility in males.Muscular strength- and flexibility-related 
+polymorphisms play important roles in high performance in male artistic 
+gymnastics.Genotypes of ACTN3 R577X, ESR1 rs2234693, and CYP19A1 rs936306 may 
+contribute to training plan optimization and event selection in artistic 
+gymnastics.
+
+DOI: 10.1080/17461391.2022.2078741
+PMID: 35593181 [Indexed for MEDLINE]

@@ -1,0 +1,62 @@
+1. Am Heart J. 2023 Feb;256:85-94. doi: 10.1016/j.ahj.2022.11.002. Epub 2022 Nov 
+11.
+
+Physical activity and relationship to physical function, quality of life, and 
+cognitive function in older patients with acute decompensated heart failure.
+
+Nelson MB(1), Shiroma EJ(2), Kitzman DW(3), Duncan PW(4), Reeves GR(5), Whellan 
+DJ(6), Mentz RJ(7), Chen H(8), Pastva AM(9).
+
+Author information:
+(1)Department of Internal Medicine, Section on Cardiovascular Medicine, Wake 
+Forest School of Medicine, Winston-Salem, NC.
+(2)Laboratory of Epidemiology and Population Sciences, National Institute on 
+Aging, Baltimore, MD.
+(3)Department of Internal Medicine, Section on Cardiovascular Medicine, Wake 
+Forest School of Medicine, Winston-Salem, NC; Department of Internal Medicine, 
+Sections on Geriatrics, Wake Forest School of Medicine, Winston-Salem, NC.
+(4)Department of Neurology, Wake Forest School of Medicine, Winston-Salem, NC.
+(5)Novant Health Heart and Vascular Institute, Charlotte, NC.
+(6)Department of Medicine, Sidney Kimmel Medical College at Thomas Jefferson 
+University, Philadelphia, PA.
+(7)Department of Medicine, Division of Cardiology, Duke University School of 
+Medicine, Durham, NC.
+(8)Department of Biostatistics and Data Science, Wake Forest School of Medicine, 
+Winston-Salem, NC.
+(9)Department of Orthopaedic Surgery, Physical Therapy Division, Duke University 
+School of Medicine, Durham, NC. Electronic address: amy.pastva@duke.edu.
+
+BACKGROUND: Volitional physical activity level is predictive of a variety of 
+health outcomes, but has not been examined in patients recently hospitalized for 
+acute decompensated HF (ADHF).
+METHODS: Ten to 14 days after index hospitalization for ADHF, 93 participants 
+wore a wrist-mounted triaxial accelerometer (ActiGraph GT3X+) to objectively 
+quantify sedentary behavior, light physical activity, and moderate-to-vigorous 
+physical activity. Levels were compared to 2 groups of age-matched NHANES 
+participants: healthy and chronic, stable HF. The relationship between physical 
+activity levels and physical function [Short Physical Performance Battery 
+(SPPB)], HF-specific quality-of-life (QOL) [Kansas City Cardiomyopathy 
+Questionnaire (KCCQ)], and cognition [Montreal Cognitive Assessment (MOCA)] were 
+examined.
+RESULTS: ADHF participants accumulated a median 1,008 (IQR 896, 1,109) minutes 
+of sedentary time, 88 (57, 139) minutes of light physical activity, and 10 (6, 
+25) minutes of moderate-to-vigorous physical activity per day. Sedentary time, 
+light physical activity, or moderate-to-vigorous activity did not differ by sex 
+or EF subtype. ADHF participants spent only 9% of awake time nonsedentary, 
+compared to 34% and 27% for healthy adults and adults with chronic, stable HF, 
+respectively. Among ADHF participants, SPPB, KCCQ, and MOCA scores did not 
+differ among quartiles of total physical activity.
+CONCLUSIONS: Older patients recently hospitalized for ADHF have very low levels 
+of physical activity and high levels of sedentary time, both of which may be 
+potential targets for interventions in this high-risk population. Physical 
+activity level was not significantly associated with objectively measured 
+physical function, QOL, or cognition, suggesting that this measure provides 
+independent information regarding the patient experience of living with HF.
+TRIAL REGISTRATION: NCT02196038, 
+https://clinicaltrials.gov/ct2/show/NCT02196038.
+
+Copyright © 2022 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ahj.2022.11.002
+PMCID: PMC9840656
+PMID: 36372251 [Indexed for MEDLINE]

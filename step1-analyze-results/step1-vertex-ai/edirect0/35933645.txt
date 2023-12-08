@@ -1,0 +1,36 @@
+1. J Autism Dev Disord. 2023 Oct;53(10):3943-3957. doi:
+10.1007/s10803-022-05676-y.  Epub 2022 Aug 7.
+
+Aging on the Autism Spectrum: Physical Activity in Individuals Receiving State 
+Services in the United States.
+
+Waldron DA(1), Stokes J(2), Coyle CE(3), Kramer J(4), Dugan E(2).
+
+Author information:
+(1)Healthcare Management, Stonehill College, North Easton, MA, USA. 
+dwaldron@stonehill.edu.
+(2)Department of Gerontology, University of Massachusetts Boston, Boston, MA, 
+USA.
+(3)Center for Social and Demographic Research on Aging, University of 
+Massachusetts Boston, Boston, MA, USA.
+(4)Department of Occupational Therapy, University of Florida, Gainesville, FL, 
+USA.
+
+This study explores factors associated with participation in moderate physical 
+activity and muscle strengthening activity in adults with autism receiving state 
+services (age: 18-78 years). Researchers analyzed the National Core 
+Indicators-In Person Survey (2017-2018) data using multilevel mixed effects 
+logistic regression. Older adults on the autism spectrum engaged in both 
+moderate physical activity and muscle strengthening activity less often than 
+younger adults on the autism spectrum (OR 0.99; p < 0.05; OR 0.98; p < 0.001). 
+Individuals reportedly in fair/poor health had 50% lower odds of engaging in 
+moderate physical activity and 30% lower odds of engaging in muscle 
+strengthening compared to those in good/ excellent health (OR 0.50; p < 0.001; 
+OR 0.70; p < 0.001). Moderate physical activity/muscle strengthening initiatives 
+may help foster this group's healthy aging.
+
+© 2022. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s10803-022-05676-y
+PMID: 35933645 [Indexed for MEDLINE]

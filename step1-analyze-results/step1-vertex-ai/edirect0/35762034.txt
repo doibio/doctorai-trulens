@@ -1,0 +1,68 @@
+1. J Hum Nutr Diet. 2023 Feb;36(1):62-74. doi: 10.1111/jhn.13052. Epub 2022 Jul
+24.
+
+Children's food choices are highly dependent on patterns of parenting practices 
+and food availability at home in families at high risk for type 2 diabetes in 
+Europe: Cross-sectional results from the Feel4Diabetes study.
+
+Zannidi D(1), Karatzi K(2), Karaglani E(1), Liatis S(3), Cardon G(4), Iotova 
+V(5), Tsochev K(5), Chakarova N(6), Moreno LA(7)(8)(9), Flores-Barrantes P(7), 
+Radó S(10), Rurik I(10), Lindström J(11), Makrilakis K(3), Manios Y(1)(12); 
+Feel4Diabetes Study Group.
+
+Author information:
+(1)Department of Nutrition and Dietetics, Harokopio University of Athens, 
+Kallithea, Athens, Greece.
+(2)Laboratory of Dietetics and Quality of Life, Department of Food Science & 
+Human Nutrition, School of Food and Nutritional Sciences, Agricultural 
+University of Athens, Athens, Greece.
+(3)National and Kapodistrian University of Athens Medical School, First 
+Department of Propaedeutic Medicine, Laiko General Hospital, Athens, Greece.
+(4)Department of Movement and Sports Sciences, Ghent University, Ghent, Belgium.
+(5)Deptarture of Paediatrics, Medical University, Varna, Bulgaria.
+(6)Clinical Center of Endocrinology and Gerontology, Medical University of 
+Sofia, Sofia, Bulgaria.
+(7)Growth, Exercise, Nutrition and Development (GENUD) Research Group, 
+University of Zaragoza, Zaragoza, Spain.
+(8)Instituto Agroalimentario de Aragón (IA2), Instituto De Investigación 
+Sanitaria Aragón (IIS Aragón), Zaragoza, Spain.
+(9)CIBER Fisiopatología de la Obesidad y Nutrición, Instituto de Salud Carlos 
+III, Madrid, Spain.
+(10)Department of Family and Occupational Medicine, Faculty of Medicine, 
+University of Debrecen, Debrecen, Hungary.
+(11)Department of Public Health and Welfare, Finnish Institute for Health and 
+Welfare, Helsinki, Finland.
+(12)Institute of Agri-food and Life Sciences, Hellenic Mediterranean University 
+Research Centre, Heraklion, Greece (Agro-Health).
+
+BACKGROUND: Food parenting practices, behaviours and food availability at home 
+are associated with children's food choices; however, these associations have 
+been mainly studied for each parenting practice separately and focused mostly on 
+healthy populations. The aim of the study was to identify patterns of parenting 
+practices (including data regarding food availability at home, food and physical 
+activity-related behaviours and rewards) and to investigate their 
+cross-sectional associations with children's food choices in families at high 
+risk for type 2 diabetes (T2D).
+METHODS: Data of parents and children (n = 2278), from the Feel4Diabetes study 
+conducted in six European countries, were collected using validated 
+questionnaires. The data analysed included children's food choices, food 
+availability at home and food and physical activity-related parenting practices. 
+Four patterns of parenting practices were identified using principal component 
+analysis, and associations between those components and children's food choices 
+were assessed using adjusted, individual linear regressions.
+RESULTS: Parenting patterns focusing on unhealthy habits, such as allowing 
+unhealthy snacks and unlimited screen time, providing higher availability of 
+unhealthy foods at home, rewarding with snacks and screen time, were positively 
+associated with children's unhealthy food choices (consumption of savoury/sweet 
+snacks, fizzy drinks, etc.). The parenting patterns providing fruit/vegetables 
+at home, consuming fruit, and being physically active with the child were 
+positively associated with children's healthier food choices (consumption of 
+fruit, vegetables, whole grain cereals, etc.).
+CONCLUSIONS: Public health initiatives should focus on high-risk families for 
+T2D, assisting them to adopt appropriate parenting practices and behaviours to 
+promote healthier food choices for children.
+
+© 2022 The British Dietetic Association Ltd.
+
+DOI: 10.1111/jhn.13052
+PMID: 35762034 [Indexed for MEDLINE]

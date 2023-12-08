@@ -1,0 +1,55 @@
+1. Gerontology. 2023;69(1):73-81. doi: 10.1159/000524843. Epub 2022 May 23.
+
+Neuromuscular Aging: A Case for the Neuroprotective Effects of Dancing.
+
+Franchi MV(1)(2)(3), Badiali F(4), Sarto F(5), Müller P(6)(7), Müller 
+NG(6)(8)(9), Rehfeld K(10), Monti E(5)(4)(11), Rankin D(4), Longo S(4)(12), Lund 
+J(4), Hökelmann A(7), Narici M(5)(4)(13).
+
+Author information:
+(1)Department of Biomedical Sciences, University of Padova, Padua, Italy, 
+martino.franchi@unipd.it.
+(2)MRC-ARUK Centre for Musculoskeletal Ageing, University of Nottingham, Derby, 
+UK, martino.franchi@unipd.it.
+(3)CIR-MYO Myology Center, University of Padova, Padua, Italy, 
+martino.franchi@unipd.it.
+(4)MRC-ARUK Centre for Musculoskeletal Ageing, University of Nottingham, Derby, 
+UK.
+(5)Department of Biomedical Sciences, University of Padova, Padua, Italy.
+(6)German Center for Neurodegenrative Disseases (DZNE), Magdeburg, Germany.
+(7)Department of Internal Medicine, Division of Cardiology, Angiology and 
+Intensive Medical Care, Otto-von-Guericke University, Magdeburg, Germany.
+(8)Department of Neurology, Otto-von-Guericke University, Magdeburg, Germany.
+(9)Center for Behavioral Brain Science (CBBS), Magdeburg, Germany.
+(10)Institute for Sport Science, Otto-von-Guericke University, Magdeburg, 
+Germany.
+(11)Department of Neurosciences, Imaging and Clinical Science, University of 
+Chieti "G. D'annunzio", Chieti, Italy.
+(12)Department of Biomedical Sciences for Health, University of Milan, Milan, 
+Italy.
+(13)CIR-MYO Myology Center, University of Padova, Padua, Italy.
+
+AIM: We planned a cross-sectional investigation (study 1) and a longitudinal 
+training intervention (study 2) to investigate whether recreational dancing 
+affords greater neuroprotective effects against age-related neuromuscular 
+junction (NMJ) degeneration compared to general fitness exercise training.
+METHODS: In study 1, we recruited 19 older volunteers regularly practising 
+dancing (older dancers [OD]) and 15 recreationally physically active older 
+individuals (OA) and physical performance, muscle morphology, muscle function, 
+and NMJ stability (from serum C-terminal agrin fragment [CAF] concentration) 
+were assessed. In study 2, employing a longitudinal study design in a different 
+cohort (composed of 37 older adults), we aimed to study whether a 6-month 
+dancing intervention decreased CAF concentration compared to general fitness 
+exercise training in older adults.
+RESULTS: Our findings show that OD had a lower CAF concentration (suggesting an 
+increased NMJ stability) compared to OA. This result was accompanied by superior 
+functional performance despite no differences in muscle size. In study 2, we 
+observed a reduction in CAF concentration only in the dancing group.
+CONCLUSION: Overall, these findings suggest that dancing is an effective 
+training modality to promote neuroprotection and increase muscle function in 
+healthy older individuals.
+
+© 2022 S. Karger AG, Basel.
+
+DOI: 10.1159/000524843
+PMID: 35605581 [Indexed for MEDLINE]

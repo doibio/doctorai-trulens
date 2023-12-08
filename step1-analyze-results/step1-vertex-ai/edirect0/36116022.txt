@@ -1,0 +1,45 @@
+1. J Orthop Res. 2023 May;41(5):1070-1075. doi: 10.1002/jor.25444. Epub 2022 Sep 
+26.
+
+Predicting post-total ankle arthroplasty walking speed based on preoperative 
+gait mechanics.
+
+Renner K(1), Delaney C(2), Hill C(3), Sands L(4), Queen R(5).
+
+Author information:
+(1)Department of Orthopaedic Surgery, University of Arizona College of 
+Medicine-Tucson, Tucson, Arizona, USA.
+(2)Department of Physical Therapy, Radford University Carilion, Roanoke, 
+Virginia, USA.
+(3)Clemson University-Medical University of South Carolina Joint Bioengineering 
+Program, Charleston, South Carolina, USA.
+(4)Center for Gerontology, Virginia Tech, Blacksburg, Virginia, USA.
+(5)Department of Biomedical Engineering and Mechanics, Virginia Tech, 
+Blacksburg, Virginia, USA.
+
+Decreased walking speed is associated with impaired physical performance and 
+function in older adults. Following total ankle arthroplasty (TAA), walking 
+speed continues to be slower than age matched controls. The purpose of this 
+study was to determine if patients 1 year post-TAA can achieve walking speed 
+benchmarks and investigate if gait metrics are predictive of achieved 
+benchmarks. 191 TAA patients were recruited and assessed pre-TAA and 1 year 
+post-TAA. Kinetic and kinematic data were collected during seven self-selected 
+speed barefoot walking trials along a 30-m walkway. Receiver operator 
+curves were generated for each variable to determine threshold values needed to 
+achieve walking speeds of 0.8, 0.9, 1.1, and 1.3 m/s. Each variable's predictive 
+ability was classified according to the area under the curve. Ninety one percent 
+of participants achieved a walking speed > 0.8 m/s, 85.3% achieved ≥0.9 m/s, 
+64.9% walked at ≥1.1 m/s, and 24.1% achieved a walking speed of 1.3 m/s by 1 
+year post-TAA. Walking speed pre-TAA was the strongest predictor with ankle 
+moment, power and GRF data showing mixed results. Clinical Significance: 75.9% 
+of participants were unable to walk at 1.3 m/s-a speed indicative of safely 
+crossing a street. Variables predictive of postoperative walking speed 
+benchmarks could be useful in developing interventions for the TAA population. 
+The strongest predictor across all walking speed benchmarks was preoperative 
+walking speed. A walking speed > 0.71 m/s was predictive of achieving 0.8 m/s 1 
+year post-TAA, while >1.09 m/s predicted 1.3 m/s 1 year post-TAA.
+
+© 2022 Orthopaedic Research Society. Published by Wiley Periodicals LLC.
+
+DOI: 10.1002/jor.25444
+PMID: 36116022 [Indexed for MEDLINE]

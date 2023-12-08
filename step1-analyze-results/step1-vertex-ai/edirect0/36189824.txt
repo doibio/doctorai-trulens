@@ -1,0 +1,63 @@
+1. Sports Health. 2023 Sep-Oct;15(5):710-717. doi: 10.1177/19417381221124601.
+Epub  2022 Oct 2.
+
+Eight Weeks of Pilates Training Improves Respiratory Measures in People With a 
+History of COVID-19: A Preliminary Study.
+
+Bagherzadeh-Rahmani B(1), Kordi N(2), Haghighi AH(1), Clark CCT(3), Brazzi 
+L(4)(5), Marzetti E(6), Gentil P(7).
+
+Author information:
+(1)Department of Exercise Physiology, Faculty of Sport Sciences, Hakim Sabzevari 
+University, Sabzevar, Iran.
+(2)Department of Exercise Physiology, Faculty of Sport Sciences, Razi 
+University, Kermanshah, Iran.
+(3)Faculty of Health and Life Sciences, Coventry University, Coventry, UK.
+(4)Anestesia e Rianimaizone 1U, Department of Anesthesia, Intensive Care and 
+Emergency, 'Città della Salute e della Scienza' Hospital, Turin, Italy.
+(5)Department of Surgical Sciences, University of Turin, Turin, Italy.
+(6)Department of Geriatrics and Internal Medicine, Fondazione Policlinico 
+Universitario "Agostino Gemelli" IRCCS, Università Cattolica del Sacro Cuore, 
+Rome, Italy.
+(7)College of Physical Education and Dance, Federal University of Goiás, 
+Goiania, Brazil.
+
+BACKGROUND: Coronavirus disease 2019 (COVID-19) can result in prolonged and 
+severe damage to the lungs and quality of life (QoL). This study was designed to 
+investigate the effects of 8-week Pilates and Aqua-Pilates training on pulmonary 
+function and QoL in patients with COVID-19.
+HYPOTHESIS: Pilates and Aqua-Pilates training promotes similar changes on 
+pulmonary function and QoL in people with a history of COVID-19.
+STUDY DESIGN: Randomized controlled trial.
+LEVEL OF EVIDENCE: Level 3.
+METHODS: A total of 45 participants (24 men and 21 women) with a history of 
+COVID-19 were assigned randomly to 3 groups: Pilates training (standard 
+Pilates), Aqua-Pilates training (Pilates in water), and Control. The training 
+protocol was performed for 8 weeks (3 sessions per week). Forced vital capacity 
+(FVC), forced expiratory volume in 1 second (FEV1), and the ratio of FEV1 to the 
+FVC (FEV1/FVC) indices were measured by a spirometer. The 26-item questionnaire 
+World Health Organization Quality of Life (WHOQOL) BREF was used to assess QoL. 
+Data were analyzed using paired-sample t test and analysis of covariance with an 
+alpha level <0.05.
+RESULTS: The mean age of the participants was 49.9 ± 6.4 years. After 8 weeks of 
+Pilates and Aqua-Pilates training, there were significant increases in FVC 
+(21.4% for Pilates and 22.1% for Aqua-Pilates, P < 0.05), FEV1 (32.3% for 
+Pilates and 34.7% for Aqua-Pilates, P < 0.05), and FEV1/FVC% (9% for Pilates and 
+10.3% for Aqua-Pilates, P < 0.05) for the experimental groups, but not for 
+control. Changes for Pilates and Acqua-Pilates were significantly higher than 
+for control. The QoL scores were significantly different within and between the 
+experimental groups, with greater improvements in the Aqua Pilates group than in 
+the Pilates group.
+CONCLUSION: An 8-week Pilates or Aqua-Pilates training can improve pulmonary 
+function as much as 34%, depending on the parameter, and QoL in people with a 
+history of COVID-19. Aqua-Pilates training appears to be preferable to standard 
+Pilates.
+CLINICAL RELEVANCE: The findings provide important insights into how healthcare 
+professionals can prescribe exercise for COVID-19 survivors.
+
+DOI: 10.1177/19417381221124601
+PMCID: PMC10467481
+PMID: 36189824
+
+Conflict of interest statement: The authors report no potential conflicts of 
+interest in the development and publication of this article.

@@ -1,0 +1,85 @@
+1. Osteoporos Int. 2023 Jan;34(1):15-28. doi: 10.1007/s00198-022-06592-8. Epub
+2022  Nov 10.
+
+Exercise and the prevention of major osteoporotic fractures in adults: a 
+systematic review and meta-analysis with special emphasis on intensity 
+progression and study duration.
+
+Hoffmann I(1)(2), Kohl M(2)(3)(4), von Stengel S(1)(2)(4), Jakob F(2)(4)(5), 
+Kerschan-Schindl K(2)(4)(6), Lange U(2)(4)(7), Peters S(2)(4)(8), Schoene 
+D(1)(2)(4), Sieber C(2)(4)(9), Thomasius F(2)(4)(10), Bischoff-Ferrari 
+HA(2)(11)(12), Uder M(2)(4)(13), Kemmler W(14)(15)(16)(17).
+
+Author information:
+(1)Institute of Medical Physics, Friedrich-Alexander University 
+Erlangen-Nürnberg, Henkestrasse 91, 91052, Erlangen, Germany.
+(2)Department of Aging Medicine, University Hospital Zurich and City Hospital 
+Zurich, Zurich, Switzerland.
+(3)Department of Medicine and Life Sciences, University of Furtwangen, 
+Schwenningen, Germany.
+(4)Institute of Radiology, University Hospital Erlangen, Erlangen, Germany.
+(5)Bernhard-Heine-Center Movement Science, University of Würzburg, Würzburg, 
+Germany.
+(6)Austrian Society for Bone and Mineral Research, Vienna, Austria.
+(7)German Society for Physical and Rehabilitative Medicine, Ulm, Germany.
+(8)German Association for Health-Related Fitness and Exercise Therapy (DVGS 
+E.V.), Hürth-Efferen, Germany.
+(9)European Geriatric Medicine Society (EuGMS), Institute for Biomedicine of 
+Aging, FAU Erlangen-Nürnberg, Erlangen, Germany.
+(10)Osteology Umbrella Association Austria, Germany, Switzerland.
+(11)Department of Geriatrics and Aging Research, University Hospital of Zurich, 
+City Hospital of Zurich-Waid and University of Zurich, Zurich, Switzerland.
+(12)Centre On Aging and Mobility, University of Zurich, Zurich, Switzerland.
+(13)Research and Writing Group On Austria/Germany/Suisse S3 Guideline "Exercise 
+and Fracture Prevention" (Bone Division), Erlangen, Germany.
+(14)Institute of Medical Physics, Friedrich-Alexander University 
+Erlangen-Nürnberg, Henkestrasse 91, 91052, Erlangen, Germany. 
+wolfgang.kemmler@imp.uni-erlangen.de.
+(15)Department of Aging Medicine, University Hospital Zurich and City Hospital 
+Zurich, Zurich, Switzerland. wolfgang.kemmler@imp.uni-erlangen.de.
+(16)Institute of Radiology, University Hospital Erlangen, Erlangen, Germany. 
+wolfgang.kemmler@imp.uni-erlangen.de.
+(17)Research and Writing Group On Austria/Germany/Suisse S3 Guideline "Exercise 
+and Fracture Prevention" (Bone Division), Erlangen, Germany. 
+wolfgang.kemmler@imp.uni-erlangen.de.
+
+The role of exercise in preventing osteoporotic fractures is vague, and further 
+recommendations for optimized exercise protocols are very rare. In the present 
+work, we provided positive evidence for exercise effects on the number of 
+osteoporotic fractures in adults, albeit without observing any significant 
+relevance of intensity progression or study duration.
+INTRODUCTION: Osteoporotic fractures are a major challenge confronting our aging 
+society. Exercise might be an efficient agent for reducing osteoporotic 
+fractures in older adults, but the most promising exercise protocol for that 
+purpose has yet to be identified. The present meta-analysis thus aimed to 
+identify important predictors of the exercise effect on osteoporotic fractures 
+in adults.
+METHODS: We conducted a systematic search of six literature databases according 
+to the PRISMA guideline that included controlled exercise studies and reported 
+the number of low-trauma major osteoporotic fractures separately for exercise 
+(EG) and control (CG) groups. Primary study outcome was incidence ratio (IR) for 
+major osteoporotic fractures. Sub-analyses were conducted for progression of 
+intensity (yes vs. no) during the trial and the study duration (≤ 12 months 
+vs. > 12 months).
+RESULTS: In summary, 11 studies with a pooled number of 9715 participant-years 
+in the EG and 9592 in the CG were included. The mixed-effects conditional 
+Poisson regression revealed positive exercise effects on major osteoporotic 
+fractures (RR: 0.75, 95% CI: 0.54-0.94, p = .006). Although studies with 
+intensity progression were more favorable, our subgroup analysis did not 
+determine significant differences for diverging intensity progression (p = .133) 
+or study duration (p = .883). Heterogeneity among the trials of the subgroups 
+(I2 ≤ 0-7.1%) was negligible.
+CONCLUSION: The present systematic review and meta-analysis provided significant 
+evidence for the favorable effect of exercise on major osteoporotic fractures. 
+However, diverging study and exercise characteristics along with the close 
+interaction of exercise parameters prevented the derivation of reliable 
+recommendations for exercise protocols for fracture reductions.
+PROSPERO ID: CRD42021250467.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s00198-022-06592-8
+PMCID: PMC9813248
+PMID: 36355068 [Indexed for MEDLINE]
+
+Conflict of interest statement: None.

@@ -1,0 +1,50 @@
+1. Mod Rheumatol. 2023 Mar 2;33(2):408-415. doi: 10.1093/mr/roac009.
+
+Brief self-exercise education for adults with chronic knee pain: A randomized 
+controlled trial.
+
+Jinnouchi H(1)(2)(3)(4), Kitamura A(2)(5), Matsudaira K(6), Kakihana H(7), Oka 
+H(6), Yamagishi K(4), Kiyama M(2), Iso H(3)(4).
+
+Author information:
+(1)Department of Hygiene and Public Health, Nippon Medical School, Tokyo, Japan.
+(2)Department of Cardiovascular Disease Prevention, Osaka Center for Cancer and 
+Cardiovascular Disease Prevention, Osaka, Japan.
+(3)Department of Social Medicine, Public Health, Osaka University Graduate 
+School of Medicine, Osaka, Japan.
+(4)Department of Public Health Medicine, and Health Services Research and 
+Development Center, University of Tsukuba, Ibaraki, Japan.
+(5)Research Team for Social Participation and Community Health, Tokyo 
+Metropolitan Institute of Gerontology, Tokyo, Japan.
+(6)Department of Medical Research and Management for Musculoskeletal Pain, 22nd 
+Century Medical & Research Center, The University of Tokyo, Tokyo, Japan.
+(7)Department of Physical Therapy, Faculty of Rehabilitation, Kobe Gakuin 
+University, Kobe, Hyôgo, Japan.
+
+OBJECTIVES: Effective brief instructions for self-management of chronic knee 
+pain are needed.
+METHODS: Forty-six participants with chronic knee pain were randomly allocated 
+into two programmes: material-based education alone or brief self-exercise 
+education (brief-See), which comprised a 100-minute instruction for 
+self-exercise combined with compact pain education. Total function (KOOS4, 
+4-subscale average of knee injury and osteoarthritis outcome score), pain 
+intensity (NRS, numeric rating scale), self-efficacy (PSEQ, pain self-efficacy 
+questionnaire), and health-related quality of life (EQ-5D, European quality of 
+life-5 dimensions) were evaluated at baseline and 4 and 12 weeks after the 
+initial intervention. A generalized mixed linear model estimated average group 
+differences in changes from baseline and 95% confidence intervals (95% CIs) 
+using intention-to-treat principle.
+RESULTS: Compared to material-based education alone, the brief-See provided 
+significant additional improvements of 9.4% (95% CI: 2.3 to 16.4) on the KOOS4 
+and 5.4 points (0.3 to 10.4) on the PSEQ at 12 weeks but did not on the NRS and 
+EQ-5D. Adherence and satisfaction were favourable in the brief-See without any 
+notable adverse event.
+CONCLUSIONS: Adding the brief-See to material-based education could be more 
+acceptable and restore total function and self-efficacy, which could contribute 
+to the self-management of chronic knee pain in primary care.
+
+© Japan College of Rheumatology 2022. Published by Oxford University Press. All 
+rights reserved. For permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/mr/roac009
+PMID: 35134993 [Indexed for MEDLINE]

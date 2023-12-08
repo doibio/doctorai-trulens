@@ -1,0 +1,51 @@
+1. J Cardiovasc Transl Res. 2023 Feb;16(1):51-62. doi:
+10.1007/s12265-022-10297-y.  Epub 2022 Aug 3.
+
+Antioxidants Supplementation During Exercise: Friends or Enemies for 
+Cardiovascular Homeostasis?
+
+Wang H(1)(2), Yang Z(2), Zhang X(2), Xie J(2), Xie Y(2), Gokulnath P(3), 
+Vulugundam G(4), Xiao J(5)(6).
+
+Author information:
+(1)Institute of Geriatrics (Shanghai University), Affiliated Nantong Hospital of 
+Shanghai University (The Sixth People's Hospital of Nantong), School of 
+Medicine, Shanghai University, Nantong, 226011, China.
+(2)Cardiac Regeneration and Ageing Lab, Institute of Cardiovascular Sciences, 
+Shanghai Engineering Research Center of Organ Repair, School of Life Science, 
+Shanghai University, 333 Nan Chen Road, Shanghai, 200444, China.
+(3)Cardiovascular Division of the Massachusetts General Hospital and Harvard 
+Medical School, Boston, MA, 02114, USA.
+(4)Institute of Biochemistry and Cellular Biology, National Research Council of 
+Italy, 80131, Naples, Italy.
+(5)Institute of Geriatrics (Shanghai University), Affiliated Nantong Hospital of 
+Shanghai University (The Sixth People's Hospital of Nantong), School of 
+Medicine, Shanghai University, Nantong, 226011, China. junjiexiao@shu.edu.cn.
+(6)Cardiac Regeneration and Ageing Lab, Institute of Cardiovascular Sciences, 
+Shanghai Engineering Research Center of Organ Repair, School of Life Science, 
+Shanghai University, 333 Nan Chen Road, Shanghai, 200444, China. 
+junjiexiao@shu.edu.cn.
+
+Exercise is a preferred strategy for improving cardiac function, especially for 
+patients with cardiovascular diseases. Increasing evidence indicates that 
+oxidative stress is involved in exercise-induced cardioprotection, while the 
+underlying mechanism remains unclear. Furthermore, the effect of antioxidant 
+supplementation during or post-exercise still exists despite divergences. To 
+explore the effect of oxidative stress and antioxidant supplementation on 
+cardiovascular homeostasis during or post-exercise, we take insights into the 
+progress of exercise-induced oxidative stress, antioxidant supplementation, and 
+cardiovascular homeostasis. In particular, antioxidants such as vitamin C or E, 
+gamma-oryzanol, and other natural antioxidants are discussed concerning 
+regulating exercise-associated oxidative stress. Additionally, our present study 
+reviewed and discussed a meta-analysis of antioxidant supplementation during 
+exercise. Overall, we take an insight into the essential biological adaptations 
+in response to exercise and the effects of antioxidant supplementation on 
+cardiac function, which aid us in giving recommendations on antioxidant 
+supplementation for exercisers and exercised people. A better understanding of 
+these issues will broaden our knowledge of exercise physiology.
+
+© 2022. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s12265-022-10297-y
+PMID: 35921051 [Indexed for MEDLINE]

@@ -1,0 +1,53 @@
+1. J Neuroimaging. 2023 Jan;33(1):94-101. doi: 10.1111/jon.13064. Epub 2022 Oct
+20.
+
+Associations between myelin water imaging and measures of fall risk and 
+functional mobility in multiple sclerosis.
+
+Edwards EM(1)(2), Stanley JA(1)(3), Daugherty AM(4)(5), Lynn J(3), Borich MR(6), 
+Fritz NE(1)(2)(7)(8).
+
+Author information:
+(1)Translational Neuroscience Program, Wayne State University, Detroit, 
+Michigan, USA.
+(2)Neuroimaging and Neurorehabilitation Laboratory, Wayne State University, 
+Detroit, Michigan, USA.
+(3)Department of Psychiatry and Behavioral Neurosciences, Wayne State 
+University, Detroit, Michigan, USA.
+(4)Department of Psychology, Wayne State University, Detroit, Michigan, USA.
+(5)Institute of Gerontology, Wayne State University, Detroit, Michigan, USA.
+(6)Division of Physical Therapy, Department of Rehabilitation Medicine, Emory 
+University School of Medicine, Atlanta, Georgia, USA.
+(7)Department of Health Care Sciences, Wayne State University, Detroit, 
+Michigan, USA.
+(8)Department of Neurology, Wayne State University, Detroit, Michigan, USA.
+
+BACKGROUND AND PURPOSE: Myelin water fraction (MWF) deficits as measured by 
+myelin water imaging (MWI) have been related to worse motor function in persons 
+with multiple sclerosis (PwMS). However, it is unknown if measures from MWI 
+metrics in motor areas relate to fall risk measures in PwMS. The objective of 
+this study was to examine the relationship between MWI measures in motor areas 
+to performance on clinical measures of fall risk and disability in PwMS.
+METHODS: Sixteen individuals with relapsing-remitting MS participated (1 male, 
+15 female; age 47.1 years [12.3]; Expanded Disability Status Scale 4.0 [range 
+0-6.5]) and completed measures of walking and fall risk (Timed 25 Foot Walk 
+[T25FW] and Timed Up and Go). MWF and the geometric mean of the 
+intra-/extracellular water T2 (geomT2IEW ) values reflecting myelin content and 
+contribution of large-diameter axons/density, respectively, were assessed in 
+three motor-related regions.
+RESULTS: The geomT2IEW of the corticospinal tract (r = -.599; p = .018) and 
+superior cerebellar peduncles (r = -.613; p = .015) demonstrated significant 
+inverse relationships with T25FW, suggesting that decreased geomT2IEW was 
+related to slower walking. Though not significant, MWF in the corticospinal 
+tract and superior cerebellar peduncles also demonstrated fair relationships 
+with the T25FW, suggesting that worse performance on the T25FW was associated 
+with lower MWF values.
+CONCLUSIONS: MWI of key motor regions was associated with walking performance in 
+PwMS. Further MWI studies are needed to identify relationships between pathology 
+and clinical function in PwMS to guide targeted rehabilitation therapies aimed 
+at preventing falls.
+
+© 2022 American Society of Neuroimaging.
+
+DOI: 10.1111/jon.13064
+PMID: 36266780 [Indexed for MEDLINE]

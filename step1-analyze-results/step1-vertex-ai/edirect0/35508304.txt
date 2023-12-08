@@ -1,0 +1,40 @@
+1. J Aging Phys Act. 2022 May 4;31(1):18-25. doi: 10.1123/japa.2021-0239. Print 
+2023 Feb 1.
+
+Adherence to mHealth and Paper-Based Versions of Lifestyle-Integrated Functional 
+Exercise: A Secondary Analysis of Data From the PreventIT Feasibility Randomized 
+Controlled Trial.
+
+Yang Y(1)(2), Boulton E(1)(2), Taraldsen K(3), Mikolaizak AS(4), Pijnnaples 
+M(5), Todd C(1)(2)(6).
+
+Author information:
+(1)School of Health Sciences, Faculty of Biology, Medicine and Health, 
+University of Manchester, Manchester,United Kingdom.
+(2)Manchester Academic Health Science Centre, Manchester,United Kingdom.
+(3)Department of Physiotherapy, Faculty of Health Sciences, OsloMet- Oslo 
+Metropolitan University, Oslo,Norway.
+(4)Department of Clinical Gerontology, Robert Bosch Krankenhaus, 
+Stuttgart,Germany.
+(5)Department of Human Movement Sciences, Amsterdam Movement Sciences, Vrije 
+Universiteit Amsterdam, Amsterdam,The Netherlands.
+(6)Manchester University NHS Foundation Trust, Manchester,United Kingdom.
+
+The European Commission Horizon 2020 project-PreventIT-evaluated two approaches 
+to delivering Lifestyle-Integrated Functional Exercise (LiFE) programs for 
+maintaining older adults' physical function: the paper-based adapted LiFE and 
+mobile health device delivered enhanced LiFE. A self-reported method was used to 
+measure users' monthly adherence over 12 months. This analysis aimed to explore 
+young seniors' adherence patterns between enhanced LiFE and adapted LiFE groups. 
+Results showed that adherence level decreased with time in both groups. The 
+enhanced LiFE group had slightly higher adherence than the adapted LiFE group 
+during most of the 12 months. However, the overall adherence levels were not 
+significantly different during either intervention or follow-up periods. Monthly 
+self-reported adherence measurement can help to understand users' adherence 
+comprehensively. The comparable adherence levels between both groups indicate 
+mobile health could be an alternative to delivering home-based physical activity 
+for young seniors. However, this feasibility study was not powered to detect 
+differences between groups.
+
+DOI: 10.1123/japa.2021-0239
+PMID: 35508304 [Indexed for MEDLINE]

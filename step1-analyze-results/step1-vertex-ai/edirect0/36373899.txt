@@ -1,0 +1,45 @@
+1. Clin Rehabil. 2023 Mar;37(3):312-329. doi: 10.1177/02692155221133474. Epub
+2022  Nov 14.
+
+Effectiveness of robotic-assisted gait training on cardiopulmonary fitness and 
+exercise capacity for incomplete spinal cord injury: A systematic review and 
+meta-analysis of randomized controlled trials.
+
+Li R(1)(2), Ding M(1)(2), Wang J(1)(2), Pan H(1)(2), Sun X(1)(2), Huang L(1)(2), 
+Fu C(3)(4), He C(1)(2), Wei Q(1)(2).
+
+Author information:
+(1)Department of Rehabilitation Medicine, West China Hospital, 12530Sichuan 
+University, Chengdu, Sichuan, People's Republic of China.
+(2)Key Laboratory of Rehabilitation Medicine in Sichuan Province, Chengdu, 
+Sichuan, People's Republic of China.
+(3)National Clinical Research Center for Geriatrics, 34753West China Hospital, 
+Sichuan University, Chengdu, People's Republic of China.
+(4)Aging and Geriatric Mechanism Laboratory, West China Hospital, 12530Sichuan 
+University, Chengdu, People's Republic of China.
+
+OBJECTIVE: To determine the effects of robotic-assisted gait training on 
+cardiopulmonary fitness and exercise capacity for people with incomplete spinal 
+cord injury.
+METHODS: PubMed, Embase, Web of Science, PEDro, CENTRAL and CINAHL were searched 
+from inception until September 4, 2022. Randomized controlled trials that 
+evaluated the effects of robotic-assisted gait training on cardiopulmonary 
+fitness and exercise capacity for individuals with incomplete spinal cord injury 
+were selected. Mean differences (MD) with 95% confidence interval (CI) were 
+calculated. The methodological quality was evaluated by the Cochrane Risk of 
+Bias 2.0 tool. Subgroup analyses were conducted according to the time since 
+injury.
+RESULTS: In total 19 studies involving 770 patients were eligible for analysis. 
+Individuals with acute incomplete spinal cord injury in robotic-assisted gait 
+training groups showed significantly greater improvements in 6-minute walking 
+test (MD 53.32; 95% CI 33.49 to 73.15; P < 0.001), lower extremity motor scale 
+(MD 5.22; 95% CI 3.63 to 6.80; P < 0.001) and walking index for spinal cord 
+injury II (MD 3.18; 95% CI 1.34 to 5.02; P < 0.001). Robotic-assisted gait 
+training improved peak oxygen consumption to a greater degree for chronic 
+incomplete spinal cord injury patients (MD 4.90; 95% CI 0.96 to 8.84; P = 0.01).
+CONCLUSION: Robot-assisted gait training may be a feasible and effective 
+intervention in terms of cardiopulmonary fitness and exercise capacity for 
+individuals with incomplete spinal cord injury.
+
+DOI: 10.1177/02692155221133474
+PMID: 36373899 [Indexed for MEDLINE]

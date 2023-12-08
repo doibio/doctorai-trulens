@@ -1,0 +1,64 @@
+1. Circ Heart Fail. 2023 Feb;16(2):e010161. doi: 
+10.1161/CIRCHEARTFAILURE.122.010161. Epub 2022 Oct 31.
+
+A Randomized, Controlled Trial of Resistance Training Added to Caloric 
+Restriction Plus Aerobic Exercise Training in Obese Heart Failure With Preserved 
+Ejection Fraction.
+
+Brubaker PH(1), Nicklas BJ(2), Houston DK(2), Hundley WG(2)(3), Chen H(4), 
+Molina AJA(5), Lyles WM(2), Nelson B(6), Upadhya B(6), Newland R(6), Kitzman 
+DW(2)(6).
+
+Author information:
+(1)Department of Health and Exercise Science, Wake Forest University, 
+Winston-Salem, NC (P.H.B.).
+(2)Section on Gerontology and Geriatric Medicine, Department of Internal 
+Medicine (B.J.N., D.K.H., W.M.L., D.W.K.), Wake Forest University School of 
+Medicine, Winston-Salem, NC.
+(3)Division of Cardiology, Department of Internal Medicine, Virginia 
+Commonwealth University, Richmond (W.G.H.).
+(4)Department of Biostatistical Sciences, Division of Public Health Sciences 
+(H.C.), Wake Forest University School of Medicine, Winston-Salem, NC.
+(5)Department of Medicine, Division of Geriatrics, Gerontology and Palliative 
+Care, University of California San Diego, La Jolla (A.J.A.M.).
+(6)Section on Cardiology, Department of Internal Medicine (B.N., B.U., R.N., 
+D.W.K.), Wake Forest University School of Medicine, Winston-Salem, NC.
+
+Comment in
+    Circ Heart Fail. 2023 May;16(5):e010419.
+
+BACKGROUND: We have shown that combined caloric restriction (CR) and aerobic 
+exercise training (AT) improve peak exercise O2 consumption (VO2peak), and 
+quality-of-life in older patients with obese heart failure with preserved 
+ejection fraction. However, ≈35% of weight lost during CR+AT was skeletal muscle 
+mass. We examined whether addition of resistance training (RT) to CR+AT would 
+reduce skeletal muscle loss and further improve outcomes.
+METHODS: This study is a randomized, controlled, single-blind, 20-week trial of 
+RT+CR+AT versus CR+AT in 88 patients with chronic heart failure with preserved 
+ejection fraction and body mass index (BMI) ≥28 kg/m2. Outcomes at 20 weeks 
+included the primary outcome (VO2peak); MRI and dual X-ray absorptiometry; leg 
+muscle strength and quality (leg strength ÷ leg skeletal muscle area); and 
+Kansas City Cardiomyopathy Questionnaire.
+RESULTS: Seventy-seven participants completed the trial. RT+CR+AT and CR+AT 
+produced nonsignificant differences in weight loss: mean (95% CI): -8 (-9, -7) 
+versus -9 (-11, -8; P=0.21). RT+CR+AT and CR+AT had non-significantly 
+differences in the reduction of body fat [-6.5 (-7.2, -5.8) versus -7.4 (-8.1, 
+-6.7) kg] and skeletal muscle [-2.1 (-2.7, -1.5) versus -2.1 (-2.7, -1.4) kg] 
+(P=0.20 and 0.23, respectively). RT+CR+AT produced significantly greater 
+increases in leg muscle strength [4.9 (0.7, 9.0) versus -1.1 (-5.5, 3.2) Nm, 
+P=0.05] and leg muscle quality [0.07 (0.03, 0.11) versus 0.02 (-0.02, 0.06) 
+Nm/cm2, P=0.04]. Both RT+CR+AT and CR+AT produced significant improvements in 
+VO2peak [108 (958, 157) versus 80 (30, 130) mL/min; P=0.001 and 0.002, 
+respectively], and Kansas City Cardiomyopathy Questionnaire score [17 (12, 22) 
+versus 23 (17, 28); P=0.001 for both], with no significant between-group 
+differences. Both RT+CR+AT and CR+AT significantly reduced LV mass and arterial 
+stiffness. There were no study-related serious adverse events.
+CONCLUSIONS: In older obese heart failure with preserved ejection fraction 
+patients, CR+AT produces large improvements in VO2peak and quality-of-life. 
+Adding RT to CR+AT increased leg strength and muscle quality without attenuating 
+skeletal muscle loss or further increasing VO2peak or quality-of-life.
+REGISTRATION: URL: https://ClincalTrials.gov; Unique identifier: NCT02636439.
+
+DOI: 10.1161/CIRCHEARTFAILURE.122.010161
+PMCID: PMC9974606
+PMID: 36314122 [Indexed for MEDLINE]

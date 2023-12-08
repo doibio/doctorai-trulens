@@ -1,0 +1,69 @@
+1. Arch Gerontol Geriatr. 2023 Jan;104:104803. doi:
+10.1016/j.archger.2022.104803.  Epub 2022 Aug 31.
+
+The Japan-Multimodal Intervention Trial for Prevention of Dementia PRIME Tamba 
+(J-MINT PRIME Tamba): Study protocol of a randomised controlled multi-domain 
+intervention trial.
+
+Kumagai R(1), Osaki T(2), Oki Y(3), Murata S(4), Uchida K(5), Encho H(6), Ono 
+R(7), Kowa H(8).
+
+Author information:
+(1)Division of Cognitive and Psychiatric Rehabilitation, Department of 
+Rehabilitation Science, Kobe University Graduate School of Health Sciences, 
+7-10-2, Tomogaoka, Suma-ku, Kobe, Hyogo 654-0142, Japan.
+(2)Centre for Preventing Dementia, Kobe University Graduate School of Health 
+Sciences, 7-10-2, Tomogaoka, Suma-ku, Kobe, Hyogo 654-0142, Japan; Department of 
+Occupational Therapy, Faculty of Rehabilitation, Kobe Gakuin University, 518 
+Arise, Ikawadani-cho, Nishi-ku, Kobe, Hyogo 651-2180, Japan. Electronic address: 
+osaki@reha.kobegakuin.ac.jp.
+(3)Centre for Preventing Dementia, Kobe University Graduate School of Health 
+Sciences, 7-10-2, Tomogaoka, Suma-ku, Kobe, Hyogo 654-0142, Japan.
+(4)Centre for Preventing Dementia, Kobe University Graduate School of Health 
+Sciences, 7-10-2, Tomogaoka, Suma-ku, Kobe, Hyogo 654-0142, Japan; Department of 
+Preventive Medicine and Epidemiology, National Cerebral and Cardiovascular 
+Center Research Institute, 6-1 Kishibeshimmachi, Suita, Osaka 564-8565, Japan.
+(5)Division of Community Health Sciences, Department of Public Health, Kobe 
+University Graduate School of Health Sciences, 7-10-2, Tomogaoka, Suma-ku, Kobe, 
+Hyogo 654-0142, Japan; Department of Prevention and Care Science, Research 
+Institute, National Center for Geriatrics and Gerontology, 7-430 Morioka, Obu, 
+Aichi 474-8511, Japan.
+(6)Division of Community Health Sciences, Department of Public Health, Kobe 
+University Graduate School of Health Sciences, 7-10-2, Tomogaoka, Suma-ku, Kobe, 
+Hyogo 654-0142, Japan.
+(7)Division of Community Health Sciences, Department of Public Health, Kobe 
+University Graduate School of Health Sciences, 7-10-2, Tomogaoka, Suma-ku, Kobe, 
+Hyogo 654-0142, Japan; Department of Physical Activity Research, National 
+Institute of Health and Nutrition, National Institutes of Biomedical Innovation, 
+Health and Nutrition, 1-23-1, Toyama, Shinjyuku, Tokyo 162-8636, Japan.
+(8)Division of Cognitive and Psychiatric Rehabilitation, Department of 
+Rehabilitation Science, Kobe University Graduate School of Health Sciences, 
+7-10-2, Tomogaoka, Suma-ku, Kobe, Hyogo 654-0142, Japan. Electronic address: 
+kowa@med.kobe-u.ac.jp.
+
+The Japan-Multimodal Intervention Trial for Prevention of Dementia PRIME Tamba 
+(J-MINT PRIME Tamba) is a randomised controlled trial to prevent cognitive 
+decline in community-dwelling cognitively ordinary older people at risk of 
+dementia. Participants are aged 65-85 years living in a rural area in Japan, 
+aware of very mild decline in cognitive function or abilities of activities of 
+daily living, have at least one vascular risk (e.g. hypertension or diabetes), 
+and have a Mini-Mental State Examination score of 24 or higher. Approximately 
+200 participants are randomly divided into two groups, with the intervention 
+group receiving a multi-modal intervention, including lifestyle-related disease 
+management, physical exercise, cognitive training, and nutritional counselling, 
+over 18 months. The primary outcome is change in the composite score of seven 
+neuropsychological tests, including the Free and Cued Selective Reminding Test, 
+Logical Memory I and II subsets of the Wechsler Memory Scale-Revised, and Digit 
+Symbol Substitution Test of the Wechsler Adult Intelligence Scale. In addition, 
+changes in a wide range of other parameters such as physical function, blood 
+test results, sleep, and frailty are also analysed as secondary outcomes. We 
+believe that this study's results will contribute significantly to the 
+development of dementia prevention measures in Japan. Clinical trial 
+registration number: UMIN000041938.
+
+Copyright © 2022. Published by Elsevier B.V.
+
+DOI: 10.1016/j.archger.2022.104803
+PMID: 36088747 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest None.
