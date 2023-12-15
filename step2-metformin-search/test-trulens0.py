@@ -10,7 +10,7 @@ from trulens_eval.feedback.provider.openai import OpenAI as fOpenAI
 import numpy as np
 from trulens_eval import TruCustomApp
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "***"
 
 oai_client = OpenAI()
 
